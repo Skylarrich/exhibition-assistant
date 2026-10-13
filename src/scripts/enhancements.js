@@ -4207,6 +4207,8 @@
     return visit(containerFiber?.stateNode?.current || containerFiber);
   };
   const getCurrentResultEvents = () => {
+    const publishedEvents = window.__exhibitionAssistantEvents;
+    if (Array.isArray(publishedEvents)) return publishedEvents;
     const fiber = getAppFiber();
     for (let hook = fiber?.memoizedState; hook; hook = hook.next) {
       const value = hook.memoizedState;
@@ -4338,6 +4340,12 @@
             },
           )
         : event;
+      const openEvent = window.__exhibitionAssistantOpenEvent;
+      if (typeof openEvent === "function") {
+        openEvent({ ...event, ...detail });
+        window.scrollTo({ top: 0, behavior: "smooth" });
+        return;
+      }
       const fiber = getAppFiber();
       let hook = fiber?.memoizedState;
       for (let index = 0; hook && index < 5; index += 1) hook = hook.next;

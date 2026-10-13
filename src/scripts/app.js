@@ -29080,7 +29080,7 @@ var qf = await fetch("data/events-summary.10c06bc22177.json", {
   Q = o((e, t) => {
     t.exports = Jf();
   })(),
-  Yf = qf,
+  Yf = (window.__exhibitionAssistantEvents = qf),
   Xf = 12,
   Zf = [`SMSBoosting`, `TraffiClimb`, `GoModelHub`],
   Qf = {
@@ -29367,6 +29367,10 @@ function mp() {
     [y, b] = (0, _.useState)(1),
     [x, S] = (0, _.useState)(``),
     [, C] = (0, _.useState)(0);
+  window.__exhibitionAssistantOpenEvent = (event) => {
+    d(event);
+    p(event.brands?.[0] || `SMSBoosting`);
+  };
   (0, _.useEffect)(() => {
     let e = window.setTimeout(() => {
       let e = sp(`exhibition-assistant-favorites-v1`, []),
