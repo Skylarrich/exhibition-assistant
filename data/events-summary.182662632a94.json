@@ -16490,8 +16490,8 @@
     "featuredBrands": [],
     "type": "会议",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-07-22",
+    "end": "2026-07-25",
     "city": "待确认",
     "country": "斯里兰卡",
     "venue": "待确认",
@@ -16516,7 +16516,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000447.0b3916da55e0.json"
+    "detailPath": "data/events/EVT-000447.25264a49cb7d.json"
   },
   {
     "key": "EVT-000448",
