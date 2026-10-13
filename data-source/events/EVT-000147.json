@@ -1,0 +1,169 @@
+{
+  "key": "EVT-000147",
+  "name": "European Cyber Week 2026",
+  "brands": ["SMSBoosting"],
+  "featuredBrands": [],
+  "type": "展览",
+  "format": "现场",
+  "start": "2026-11-16",
+  "end": "2026-11-19",
+  "city": "Rennes",
+  "country": "France",
+  "venue": "Centre de conférences Couvent des Jacobins（20, Place Saint-Anne, 35000 Rennes, France）",
+  "organizer": "Pôle d'excellence cyber（PEC）及其成员",
+  "officialUrl": "https://www.european-cyber-week.eu/en",
+  "actionUrl": "https://www.european-cyber-week.eu/fr/content/formulaire-partenaire",
+  "theme": "渠道与技术生态",
+  "audience": "待确认",
+  "scale": "官网回顾 2025 届：8 500 visiteurs、130 partenaires、35 conférences、11 ateliers industriels、20+ délégations étrangères；2026 届规模截至核验日尚未公布",
+  "feeSummary": "本轮未取得可独立审计的2026官方固定门票金额。；本轮未取得2026官方固定展位报价；不能据此判断为免费或不设展位。；本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。；原因：当前项目证据没有足够的2026金额、费用类型和适用条件，不能推测价格。；下一步：向主办方索取2026 Price List/Exhibitor Prospectus/Sponsorship Deck，并确认币种、税费、包含权益、付款和取消截止。",
+  "ticketPrice": "截至核验日，官方尚未公布",
+  "boothPrice": "截至核验日，官方尚未公布",
+  "deadlineSummary": "待确认（官网字段核验完成（部分字段官方未公布））",
+  "deadlineDate": "",
+  "businessSources": "https://www.european-cyber-week.eu/fr/content/formulaire-partenaire",
+  "verificationNote": "官网首页 2025 届回顾原文（8 500 visiteurs, 130 partenaires, 35 conférences, 11 ateliers industriels, plus de 20 délégations étrangères），属往届官方口径，非 2026 届计数\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
+  "confirmationStatus": "部分确认",
+  "eventStatus": "计划举办",
+  "lastVerified": "2026-08-04",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "B",
+      "score": "60",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "目前不建议付款或安排出差。官网目前还没有足够的参会企业和人员信息，无法确认现场是否有适合SMSBoosting的客户。先拿到当前届名单，再决定是否参加。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "",
+      "secondaryPath": "",
+      "target": "",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是60分。目标客户和决策者3/5（有一定帮助）; 实际业务机会3/5（有一定帮助）; 渠道和合作伙伴3/5（有一定帮助）; 市场和竞争信息3/5（有一定帮助）; 重点地区和行程安排2/5（相关性有限）; 现场接触和后续行动2/5（相关性有限）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "部分确认",
+      "decisionDeadline": "",
+      "relevanceLevel": "",
+      "targetEvidence": "",
+      "contactMechanism": "https://www.european-cyber-week.eu/fr/content/formulaire-partenaire",
+      "verifiableOutcome": "目前不建议付款或安排出差。官网目前还没有足够的参会企业和人员信息，无法确认现场是否有适合SMSBoosting的客户。先拿到当前届名单，再决定是否参加。",
+      "strategicValue": "B",
+      "actionability": "官网字段核验完成（部分字段官方未公布）",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        { "label": "目标客户和决策者", "score": "3" },
+        { "label": "实际业务机会", "score": "3" },
+        { "label": "渠道和合作伙伴", "score": "3" },
+        { "label": "市场和竞争信息", "score": "3" },
+        { "label": "重点地区和行程安排", "score": "2" },
+        { "label": "现场接触和后续行动", "score": "2" }
+      ]
+    }
+  },
+  "locationDisplay": "Centre de conférences Couvent des Jacobins（20, Place Saint-Anne, 35000 Rennes, France）｜Rennes｜France",
+  "description": "这是一个围绕欧洲网络安全和数字防务举办的会议与展示活动。",
+  "industry": "",
+  "targetCustomers": "",
+  "sponsorshipPrice": "本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。",
+  "exhibitorIndustry": "",
+  "exhibitorList": "截至核验日，官网未公布当前届公司级参会企业/参展商目录。",
+  "verification": {
+    "progress": "官网字段核验完成（部分字段官方未公布）",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [
+      "日期",
+      "地点",
+      "规模",
+      "主办方",
+      "官方网站",
+      "关键行动链接"
+    ],
+    "unresolvedFields": [
+      {
+        "field": "门票/注册费",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "Infos pratiques 页 INSCRIPTIONS 栏目仅提供咨询邮箱（congres@hopscotchcongres.com），未公布公开注册流程或费用",
+        "source": "https://www.european-cyber-week.eu/en/content/practical-information"
+      },
+      {
+        "field": "展位费用",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "合作伙伴申请表为意向表单，未公布展位/合作伙伴价格；官网无公开价格页",
+        "source": "https://www.european-cyber-week.eu/fr/content/formulaire-partenaire"
+      },
+      {
+        "field": "赞助费用",
+        "status": "待本轮核验",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://www.european-cyber-week.eu/en"
+      },
+      {
+        "field": "参展商名单",
+        "status": "已核验：官网未公布当前届公司级名单",
+        "reason": "截至核验日，官网未公布当前届公司级参会企业/参展商目录。",
+        "source": "https://www.european-cyber-week.eu/en"
+      },
+      {
+        "field": "活动行业",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      },
+      {
+        "field": "目标客户",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      },
+      {
+        "field": "报名截止",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      },
+      {
+        "field": "参展商行业",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      }
+    ],
+    "sources": [
+      { "label": "日期来源", "url": "https://www.european-cyber-week.eu/en" },
+      {
+        "label": "地点来源",
+        "url": "https://www.european-cyber-week.eu/en/content/practical-information"
+      },
+      { "label": "地点来源", "url": "https://www.european-cyber-week.eu/en" },
+      { "label": "规模来源", "url": "https://www.european-cyber-week.eu/en" },
+      { "label": "主办方来源", "url": "https://www.european-cyber-week.eu/en" },
+      {
+        "label": "官方网站来源",
+        "url": "https://www.european-cyber-week.eu/en"
+      },
+      {
+        "label": "关键行动链接来源",
+        "url": "https://www.european-cyber-week.eu/en"
+      },
+      {
+        "label": "门票/注册费来源",
+        "url": "https://www.european-cyber-week.eu/en/content/practical-information"
+      },
+      {
+        "label": "展位费用来源",
+        "url": "https://www.european-cyber-week.eu/fr/content/formulaire-partenaire"
+      },
+      {
+        "label": "赞助费用来源",
+        "url": "https://www.european-cyber-week.eu/en"
+      },
+      {
+        "label": "参展商名单来源",
+        "url": "https://www.european-cyber-week.eu/en"
+      }
+    ],
+    "date": "2026-08-04",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": ["European Cyber Week 2026"]
+}

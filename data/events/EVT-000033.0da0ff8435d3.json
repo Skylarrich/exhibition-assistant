@@ -1,0 +1,148 @@
+{
+  "key": "EVT-000033",
+  "name": "Capacity Europe 2026",
+  "brands": [
+    "SMSBoosting"
+  ],
+  "featuredBrands": [
+    "SMSBoosting"
+  ],
+  "type": "会议",
+  "format": "现场",
+  "start": "2026-10-13",
+  "end": "2026-10-15",
+  "city": "伦敦",
+  "country": "英国",
+  "venue": "InterContinental London – The O2",
+  "organizer": "[已核验] Capacity / techoraco Limited",
+  "officialUrl": "[已核验] https://www.capacityeurope.com/",
+  "actionUrl": "https://events.capacityglobal.com/event/671b7720-d8c2-434a-9fe6-840fb1178ab0/register",
+  "theme": "欧洲连接、云、数据中心与数字基础设施交易和合作活动。",
+  "audience": "按用户统一口径统计参会企业/参展商；本次录入123家/实体，官网原始身份保留于明细。",
+  "scale": "2026官网公布：4,000+名高级决策者、200+家赞助商及参展商，预计现场形成12,500+次商务连接。",
+  "feeSummary": "观展：[已核验] Delegate Pass当前GBP 1,049；官网说明2026-07-31后涨至GBP 1,149。；参展：[截至核验日，官方尚未公布] 展商页确认可参展但无固定价格。；报名时间：2026-08-01涨价；官网另写2026-07-31价格提高，最终报名截止未公布",
+  "ticketPrice": "[已核验] Delegate Pass当前GBP 1,049；官网说明2026-07-31后涨至GBP 1,149。",
+  "boothPrice": "[截至核验日，官方尚未公布] 展商页确认可参展但无固定价格。",
+  "deadlineSummary": "2026-08-01涨价；官网另写2026-07-31价格提高，最终报名截止未公布",
+  "deadlineDate": "",
+  "businessSources": "https://www.capacityeurope.com/",
+  "verificationNote": "Capacity Europe 2026官方首页直接公布当前届规模数字。\\\\\\\\\\\\\\\\n参展价格：截至核验日，官方尚未公布；报名截止：部分已核验（来源边界冲突）\\\\\\\\\\\\\\\\n报名截止：已记录页面可确认的阶段日期；未将价格阶段或其他截止日冒充最终报名截止。",
+  "confirmationStatus": "已确认",
+  "eventStatus": "计划举办",
+  "lastVerified": "2026-07-30",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "A",
+      "score": "80",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "建议优先参加，主要适合SMSBoosting。现场主要有移动运营商、运营商、SMS聚合商、企业通信平台、企业消息平台及批发连接决策者。建议安排1人参加会议，提前预约目标公司，不购买大型展位。这次参加要争取：列出值得约见的运营商或短信服务商，讨论覆盖、路由质量、价格或合作。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "电信批发、云与数据中心",
+      "secondaryPath": "",
+      "target": "MNO、运营商、SMS聚合商、CPaaS、云、数据中心及批发连接负责人",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是80分。目标客户和决策者4/5（比较重要）; 实际业务机会4/5（比较重要）; 渠道和合作伙伴5/5（非常重要）; 市场和竞争信息4/5（比较重要）; 重点地区和行程安排3/5（有一定帮助）; 现场接触和后续行动4/5（比较重要）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "已确认",
+      "decisionDeadline": "2026-08-01",
+      "relevanceLevel": "",
+      "targetEvidence": "MNO、运营商、SMS聚合商、CPaaS、云、数据中心及批发连接负责人",
+      "contactMechanism": "https://events.capacityglobal.com/event/671b7720-d8c2-434a-9fe6-840fb1178ab0/register",
+      "verifiableOutcome": "建议优先参加，主要适合SMSBoosting。现场主要有移动运营商、运营商、SMS聚合商、企业通信平台、企业消息平台及批发连接决策者。建议安排1人参加会议，提前预约目标公司，不购买大型展位。这次参加要争取：列出值得约见的运营商或短信服务商，讨论覆盖、路由质量、价格或合作。",
+      "strategicValue": "A",
+      "actionability": "HTML字段复核已完成",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        {
+          "label": "目标客户和决策者",
+          "score": "4"
+        },
+        {
+          "label": "实际业务机会",
+          "score": "4"
+        },
+        {
+          "label": "渠道和合作伙伴",
+          "score": "5"
+        },
+        {
+          "label": "市场和竞争信息",
+          "score": "4"
+        },
+        {
+          "label": "重点地区和行程安排",
+          "score": "3"
+        },
+        {
+          "label": "现场接触和后续行动",
+          "score": "4"
+        }
+      ]
+    }
+  },
+  "locationDisplay": "InterContinental 伦敦 – The O2 · 伦敦 · 英国",
+  "description": "这是一个面向欧洲连接和数字基础设施行业的商务会议，用于洽谈云、数据中心、网络和投资合作。",
+  "industry": "电信批发、云与数据中心",
+  "targetCustomers": "MNO、运营商、SMS聚合商、CPaaS、云、数据中心及批发连接负责人",
+  "sponsorshipPrice": "[截至核验日，官方尚未公布] 赞助页列当前赞助商及询价表，无套餐金额。",
+  "exhibitorIndustry": "运营商、云、数据中心、光纤、海缆、卫星与AI基础设施",
+  "exhibitorList": "已收录 123 家/实体；名单文件：参展商名单/EVT-000033_参展商名单.xlsx",
+  "verification": {
+    "progress": "HTML字段复核已完成",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [
+      "日期",
+      "地点",
+      "规模",
+      "主办方",
+      "官方网站",
+      "关键行动链接",
+      "门票/注册费",
+      "参展商名单",
+      "活动行业",
+      "目标客户",
+      "参展商行业"
+    ],
+    "unresolvedFields": [
+      {
+        "field": "展位费用",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "booth：展商页确认可参展但无固定价格。；sponsor：赞助页列当前赞助商及询价表，无套餐金额。",
+        "source": "https://www.capacityeurope.com/"
+      },
+      {
+        "field": "赞助费用",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "booth：展商页确认可参展但无固定价格。；sponsor：赞助页列当前赞助商及询价表，无套餐金额。",
+        "source": "https://www.capacityeurope.com/"
+      },
+      {
+        "field": "报名截止",
+        "status": "部分已核验（来源边界冲突）",
+        "reason": "2026-07-30使用Chrome实际检查报名/票务入口。已记录页面可确认的阶段日期；未将价格阶段或其他截止日冒充最终报名截止。",
+        "source": "https://events.capacityglobal.com/event/671b7720-d8c2-434a-9fe6-840fb1178ab0/register"
+      }
+    ],
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://www.capacityeurope.com/"
+      },
+      {
+        "label": "参展商名单来源",
+        "url": "https://www.capacityeurope.com/involved/exhibitors"
+      },
+      {
+        "label": "报名截止来源",
+        "url": "https://events.capacityglobal.com/event/671b7720-d8c2-434a-9fe6-840fb1178ab0/register"
+      }
+    ],
+    "date": "2026-07-30",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": [
+    "Capacity Europe 2026"
+  ]
+}

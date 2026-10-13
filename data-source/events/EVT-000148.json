@@ -1,0 +1,153 @@
+{
+  "key": "EVT-000148",
+  "name": "European Peering Forum 2026",
+  "brands": ["SMSBoosting"],
+  "featuredBrands": [],
+  "type": "论坛",
+  "format": "现场",
+  "start": "2026-09-14",
+  "end": "2026-09-16",
+  "city": "Paris",
+  "country": "France",
+  "venue": "Pullman Paris Montparnasse（19 Rue du Commandant René Mouchotte, 75014 Paris, France）",
+  "organizer": "AMS-IX、DE-CIX、LINX、Netnod（联合主办）",
+  "officialUrl": "https://peering-forum.eu/2026/",
+  "actionUrl": "https://peering-forum.eu/2026/register/",
+  "theme": "直接通信与上游路由",
+  "audience": "运营商、CPaaS、企业消息、批发连接及技术合作方",
+  "scale": "官网：将迎来超过 350 名参会者（over 350 participants）",
+  "feeSummary": "本轮未取得可独立审计的2026官方固定门票金额。；当前资料未证明设置独立展位；如为会议赞助展示或会面桌，价格需另行确认。；本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。；原因：当前项目证据没有足够的2026金额、费用类型和适用条件，不能推测价格。；下一步：向主办方索取2026 Price List/Exhibitor Prospectus/Sponsorship Deck，并确认币种、税费、包含权益、付款和取消截止。",
+  "ticketPrice": "受邀制：在任一主办 IXP（AMS-IX/DE-CIX/LINX/Netnod）或客座 IXP 对等联网的组织每家 2 名代表免费（需有 PeeringDB 条目）；额外参会者 500 欧元/人（每家最多 4 人）；其他 IX 每家 1 名 500 欧元；主办方合作伙伴每家 1-2 名按 500 欧元/人；2026-08-14 后注册加收 200 欧元",
+  "boothPrice": "截至核验日，官方尚未公布",
+  "deadlineSummary": "待确认（官网字段核验完成（部分字段官方未公布））",
+  "deadlineDate": "",
+  "businessSources": "https://peering-forum.eu/2026/register/",
+  "verificationNote": "官网首页原文：we will welcome over 350 participants, including members of the organising exchanges, invited networks, and Internet Exchanges from the wider Euro-IX community（2026 届官方口径）\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
+  "confirmationStatus": "部分确认",
+  "eventStatus": "计划举办",
+  "lastVerified": "2026-08-04",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "B",
+      "score": "70",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "可以参加，但先控制费用，主要适合SMSBoosting。现场主要有运营商、企业通信平台、企业消息、批发连接及技术合作方。建议不买大型展位，提前筛选名单，安排1人观展并约见少量目标公司。这次参加要争取：列出值得约见的运营商或短信服务商，讨论覆盖、路由质量、价格或合作。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "",
+      "secondaryPath": "",
+      "target": "",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是70分。目标客户和决策者4/5（比较重要）; 实际业务机会4/5（比较重要）; 渠道和合作伙伴3/5（有一定帮助）; 市场和竞争信息3/5（有一定帮助）; 重点地区和行程安排2/5（相关性有限）; 现场接触和后续行动2/5（相关性有限）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "部分确认",
+      "decisionDeadline": "",
+      "relevanceLevel": "",
+      "targetEvidence": "",
+      "contactMechanism": "https://peering-forum.eu/2026/register/",
+      "verifiableOutcome": "可以参加，但先控制费用，主要适合SMSBoosting。现场主要有运营商、企业通信平台、企业消息、批发连接及技术合作方。建议不买大型展位，提前筛选名单，安排1人观展并约见少量目标公司。这次参加要争取：列出值得约见的运营商或短信服务商，讨论覆盖、路由质量、价格或合作。",
+      "strategicValue": "B",
+      "actionability": "官网字段核验完成（部分字段官方未公布）",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        { "label": "目标客户和决策者", "score": "4" },
+        { "label": "实际业务机会", "score": "4" },
+        { "label": "渠道和合作伙伴", "score": "3" },
+        { "label": "市场和竞争信息", "score": "3" },
+        { "label": "重点地区和行程安排", "score": "2" },
+        { "label": "现场接触和后续行动", "score": "2" }
+      ]
+    }
+  },
+  "locationDisplay": "Pullman Paris Montparnasse（19 Rue du Commandant René Mouchotte, 75014 Paris, France）｜Paris｜France",
+  "description": "这是一个面向欧洲互联网交换和网络运营社区的论坛，讨论对等互联、路由和网络基础设施合作。",
+  "industry": "",
+  "targetCustomers": "",
+  "sponsorshipPrice": "本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。",
+  "exhibitorIndustry": "",
+  "exhibitorList": "官网公布当前届公司级参会者目录（页面标注 313 名参会者，静态解析 304 条、212 家去重公司）；注册时需同意姓名/组织/ASN 公开可见。可据此生成名单文件（如需）",
+  "verification": {
+    "progress": "官网字段核验完成（部分字段官方未公布）",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [
+      "日期",
+      "地点",
+      "规模",
+      "主办方",
+      "官方网站",
+      "关键行动链接",
+      "门票/注册费"
+    ],
+    "unresolvedFields": [
+      {
+        "field": "展位费用",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "EPF 为非商业性活动，无公开展位价；注册页注明赞助名额按 package 等级（Number of people based on sponsorship package level），未公布价格",
+        "source": "https://peering-forum.eu/2026/sponsors/"
+      },
+      {
+        "field": "赞助费用",
+        "status": "待本轮核验",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://peering-forum.eu/2026/"
+      },
+      {
+        "field": "参展商名单",
+        "status": "已录入2026官方参会企业/参展商名单",
+        "reason": "官网公布当前届公司级参会者目录（页面标注 313 名参会者，静态解析 304 条、212 家去重公司）；注册时需同意姓名/组织/ASN 公开可见。可据此生成名单文件（如需）",
+        "source": "https://peering-forum.eu/2026/attendees/"
+      },
+      {
+        "field": "活动行业",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      },
+      {
+        "field": "目标客户",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      },
+      {
+        "field": "报名截止",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      },
+      {
+        "field": "参展商行业",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      }
+    ],
+    "sources": [
+      { "label": "日期来源", "url": "https://peering-forum.eu/2026/" },
+      { "label": "地点来源", "url": "https://peering-forum.eu/2026/venue/" },
+      { "label": "地点来源", "url": "https://peering-forum.eu/2026/" },
+      { "label": "规模来源", "url": "https://peering-forum.eu/2026/" },
+      { "label": "主办方来源", "url": "https://peering-forum.eu/2026/" },
+      { "label": "官方网站来源", "url": "https://peering-forum.eu/2026/" },
+      { "label": "关键行动链接来源", "url": "https://peering-forum.eu/2026/" },
+      {
+        "label": "门票/注册费来源",
+        "url": "https://peering-forum.eu/2026/register/"
+      },
+      {
+        "label": "展位费用来源",
+        "url": "https://peering-forum.eu/2026/sponsors/"
+      },
+      { "label": "赞助费用来源", "url": "https://peering-forum.eu/2026/" },
+      {
+        "label": "参展商名单来源",
+        "url": "https://peering-forum.eu/2026/attendees/"
+      }
+    ],
+    "date": "2026-08-04",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": ["European Peering Forum 2026"],
+  "exhibitorCount": 212
+}

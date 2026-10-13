@@ -1,0 +1,146 @@
+{
+  "key": "EVT-000020",
+  "name": "Submarine Networks World 2026",
+  "brands": [
+    "SMSBoosting"
+  ],
+  "featuredBrands": [],
+  "type": "会议",
+  "format": "现场",
+  "start": "2026-09-23",
+  "end": "2026-09-24",
+  "city": "新加坡",
+  "country": "新加坡",
+  "venue": "Sands Expo and Convention Centre, Level 1, Halls A & B",
+  "organizer": "[已核验] Terrapinn Pte Ltd",
+  "officialUrl": "[已核验] https://www.terrapinn.com/conference/submarine-networks-world/index.stm",
+  "actionUrl": "https://secure.terrapinn.com/V5/step1.aspx?E=11084",
+  "theme": "电信、连接、网络基础设施及行业合作相关活动。",
+  "audience": "按用户统一口径统计参会企业/参展商；本次录入84家/实体，官网原始身份保留于明细。",
+  "scale": "2026官网公布：1,000+名参会者、150+名讲者、80+家赞助商及参展商；讲者分布在7个会场。",
+  "feeSummary": "观展：[已核验] 2-Day Conference Pass：原价SGD3,495，7月31日前SGD2,745；3人以上团购7月31日前SGD2,245/人；Premium Corporate Pass 8人：原价SGD16,470，7月31日前SGD13,495；价格不含可能适用税费。；参展：[截至核验日，官方尚未公布] 官网确认80+ sponsors/exhibitors及展区，但仅提供询价入口，未显示固定展位金额。；报名时间：2026-07-31前为优惠阶段；最终报名截止未公布",
+  "ticketPrice": "[已核验] 2-Day Conference Pass：原价SGD3,495，7月31日前SGD2,745；3人以上团购7月31日前SGD2,245/人；Premium Corporate Pass 8人：原价SGD16,470，7月31日前SGD13,495；价格不含可能适用税费。",
+  "boothPrice": "[截至核验日，官方尚未公布] 官网确认80+ sponsors/exhibitors及展区，但仅提供询价入口，未显示固定展位金额。",
+  "deadlineSummary": "2026-07-31前为优惠阶段；最终报名截止未公布",
+  "deadlineDate": "",
+  "businessSources": "https://www.terrapinn.com/conference/submarine-networks-world/index.stm",
+  "verificationNote": "以上数字均出现在Submarine Networks World 2026当前届官方首页，并明确用于2026活动。\\\\\\\\\\\\\\\\n参展价格：截至核验日，官方尚未公布；报名截止：部分已核验（最终截止未公布）\\\\\\\\\\\\\\\\n报名截止：已记录页面可确认的阶段日期；未将价格阶段或其他截止日冒充最终报名截止。",
+  "confirmationStatus": "已确认",
+  "eventStatus": "计划举办",
+  "lastVerified": "2026-07-30",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "C",
+      "score": "57",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "不建议专门花较高费用参加，主要适合SMSBoosting作补充了解。现场主要有网络、基础设施、监管、技术或区域通信生态从业者，直接相关客户可能不够集中。若费用低、距离近或能和其他行程一起安排，可以先在线查看议程和名单，不急着报名；只有找到明确目标公司后再安排线下参加。主要看看能否了解市场、供应商或合规变化，并找出值得继续联系的公司。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "海底光缆与数字基础设施",
+      "secondaryPath": "",
+      "target": "海缆运营商、国际运营商、数据中心、云服务商与投资方",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是57分。目标客户和决策者2/5（相关性有限）; 实际业务机会2/5（相关性有限）; 渠道和合作伙伴3/5（有一定帮助）; 市场和竞争信息3/5（有一定帮助）; 重点地区和行程安排5/5（非常重要）; 现场接触和后续行动3/5（有一定帮助）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "已确认",
+      "decisionDeadline": "2026-07-31",
+      "relevanceLevel": "",
+      "targetEvidence": "海缆运营商、国际运营商、数据中心、云服务商与投资方",
+      "contactMechanism": "https://secure.terrapinn.com/V5/step1.aspx?E=11084",
+      "verifiableOutcome": "不建议专门花较高费用参加，主要适合SMSBoosting作补充了解。现场主要有网络、基础设施、监管、技术或区域通信生态从业者，直接相关客户可能不够集中。若费用低、距离近或能和其他行程一起安排，可以先在线查看议程和名单，不急着报名；只有找到明确目标公司后再安排线下参加。主要看看能否了解市场、供应商或合规变化，并找出值得继续联系的公司。",
+      "strategicValue": "C",
+      "actionability": "HTML字段复核已完成",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        {
+          "label": "目标客户和决策者",
+          "score": "2"
+        },
+        {
+          "label": "实际业务机会",
+          "score": "2"
+        },
+        {
+          "label": "渠道和合作伙伴",
+          "score": "3"
+        },
+        {
+          "label": "市场和竞争信息",
+          "score": "3"
+        },
+        {
+          "label": "重点地区和行程安排",
+          "score": "5"
+        },
+        {
+          "label": "现场接触和后续行动",
+          "score": "3"
+        }
+      ]
+    }
+  },
+  "locationDisplay": "Sands Expo and Convention Centre, Level 1, Halls A & B · 新加坡 · 新加坡",
+  "description": "这是一个讨论海底光缆建设、投资、运营和国际连接合作的全球行业会议。",
+  "industry": "海底光缆与数字基础设施",
+  "targetCustomers": "海缆运营商、国际运营商、数据中心、云服务商与投资方",
+  "sponsorshipPrice": "[截至核验日，官方尚未公布] 官网称方案按营销目标定制并提供询价，未显示固定价目。",
+  "exhibitorIndustry": "海缆、光纤、数据中心、云、运营商与网络设备",
+  "exhibitorList": "已收录 82 家/实体；名单文件：参展商名单/EVT-000020_参展商名单.xlsx",
+  "verification": {
+    "progress": "HTML字段复核已完成",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [
+      "日期",
+      "地点",
+      "规模",
+      "主办方",
+      "官方网站",
+      "关键行动链接",
+      "门票/注册费",
+      "参展商名单",
+      "活动行业",
+      "目标客户",
+      "参展商行业"
+    ],
+    "unresolvedFields": [
+      {
+        "field": "展位费用",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "booth：官网确认80+ sponsors/exhibitors及展区，但仅提供询价入口，未显示固定展位金额。；sponsor：官网称方案按营销目标定制并提供询价，未显示固定价目。",
+        "source": "https://secure.terrapinn.com/V5/step1.aspx?E=11084"
+      },
+      {
+        "field": "赞助费用",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "booth：官网确认80+ sponsors/exhibitors及展区，但仅提供询价入口，未显示固定展位金额。；sponsor：官网称方案按营销目标定制并提供询价，未显示固定价目。",
+        "source": "https://secure.terrapinn.com/V5/step1.aspx?E=11084"
+      },
+      {
+        "field": "报名截止",
+        "status": "部分已核验（最终截止未公布）",
+        "reason": "2026-07-30使用Chrome实际检查报名/票务入口。已记录页面可确认的阶段日期；未将价格阶段或其他截止日冒充最终报名截止。",
+        "source": "https://secure.terrapinn.com/V5/step1.aspx?E=11084"
+      }
+    ],
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://www.terrapinn.com/conference/submarine-networks-world/index.stm"
+      },
+      {
+        "label": "门票/注册费来源",
+        "url": "https://secure.terrapinn.com/V5/step1.aspx?E=11084"
+      },
+      {
+        "label": "参展商名单来源",
+        "url": "https://www.terrapinn.com/conference/submarine-networks-world/partners.stm"
+      }
+    ],
+    "date": "2026-07-30",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": [
+    "Submarine Networks World 2026"
+  ]
+}

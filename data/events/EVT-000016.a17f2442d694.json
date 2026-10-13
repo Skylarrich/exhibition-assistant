@@ -1,0 +1,159 @@
+{
+  "key": "EVT-000016",
+  "name": "PITA Strategy Forum 2026 (PITA Industry Week)",
+  "brands": [
+    "SMSBoosting"
+  ],
+  "featuredBrands": [],
+  "type": "会议",
+  "format": "现场",
+  "start": "2026-10-05",
+  "end": "2026-10-09",
+  "city": "楠迪",
+  "country": "斐济",
+  "venue": "Tanoa International Hotel",
+  "organizer": "[已核验] Pacific Islands Telecommunications Association (PITA)",
+  "officialUrl": "[已核验] https://www.pita.org.fj/events/pita-strategy-forum-2026-2/",
+  "actionUrl": "https://events.pita.org.fj/PITAIndustryWeek",
+  "theme": "电信、连接、网络基础设施及行业合作相关活动。",
+  "audience": "按用户统一口径统计参会企业/参展商；本次录入0家/实体，官网原始身份保留于明细。",
+  "scale": "2026活动共5天；官网列出3个主要内容板块（工程师培训、监管与政府发展论坛、CEO与行业战略论坛），展览安排在第2至第5天，共4天。官网未公布参会人数、参展商数量或讲者数量。",
+  "feeSummary": "观展：[截至核验日，官方尚未公布] PITA页面写明registration将在团体住宿价确定后开放，预登记页未显示固定金额。；参展：[截至核验日，官方尚未公布] 官网确认Day 2–5有Exhibition，但未公布展位固定价格。；报名时间：预登记已开放；正式报名时间及截止时间尚未公布",
+  "ticketPrice": "[截至核验日，官方尚未公布] PITA页面写明registration将在团体住宿价确定后开放，预登记页未显示固定金额。",
+  "boothPrice": "[截至核验日，官方尚未公布] 官网确认Day 2–5有Exhibition，但未公布展位固定价格。",
+  "deadlineSummary": "预登记已开放；正式报名时间及截止时间尚未公布",
+  "deadlineDate": "",
+  "businessSources": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/",
+  "verificationNote": "当前届PITA官方页面明确给出5天日程结构和展览天数；参会人数、参展商数量及讲者数量没有发布。\\\\\\\\\\\\\\\\n观展价格：截至核验日，官方尚未公布；参展价格：截至核验日，官方尚未公布；报名截止：截至核验日，官方尚未公布；参展商行业/名单：截至核验日，官方尚未公布\\\\\\\\\\\\\\\\n报名截止：页面未公布明确报名截止日期。；参展商行业：截至2026-07-30，官方未公布可审计的2026公司级参展名单或行业明细。",
+  "confirmationStatus": "已确认",
+  "eventStatus": "计划举办",
+  "lastVerified": "2026-07-30",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "C",
+      "score": "63",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "不建议专门花较高费用参加，主要适合SMSBoosting作补充了解。现场主要有电信运营商、技术供应商、渠道伙伴及企业数字化决策者，直接相关客户可能不够集中。若费用低、距离近或能和其他行程一起安排，可以安排1人参加会议，提前预约目标公司，不购买大型展位。主要看看能否筛出值得联系的公司，安排几场会面，确认对方是否有需求或愿意合作。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "太平洋地区电信与数字基础设施",
+      "secondaryPath": "",
+      "target": "太平洋地区运营商、监管机构、连接服务商与技术供应商",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是63分。目标客户和决策者3/5（有一定帮助）; 实际业务机会3/5（有一定帮助）; 渠道和合作伙伴4/5（比较重要）; 市场和竞争信息3/5（有一定帮助）; 重点地区和行程安排3/5（有一定帮助）; 现场接触和后续行动3/5（有一定帮助）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "已确认",
+      "decisionDeadline": "",
+      "relevanceLevel": "",
+      "targetEvidence": "太平洋地区运营商、监管机构、连接服务商与技术供应商",
+      "contactMechanism": "https://events.pita.org.fj/PITAIndustryWeek",
+      "verifiableOutcome": "不建议专门花较高费用参加，主要适合SMSBoosting作补充了解。现场主要有电信运营商、技术供应商、渠道伙伴及企业数字化决策者，直接相关客户可能不够集中。若费用低、距离近或能和其他行程一起安排，可以安排1人参加会议，提前预约目标公司，不购买大型展位。主要看看能否筛出值得联系的公司，安排几场会面，确认对方是否有需求或愿意合作。",
+      "strategicValue": "C",
+      "actionability": "HTML字段复核已完成",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        {
+          "label": "目标客户和决策者",
+          "score": "3"
+        },
+        {
+          "label": "实际业务机会",
+          "score": "3"
+        },
+        {
+          "label": "渠道和合作伙伴",
+          "score": "4"
+        },
+        {
+          "label": "市场和竞争信息",
+          "score": "3"
+        },
+        {
+          "label": "重点地区和行程安排",
+          "score": "3"
+        },
+        {
+          "label": "现场接触和后续行动",
+          "score": "3"
+        }
+      ]
+    }
+  },
+  "locationDisplay": "Tanoa International Hotel · 楠迪 · 斐济",
+  "description": "这是一个面向太平洋岛国通信行业的战略论坛，讨论区域电信发展、政策和运营合作。",
+  "industry": "太平洋地区电信与数字基础设施",
+  "targetCustomers": "太平洋地区运营商、监管机构、连接服务商与技术供应商",
+  "sponsorshipPrice": "[截至核验日，官方尚未公布] 官网未列当前届固定赞助报价。",
+  "exhibitorIndustry": "官方尚未公布2026公司级参展名单；活动设电信与数字基础设施展览",
+  "exhibitorList": "已实际检查当前届官方页面，但未取得可审计的公司级2026名单；未使用往届名单替代。",
+  "verification": {
+    "progress": "HTML字段复核已完成",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [
+      "日期",
+      "地点",
+      "规模",
+      "主办方",
+      "官方网站",
+      "关键行动链接",
+      "活动行业",
+      "目标客户"
+    ],
+    "unresolvedFields": [
+      {
+        "field": "门票/注册费",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "ticket：PITA页面写明registration将在团体住宿价确定后开放，预登记页未显示固定金额。；booth：官网确认Day 2–5有Exhibition，但未公布展位固定价格。；sponsor：官网未列当前届固定赞助报价。",
+        "source": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
+      },
+      {
+        "field": "展位费用",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "ticket：PITA页面写明registration将在团体住宿价确定后开放，预登记页未显示固定金额。；booth：官网确认Day 2–5有Exhibition，但未公布展位固定价格。；sponsor：官网未列当前届固定赞助报价。",
+        "source": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
+      },
+      {
+        "field": "赞助费用",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "ticket：PITA页面写明registration将在团体住宿价确定后开放，预登记页未显示固定金额。；booth：官网确认Day 2–5有Exhibition，但未公布展位固定价格。；sponsor：官网未列当前届固定赞助报价。",
+        "source": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
+      },
+      {
+        "field": "参展商名单",
+        "status": "截至核验日，已检查的官方页面尚未公布公司级2026名单",
+        "reason": "已实际检查当前届官方页面，但未取得可审计的公司级2026名单；未使用往届名单替代。",
+        "source": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
+      },
+      {
+        "field": "报名截止",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "2026-07-30使用Chrome实际检查报名/票务入口。页面未公布明确报名截止日期。",
+        "source": "https://events.pita.org.fj/PITAIndustryWeek"
+      },
+      {
+        "field": "参展商行业",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "截至2026-07-30，官方未公布可审计的2026公司级参展名单或行业明细。",
+        "source": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
+      },
+      {
+        "label": "报名截止来源",
+        "url": "https://events.pita.org.fj/PITAIndustryWeek"
+      }
+    ],
+    "date": "2026-07-30",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": [
+    "PITA Strategy Forum 2026 (PITA Industry Week)",
+    "PITA Industry Week 2026",
+    "PITA Strategy Forum"
+  ]
+}

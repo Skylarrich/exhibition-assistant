@@ -1,0 +1,173 @@
+{
+  "key": "EVT-000218",
+  "name": "Commerce Media Days Latin America 2026",
+  "brands": ["SMSBoosting"],
+  "featuredBrands": [],
+  "type": "会议",
+  "format": "现场",
+  "start": "2026-10-01",
+  "end": "2026-10-01",
+  "city": "待确认",
+  "country": "墨西哥",
+  "venue": "待确认",
+  "organizer": "待确认",
+  "officialUrl": "https://conferences.dataxis.com/commerce-media-days-latin-america/",
+  "actionUrl": "https://conferences.dataxis.com/commerce-media-days-latin-america/",
+  "theme": "目标客户行业—电商、营销与客户互动",
+  "audience": "电商、零售和客户互动团队",
+  "scale": "待本轮官网核验，当前没有可确认的规模数据。",
+  "feeSummary": "本轮未取得可独立审计的2026官方固定门票金额。；当前资料未证明设置独立展位；如为会议赞助展示或会面桌，价格需另行确认。；本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。；原因：当前项目证据没有足够的2026金额、费用类型和适用条件，不能推测价格。；下一步：向主办方索取2026 Price List/Exhibitor Prospectus/Sponsorship Deck，并确认币种、税费、包含权益、付款和取消截止。",
+  "ticketPrice": "本轮未取得可独立审计的2026官方固定门票金额。",
+  "boothPrice": "当前资料未证明设置独立展位；如为会议赞助展示或会面桌，价格需另行确认。",
+  "deadlineSummary": "待确认（尚未完成本轮逐条核验）",
+  "deadlineDate": "",
+  "businessSources": "https://conferences.dataxis.com/commerce-media-days-latin-america/",
+  "verificationNote": "尚未执行本轮规模专项官网核验，不能写成官网未公布。\\\\\\\\\\\\\\\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
+  "confirmationStatus": "部分确认",
+  "eventStatus": "计划举办",
+  "lastVerified": "2026-07-29",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "B",
+      "score": "60",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "可以参加，但先控制费用，主要适合SMSBoosting。现场主要有电商、零售和客户互动团队。建议不买大型展位，提前筛选名单，安排1人观展并约见少量目标公司。这次参加要争取：先确认现场有哪些合适的公司和负责人，再决定要不要参加。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "",
+      "secondaryPath": "",
+      "target": "",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是60分。目标客户和决策者3/5（有一定帮助）; 实际业务机会3/5（有一定帮助）; 渠道和合作伙伴3/5（有一定帮助）; 市场和竞争信息3/5（有一定帮助）; 重点地区和行程安排2/5（相关性有限）; 现场接触和后续行动2/5（相关性有限）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "部分确认",
+      "decisionDeadline": "",
+      "relevanceLevel": "",
+      "targetEvidence": "",
+      "contactMechanism": "https://conferences.dataxis.com/commerce-media-days-latin-america/",
+      "verifiableOutcome": "可以参加，但先控制费用，主要适合SMSBoosting。现场主要有电商、零售和客户互动团队。建议不买大型展位，提前筛选名单，安排1人观展并约见少量目标公司。这次参加要争取：先确认现场有哪些合适的公司和负责人，再决定要不要参加。",
+      "strategicValue": "B",
+      "actionability": "尚未完成本轮逐条核验",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        { "label": "目标客户和决策者", "score": "3" },
+        { "label": "实际业务机会", "score": "3" },
+        { "label": "渠道和合作伙伴", "score": "3" },
+        { "label": "市场和竞争信息", "score": "3" },
+        { "label": "重点地区和行程安排", "score": "2" },
+        { "label": "现场接触和后续行动", "score": "2" }
+      ]
+    }
+  },
+  "locationDisplay": "待确认 · 待确认 · 墨西哥",
+  "description": "这是一个主要讨论电商、数字营销和客户互动的行业会议。",
+  "industry": "",
+  "targetCustomers": "",
+  "sponsorshipPrice": "本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。",
+  "exhibitorIndustry": "待确认",
+  "exhibitorList": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
+  "verification": {
+    "progress": "尚未完成本轮逐条核验",
+    "isFormallyVerified": false,
+    "allPassed": false,
+    "verifiedFields": [],
+    "unresolvedFields": [
+      {
+        "field": "日期",
+        "status": "待本轮核验",
+        "reason": "原表值，仅作本轮核验起点。",
+        "source": "https://conferences.dataxis.com/commerce-media-days-latin-america/"
+      },
+      {
+        "field": "地点",
+        "status": "待本轮核验",
+        "reason": "原表值，仅作本轮核验起点。",
+        "source": "https://conferences.dataxis.com/commerce-media-days-latin-america/"
+      },
+      {
+        "field": "规模",
+        "status": "待本轮核验",
+        "reason": "尚未执行本轮规模专项官网核验，不能写成官网未公布。",
+        "source": "https://conferences.dataxis.com/commerce-media-days-latin-america/"
+      },
+      {
+        "field": "主办方",
+        "status": "待本轮核验",
+        "reason": "原表值，仅作本轮核验起点。",
+        "source": "https://conferences.dataxis.com/commerce-media-days-latin-america/"
+      },
+      {
+        "field": "官方网站",
+        "status": "待本轮核验",
+        "reason": "原表值，仅作本轮核验起点。",
+        "source": "https://conferences.dataxis.com/commerce-media-days-latin-america/"
+      },
+      {
+        "field": "关键行动链接",
+        "status": "待本轮核验",
+        "reason": "原表链接，待本轮Browser复核。",
+        "source": "https://conferences.dataxis.com/commerce-media-days-latin-america/"
+      },
+      {
+        "field": "门票/注册费",
+        "status": "待本轮核验",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://conferences.dataxis.com/commerce-media-days-latin-america/"
+      },
+      {
+        "field": "展位费用",
+        "status": "待本轮核验",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://conferences.dataxis.com/commerce-media-days-latin-america/"
+      },
+      {
+        "field": "赞助费用",
+        "status": "待本轮核验",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://conferences.dataxis.com/commerce-media-days-latin-america/"
+      },
+      {
+        "field": "参展商名单",
+        "status": "待本轮核验",
+        "reason": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
+        "source": "https://conferences.dataxis.com/commerce-media-days-latin-america/"
+      },
+      {
+        "field": "活动行业",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      },
+      {
+        "field": "目标客户",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      },
+      {
+        "field": "报名截止",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      },
+      {
+        "field": "参展商行业",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      }
+    ],
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://conferences.dataxis.com/commerce-media-days-latin-america/"
+      }
+    ],
+    "date": "2026-07-29",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": [
+    "Commerce Media Days Latin America 2026",
+    "Commerce Media Days Latin America"
+  ]
+}

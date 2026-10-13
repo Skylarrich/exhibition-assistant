@@ -1,0 +1,176 @@
+{
+  "key": "EVT-000125",
+  "name": "CTU ICT Week 2026 – French Guiana",
+  "brands": ["SMSBoosting"],
+  "featuredBrands": [],
+  "type": "展览",
+  "format": "现场",
+  "start": "2026-09-20",
+  "end": "2026-09-24",
+  "city": "Cayenne",
+  "country": "French Guiana（法属圭亚那）",
+  "venue": "Mercure Cayenne Royal Amazonia Hotel",
+  "organizer": "Caribbean Telecommunications Union (CTU)，与 Collectivité Territoriale de Guyane 联合举办",
+  "officialUrl": "https://ctu.int/event/ctu-ict-week-2026-french-guiana/",
+  "actionUrl": "https://form.jotform.com/CTUnion/ctu-ict-week-french-guiana-2026---r",
+  "theme": "市场生态与战略情报",
+  "audience": "待确认",
+  "scale": "截至核验日，官方尚未公布",
+  "feeSummary": "本轮未取得可独立审计的2026官方固定门票金额。；本轮未取得2026官方固定展位报价；不能据此判断为免费或不设展位。；本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。；原因：当前项目证据没有足够的2026金额、费用类型和适用条件，不能推测价格。；下一步：向主办方索取2026 Price List/Exhibitor Prospectus/Sponsorship Deck，并确认币种、税费、包含权益、付款和取消截止。",
+  "ticketPrice": "截至核验日，官方尚未公布",
+  "boothPrice": "截至核验日，官方尚未公布",
+  "deadlineSummary": "待确认（官网字段核验完成（部分字段官方未公布））",
+  "deadlineDate": "",
+  "businessSources": "https://form.jotform.com/CTUnion/ctu-ict-week-french-guiana-2026---r",
+  "verificationNote": "官网宣传为 CTU 旗舰年度活动（含 24th Strategic ICT Ministerial Seminar、55th Executive Council、32nd General Conference 等），未公布参会人数/展商数\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
+  "confirmationStatus": "部分确认",
+  "eventStatus": "计划举办",
+  "lastVerified": "2026-08-04",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "C",
+      "score": "50",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "目前不建议付款或安排出差。官网目前还没有足够的参会企业和人员信息，无法确认现场是否有适合SMSBoosting的客户。先拿到当前届名单，再决定是否参加。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "",
+      "secondaryPath": "",
+      "target": "",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是50分。目标客户和决策者2/5（相关性有限）; 实际业务机会2/5（相关性有限）; 渠道和合作伙伴2/5（相关性有限）; 市场和竞争信息4/5（比较重要）; 重点地区和行程安排2/5（相关性有限）; 现场接触和后续行动2/5（相关性有限）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "部分确认",
+      "decisionDeadline": "",
+      "relevanceLevel": "",
+      "targetEvidence": "",
+      "contactMechanism": "https://form.jotform.com/CTUnion/ctu-ict-week-french-guiana-2026---r",
+      "verifiableOutcome": "目前不建议付款或安排出差。官网目前还没有足够的参会企业和人员信息，无法确认现场是否有适合SMSBoosting的客户。先拿到当前届名单，再决定是否参加。",
+      "strategicValue": "C",
+      "actionability": "官网字段核验完成（部分字段官方未公布）",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        { "label": "目标客户和决策者", "score": "2" },
+        { "label": "实际业务机会", "score": "2" },
+        { "label": "渠道和合作伙伴", "score": "2" },
+        { "label": "市场和竞争信息", "score": "4" },
+        { "label": "重点地区和行程安排", "score": "2" },
+        { "label": "现场接触和后续行动", "score": "2" }
+      ]
+    }
+  },
+  "locationDisplay": "Mercure Cayenne Royal Amazonia Hotel｜Cayenne｜French Guiana（法属圭亚那）",
+  "description": "这是一个在法属圭亚那举办的加勒比ICT行业周，结合政策讨论、行业交流和技术展示。",
+  "industry": "",
+  "targetCustomers": "",
+  "sponsorshipPrice": "本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。",
+  "exhibitorIndustry": "",
+  "exhibitorList": "截至核验日，官网未公布当前届公司级参会企业/参展商目录。",
+  "verification": {
+    "progress": "官网字段核验完成（部分字段官方未公布）",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": ["日期", "地点", "主办方", "官方网站", "关键行动链接"],
+    "unresolvedFields": [
+      {
+        "field": "规模",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "官网宣传为 CTU 旗舰年度活动（含 24th Strategic ICT Ministerial Seminar、55th Executive Council、32nd General Conference 等），未公布参会人数/展商数",
+        "source": "https://ctu.int/event/ctu-ict-week-2026-french-guiana/"
+      },
+      {
+        "field": "门票/注册费",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "事件页未公布费用；官方 Jotform 注册表单无任何费用/支付字段",
+        "source": "https://ctu.int/event/ctu-ict-week-2026-french-guiana/"
+      },
+      {
+        "field": "展位费用",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "官网无参展/展位费公布；仅有赞助层级（Lead/Platinum/Silver/Bronze/Partner）",
+        "source": "https://ctu.int/event/ctu-ict-week-2026-french-guiana/"
+      },
+      {
+        "field": "赞助费用",
+        "status": "待本轮核验",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://ctu.int/event/ctu-ict-week-2026-french-guiana/"
+      },
+      {
+        "field": "参展商名单",
+        "status": "已核验：官网未公布当前届公司级名单",
+        "reason": "截至核验日，官网未公布当前届公司级参会企业/参展商目录。",
+        "source": "https://ctu.int/event/ctu-ict-week-2026-french-guiana/"
+      },
+      {
+        "field": "活动行业",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      },
+      {
+        "field": "目标客户",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      },
+      {
+        "field": "报名截止",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      },
+      {
+        "field": "参展商行业",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      }
+    ],
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://ctu.int/event/ctu-ict-week-2026-french-guiana/"
+      },
+      {
+        "label": "地点来源",
+        "url": "https://ctu.int/event/ctu-ict-week-2026-french-guiana/"
+      },
+      {
+        "label": "规模来源",
+        "url": "https://ctu.int/event/ctu-ict-week-2026-french-guiana/"
+      },
+      {
+        "label": "主办方来源",
+        "url": "https://ctu.int/event/ctu-ict-week-2026-french-guiana/"
+      },
+      {
+        "label": "官方网站来源",
+        "url": "https://ctu.int/event/ctu-ict-week-2026-french-guiana/"
+      },
+      {
+        "label": "关键行动链接来源",
+        "url": "https://ctu.int/event/ctu-ict-week-2026-french-guiana/"
+      },
+      {
+        "label": "门票/注册费来源",
+        "url": "https://ctu.int/event/ctu-ict-week-2026-french-guiana/"
+      },
+      {
+        "label": "展位费用来源",
+        "url": "https://ctu.int/event/ctu-ict-week-2026-french-guiana/"
+      },
+      {
+        "label": "赞助费用来源",
+        "url": "https://ctu.int/event/ctu-ict-week-2026-french-guiana/"
+      },
+      {
+        "label": "参展商名单来源",
+        "url": "https://ctu.int/event/ctu-ict-week-2026-french-guiana/"
+      }
+    ],
+    "date": "2026-08-04",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": ["CTU ICT Week 2026 – French Guiana"]
+}

@@ -1,0 +1,169 @@
+{
+  "key": "EVT-000060",
+  "name": "Telecoms World Asia 2026",
+  "brands": [
+    "SMSBoosting"
+  ],
+  "featuredBrands": [
+    "SMSBoosting"
+  ],
+  "type": "会议",
+  "format": "现场",
+  "start": "2026-10-27",
+  "end": "2026-10-28",
+  "city": "曼谷",
+  "country": "泰国",
+  "venue": "Centara Grand & Bangkok Convention Centre at CentralWorld",
+  "organizer": "Terrapinn Pte Ltd",
+  "officialUrl": "https://www.terrapinn.com/conference/telecoms-world-asia/index.stm",
+  "actionUrl": "https://www.terrapinn.com/conference/telecoms-world-asia/index.stm",
+  "theme": "亚洲运营商数字服务、网络、5G与客户流程数字化",
+  "audience": "亚洲运营商高管、网络/数字业务负责人及技术供应商",
+  "scale": "2,000+参会者、130+讲者、120+赞助展商、100% Asian Telcos（官网）",
+  "feeSummary": "MNO/MVNO/government employees eligible for free pass; fixed public price not auditable",
+  "ticketPrice": "MNO/MVNO/government employees eligible for free pass; fixed public price not auditable",
+  "boothPrice": "fixed price not published",
+  "deadlineSummary": "待确认（尚未完成本轮逐条核验）",
+  "deadlineDate": "",
+  "businessSources": "https://www.terrapinn.com/conference/telecoms-world-asia/index.stm",
+  "verificationNote": "原表已有规模描述，待本轮官网复核。\\\\\\\\\\\\\\\\n预算、内部人员、目标名单和实际报名截止仍需内部/官网最终确认",
+  "confirmationStatus": "部分确认",
+  "eventStatus": "官网核验",
+  "lastVerified": "2026-07-30",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "A",
+      "score": "81",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "建议优先参加，主要适合SMSBoosting。现场主要有亚洲运营商高管、网络/数字业务负责人及技术供应商。建议不买大型展位，提前筛选名单，安排1人观展并约见少量目标公司。这次参加要争取：拿到目标公司名单，至少完成5次有效交流，并争取形成会后会议、测试或报价机会。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "",
+      "secondaryPath": "",
+      "target": "",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是81分。目标客户和决策者4/5（比较重要）; 实际业务机会4/5（比较重要）; 渠道和合作伙伴4/5（比较重要）; 市场和竞争信息4/5（比较重要）; 重点地区和行程安排5/5（非常重要）; 现场接触和后续行动3/5（有一定帮助）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "部分确认",
+      "decisionDeadline": "",
+      "relevanceLevel": "",
+      "targetEvidence": "",
+      "contactMechanism": "https://www.terrapinn.com/conference/telecoms-world-asia/index.stm",
+      "verifiableOutcome": "建议优先参加，主要适合SMSBoosting。现场主要有亚洲运营商高管、网络/数字业务负责人及技术供应商。建议不买大型展位，提前筛选名单，安排1人观展并约见少量目标公司。这次参加要争取：拿到目标公司名单，至少完成5次有效交流，并争取形成会后会议、测试或报价机会。",
+      "strategicValue": "A",
+      "actionability": "官网字段核验完成",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        {
+          "label": "目标客户和决策者",
+          "score": "4"
+        },
+        {
+          "label": "实际业务机会",
+          "score": "4"
+        },
+        {
+          "label": "渠道和合作伙伴",
+          "score": "4"
+        },
+        {
+          "label": "市场和竞争信息",
+          "score": "4"
+        },
+        {
+          "label": "重点地区和行程安排",
+          "score": "5"
+        },
+        {
+          "label": "现场接触和后续行动",
+          "score": "3"
+        }
+      ]
+    }
+  },
+  "locationDisplay": "Centara Grand & 曼谷 Convention Centre at CentralWorld, 曼谷, 泰国",
+  "description": "这是一个主要讨论亚洲运营商数字服务、网络、5G与客户流程数字化的行业会议。",
+  "industry": "",
+  "targetCustomers": "",
+  "sponsorshipPrice": "本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。",
+  "exhibitorIndustry": "待确认",
+  "exhibitorList": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
+  "verification": {
+    "progress": "官网字段核验完成",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [
+      "日期",
+      "地点",
+      "主办方",
+      "官方网站",
+      "门票/注册费",
+      "展位费用"
+    ],
+    "unresolvedFields": [
+      {
+        "field": "规模",
+        "status": "待本轮核验",
+        "reason": "原表已有规模描述，待本轮官网复核。",
+        "source": "https://www.terrapinn.com/conference/telecoms-world-asia/index.stm"
+      },
+      {
+        "field": "关键行动链接",
+        "status": "待本轮核验",
+        "reason": "原表链接，待本轮Browser复核。",
+        "source": "https://www.terrapinn.com/conference/telecoms-world-asia/index.stm"
+      },
+      {
+        "field": "赞助费用",
+        "status": "待本轮核验",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://www.terrapinn.com/conference/telecoms-world-asia/index.stm"
+      },
+      {
+        "field": "参展商名单",
+        "status": "2026 Sponsors & exhibitors; preserve categories, no reliable deduplicated total",
+        "reason": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
+        "source": "https://www.terrapinn.com/conference/telecoms-world-asia/index.stm"
+      },
+      {
+        "field": "活动行业",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      },
+      {
+        "field": "目标客户",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      },
+      {
+        "field": "报名截止",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      },
+      {
+        "field": "参展商行业",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      }
+    ],
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://www.terrapinn.com/conference/telecoms-world-asia/index.stm；https://www.terrapinn.com/conference/telecoms-world-asia/partners.stm"
+      },
+      {
+        "label": "规模来源",
+        "url": "https://www.terrapinn.com/conference/telecoms-world-asia/index.stm"
+      }
+    ],
+    "date": "2026-07-30",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": [
+    "Telecoms World Asia 2026"
+  ]
+}

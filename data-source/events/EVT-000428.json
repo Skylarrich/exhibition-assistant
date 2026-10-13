@@ -1,0 +1,167 @@
+{
+  "key": "EVT-000428",
+  "name": "Swiss AI Summit 2026",
+  "brands": ["GoModelHub"],
+  "featuredBrands": [],
+  "type": "峰会",
+  "format": "现场",
+  "start": "2026-11-16",
+  "end": "2026-11-16",
+  "city": "待确认",
+  "country": "瑞士",
+  "venue": "待确认",
+  "organizer": "待确认",
+  "officialUrl": "https://www.swissaisummit.com/",
+  "actionUrl": "https://www.swissaisummit.com/",
+  "theme": "沿用旧表线索，按V1.1重新判断",
+  "audience": "待补充官方受众、展商或角色证据",
+  "scale": "待本轮官网核验，当前没有可确认的规模数据。",
+  "feeSummary": "本轮未取得可独立审计的2026官方固定门票金额。；当前资料未证明设置独立展位；如为会议赞助展示或会面桌，价格需另行确认。；本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。；原因：当前项目证据没有足够的2026金额、费用类型和适用条件，不能推测价格。；下一步：向主办方索取2026 Price List/Exhibitor Prospectus/Sponsorship Deck，并确认币种、税费、包含权益、付款和取消截止。",
+  "ticketPrice": "本轮未取得可独立审计的2026官方固定门票金额。",
+  "boothPrice": "当前资料未证明设置独立展位；如为会议赞助展示或会面桌，价格需另行确认。",
+  "deadlineSummary": "待确认（尚未完成本轮逐条核验）",
+  "deadlineDate": "",
+  "businessSources": "https://www.swissaisummit.com/",
+  "verificationNote": "尚未执行本轮规模专项官网核验，不能写成官网未公布。\\\\\\\\\\\\\\\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
+  "confirmationStatus": "部分确认",
+  "eventStatus": "计划举办",
+  "lastVerified": "2026-07-29",
+  "analyses": {
+    "GoModelHub": {
+      "grade": "C",
+      "score": "52",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "目前不建议付款或安排出差。官网目前还没有足够的参会企业和人员信息，无法确认现场是否有适合GoModelHub的客户。先拿到当前届名单，再决定是否参加。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "",
+      "secondaryPath": "",
+      "target": "",
+      "relevanceBasis": "这场展会对GoModelHub的现有综合分是52分。找到目标客户和负责人2/5（相关性有限）; 确认客户是否真的有需求2/5（相关性有限）; 确认产品和使用场景2/5（相关性有限）; 建立早期客户或合作关系3/5（有一定帮助）; 了解市场和竞争情况4/5（比较重要）; 重点地区和低成本试错2/5（相关性有限）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "部分确认",
+      "decisionDeadline": "",
+      "relevanceLevel": "",
+      "targetEvidence": "",
+      "contactMechanism": "https://www.swissaisummit.com/",
+      "verifiableOutcome": "目前不建议付款或安排出差。官网目前还没有足够的参会企业和人员信息，无法确认现场是否有适合GoModelHub的客户。先拿到当前届名单，再决定是否参加。",
+      "strategicValue": "C",
+      "actionability": "尚未完成本轮逐条核验",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        { "label": "找到目标客户和负责人", "score": "2" },
+        { "label": "确认客户是否真的有需求", "score": "2" },
+        { "label": "确认产品和使用场景", "score": "2" },
+        { "label": "建立早期客户或合作关系", "score": "3" },
+        { "label": "了解市场和竞争情况", "score": "4" },
+        { "label": "重点地区和低成本试错", "score": "2" }
+      ]
+    }
+  },
+  "locationDisplay": "待确认 · 待确认 · 瑞士",
+  "description": "这是一个围绕人工智能、数据和相关技术应用交流趋势和合作机会的行业峰会。",
+  "industry": "",
+  "targetCustomers": "",
+  "sponsorshipPrice": "本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。",
+  "exhibitorIndustry": "待确认",
+  "exhibitorList": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
+  "verification": {
+    "progress": "尚未完成本轮逐条核验",
+    "isFormallyVerified": false,
+    "allPassed": false,
+    "verifiedFields": [],
+    "unresolvedFields": [
+      {
+        "field": "日期",
+        "status": "待本轮核验",
+        "reason": "原表值，仅作本轮核验起点。",
+        "source": "https://www.swissaisummit.com/"
+      },
+      {
+        "field": "地点",
+        "status": "待本轮核验",
+        "reason": "原表值，仅作本轮核验起点。",
+        "source": "https://www.swissaisummit.com/"
+      },
+      {
+        "field": "规模",
+        "status": "待本轮核验",
+        "reason": "尚未执行本轮规模专项官网核验，不能写成官网未公布。",
+        "source": "https://www.swissaisummit.com/"
+      },
+      {
+        "field": "主办方",
+        "status": "待本轮核验",
+        "reason": "原表值，仅作本轮核验起点。",
+        "source": "https://www.swissaisummit.com/"
+      },
+      {
+        "field": "官方网站",
+        "status": "待本轮核验",
+        "reason": "原表值，仅作本轮核验起点。",
+        "source": "https://www.swissaisummit.com/"
+      },
+      {
+        "field": "关键行动链接",
+        "status": "待本轮核验",
+        "reason": "原表链接，待本轮Browser复核。",
+        "source": "https://www.swissaisummit.com/"
+      },
+      {
+        "field": "门票/注册费",
+        "status": "待本轮核验",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://www.swissaisummit.com/"
+      },
+      {
+        "field": "展位费用",
+        "status": "待本轮核验",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://www.swissaisummit.com/"
+      },
+      {
+        "field": "赞助费用",
+        "status": "待本轮核验",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://www.swissaisummit.com/"
+      },
+      {
+        "field": "参展商名单",
+        "status": "待本轮核验",
+        "reason": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
+        "source": "https://www.swissaisummit.com/"
+      },
+      {
+        "field": "活动行业",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      },
+      {
+        "field": "目标客户",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      },
+      {
+        "field": "报名截止",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      },
+      {
+        "field": "参展商行业",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      }
+    ],
+    "sources": [
+      { "label": "日期来源", "url": "https://www.swissaisummit.com/" }
+    ],
+    "date": "2026-07-29",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": ["Swiss AI Summit 2026", "Swiss AI Summit"]
+}

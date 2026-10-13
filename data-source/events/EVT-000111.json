@@ -1,0 +1,165 @@
+{
+  "key": "EVT-000111",
+  "name": "Authenticate 2026",
+  "brands": ["SMSBoosting"],
+  "featuredBrands": [],
+  "type": "会议",
+  "format": "现场",
+  "start": "2026-10-19",
+  "end": "2026-10-21",
+  "city": "Carlsbad（卡尔斯巴德）",
+  "country": "United States（美国）",
+  "venue": "Omni La Costa Resort & Spa（卡尔斯巴德，加州）",
+  "organizer": "FIDO Alliance（FIDO 联盟）",
+  "officialUrl": "https://authenticatecon.com/（官方门户；本届活动页 https://authenticatecon.com/event/authenticate-u-s-2026/）",
+  "actionUrl": "https://cvent.me/ZZyqNw（官方注册系统 Cvent，官网 Register Now 引荐）",
+  "theme": "渠道与技术生态",
+  "audience": "待确认",
+  "scale": "国际级行业会议（数字身份与认证领域）",
+  "feeSummary": "本轮未取得可独立审计的2026官方固定门票金额。；当前资料未证明设置独立展位；如为会议赞助展示或会面桌，价格需另行确认。；本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。；原因：当前项目证据没有足够的2026金额、费用类型和适用条件，不能推测价格。；下一步：向主办方索取2026 Price List/Exhibitor Prospectus/Sponsorship Deck，并确认币种、税费、包含权益、付款和取消截止。",
+  "ticketPrice": "需购票。Conference Only General：会员 $1,275/非会员 $1,675；Conference & Plenary General $1,675；Plenary Only General $750；Conference Only Remote 会员 $250/非会员 $450；Conference & Plenary Remote $450；Plenary Only Remote $200；Day Pass 会员 $425/非会员 $550",
+  "boothPrice": "官方 Prospectus 公布赞助/参展套餐价：Signature $42,000（会员专属）、Platinum 会员 $25,000/非会员 $30,000、Gold 会员 $15,000/非会员 $18,000、Silver 会员 $8,000/非会员 $10,000、Startup 会员 $4,000/非会员 $5,000；Booth/Kiosk/Counter 展位含于套餐内；另有 A La Carte 单项赞助 $4,000-$10,000",
+  "deadlineSummary": "待确认（官网字段核验完成）",
+  "deadlineDate": "",
+  "businessSources": "https://cvent.me/ZZyqNw（官方注册系统 Cvent，官网 Register Now 引荐）",
+  "verificationNote": "官方页：industry's only conference dedicated to digital identity and authentication；2025 年 875+ 参会者、150+ 场次、50+ 参展商/赞助商，展区售罄\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
+  "confirmationStatus": "部分确认",
+  "eventStatus": "计划举办",
+  "lastVerified": "2026-08-04",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "B",
+      "score": "60",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "目前不建议付款或安排出差。官网目前还没有足够的参会企业和人员信息，无法确认现场是否有适合SMSBoosting的客户。先拿到当前届名单，再决定是否参加。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "",
+      "secondaryPath": "",
+      "target": "",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是60分。目标客户和决策者3/5（有一定帮助）; 实际业务机会3/5（有一定帮助）; 渠道和合作伙伴3/5（有一定帮助）; 市场和竞争信息3/5（有一定帮助）; 重点地区和行程安排2/5（相关性有限）; 现场接触和后续行动2/5（相关性有限）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "部分确认",
+      "decisionDeadline": "",
+      "relevanceLevel": "",
+      "targetEvidence": "",
+      "contactMechanism": "https://cvent.me/ZZyqNw（官方注册系统 Cvent，官网 Register Now 引荐）",
+      "verifiableOutcome": "目前不建议付款或安排出差。官网目前还没有足够的参会企业和人员信息，无法确认现场是否有适合SMSBoosting的客户。先拿到当前届名单，再决定是否参加。",
+      "strategicValue": "B",
+      "actionability": "官网字段核验完成",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        { "label": "目标客户和决策者", "score": "3" },
+        { "label": "实际业务机会", "score": "3" },
+        { "label": "渠道和合作伙伴", "score": "3" },
+        { "label": "市场和竞争信息", "score": "3" },
+        { "label": "重点地区和行程安排", "score": "2" },
+        { "label": "现场接触和后续行动", "score": "2" }
+      ]
+    }
+  },
+  "locationDisplay": "Omni La Costa Resort & Spa（卡尔斯巴德，加州）｜Carlsbad（卡尔斯巴德）｜United States（美国）",
+  "description": "这是一个讨论无密码登录、身份验证、数字身份和账户安全的专业会议。",
+  "industry": "",
+  "targetCustomers": "",
+  "sponsorshipPrice": "本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。",
+  "exhibitorIndustry": "",
+  "exhibitorList": "官方活动页公布的当前届公司级赞助商/参展商名录（参展赞助商于 Expo Hall 展出）；另有 /sponsors/ 门户页",
+  "verification": {
+    "progress": "官网字段核验完成",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [
+      "日期",
+      "地点",
+      "规模",
+      "主办方",
+      "官方网站",
+      "关键行动链接",
+      "门票/注册费",
+      "展位费用"
+    ],
+    "unresolvedFields": [
+      {
+        "field": "赞助费用",
+        "status": "待本轮核验",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://fidoalliance.org/event/authenticate-2026/"
+      },
+      {
+        "field": "参展商名单",
+        "status": "已录入2026官方参会企业/参展商名单",
+        "reason": "官方活动页公布的当前届公司级赞助商/参展商名录（参展赞助商于 Expo Hall 展出）；另有 /sponsors/ 门户页",
+        "source": "https://authenticatecon.com/event/authenticate-u-s-2026/#sponsors"
+      },
+      {
+        "field": "活动行业",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      },
+      {
+        "field": "目标客户",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      },
+      {
+        "field": "报名截止",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      },
+      {
+        "field": "参展商行业",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      }
+    ],
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://authenticatecon.com/event/authenticate-u-s-2026/"
+      },
+      {
+        "label": "地点来源",
+        "url": "https://authenticatecon.com/event/authenticate-u-s-2026/"
+      },
+      {
+        "label": "规模来源",
+        "url": "https://authenticatecon.com/event/authenticate-u-s-2026/"
+      },
+      {
+        "label": "主办方来源",
+        "url": "https://authenticatecon.com/event/authenticate-u-s-2026/"
+      },
+      { "label": "官方网站来源", "url": "https://authenticatecon.com/" },
+      {
+        "label": "关键行动链接来源",
+        "url": "https://authenticatecon.com/event/authenticate-u-s-2026/"
+      },
+      {
+        "label": "门票/注册费来源",
+        "url": "https://authenticatecon.com/event/authenticate-u-s-2026/"
+      },
+      {
+        "label": "展位费用来源",
+        "url": "https://authenticatecon.com/wp-content/uploads/2026/07/Authenticate_Prospectus_2026_071626.pdf"
+      },
+      {
+        "label": "赞助费用来源",
+        "url": "https://fidoalliance.org/event/authenticate-2026/"
+      },
+      {
+        "label": "参展商名单来源",
+        "url": "https://authenticatecon.com/event/authenticate-u-s-2026/#sponsors"
+      }
+    ],
+    "date": "2026-08-04",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": ["Authenticate 2026"],
+  "exhibitorCount": "官方未公布总数（名录列出 33 家公司，含 Google、Microsoft、Mastercard、Visa、Yubico、Cisco、Thales、Ping Identity 等）"
+}

@@ -1,0 +1,244 @@
+{
+  "key": "EVT-000108",
+  "name": "All Things Open 2026",
+  "brands": [
+    "SMSBoosting",
+    "GoModelHub"
+  ],
+  "featuredBrands": [],
+  "type": "会议",
+  "format": "现场",
+  "start": "2026-10-19",
+  "end": "2026-10-20",
+  "city": "Raleigh",
+  "country": "United States（North Carolina 州）",
+  "venue": "Raleigh Convention Center",
+  "organizer": "All Things Open（认证 B Corp 组织，© All Things Open 2026）",
+  "officialUrl": "https://allthingsopen.org/",
+  "actionUrl": "https://2026.allthingsopen.org/register",
+  "theme": "渠道与技术生态",
+  "audience": "待确认",
+  "scale": "全美东海岸最大规模开源/技术/Web 会议（官网原文：The largest open source / tech / web conference on the U.S. east coast）；2025 届 6,500+ 注册、来自 46 个州与 75 个国家（官网赞助页历史数据）",
+  "feeSummary": "本轮未取得可独立审计的2026官方固定门票金额。；当前资料未证明设置独立展位；如为会议赞助展示或会面桌，价格需另行确认。；本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。；原因：当前项目证据没有足够的2026金额、费用类型和适用条件，不能推测价格。；下一步：向主办方索取2026 Price List/Exhibitor Prospectus/Sponsorship Deck，并确认币种、税费、包含权益、付款和取消截止。",
+  "ticketPrice": "参会门票（USD）：传统会议日（10/20）$99，9 月 1 日后 $149；全日工作坊（10/19，含 10/20 入场）$199，9 月 1 日后 $299；Deep Dive 课程 $99，9 月 1 日后 $149；联合活动（如 Community Leadership Summit）$25",
+  "boothPrice": "截至核验日，官方尚未公布具体展位价格；官方赞助页说明赞助/合作伙伴展位设在走廊（无独立展厅），价格需通过官方表单询价（Request More Information）",
+  "deadlineSummary": "待确认（官网字段核验完成（部分字段官方未公布））",
+  "deadlineDate": "",
+  "businessSources": "https://2026.allthingsopen.org/register",
+  "verificationNote": "官网主页与赞助页均有规模表述\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
+  "confirmationStatus": "部分确认",
+  "eventStatus": "计划举办",
+  "lastVerified": "2026-08-04",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "B",
+      "score": "62",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "目前不建议付款或安排出差。官网目前还没有足够的参会企业和人员信息，无法确认现场是否有适合GoModelHub的客户。先拿到当前届名单，再决定是否参加。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "",
+      "secondaryPath": "",
+      "target": "",
+      "relevanceBasis": "这场展会对GoModelHub的现有综合分是62分。找到目标客户和负责人3/5（有一定帮助）; 确认客户是否真的有需求3/5（有一定帮助）; 确认产品和使用场景3/5（有一定帮助）; 建立早期客户或合作关系3/5（有一定帮助）; 了解市场和竞争情况3/5（有一定帮助）; 重点地区和低成本试错2/5（相关性有限）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "部分确认",
+      "decisionDeadline": "",
+      "relevanceLevel": "",
+      "targetEvidence": "",
+      "contactMechanism": "https://2026.allthingsopen.org/register",
+      "verifiableOutcome": "目前不建议付款或安排出差。官网目前还没有足够的参会企业和人员信息，无法确认现场是否有适合GoModelHub的客户。先拿到当前届名单，再决定是否参加。",
+      "strategicValue": "B",
+      "actionability": "官网字段核验完成（部分字段官方未公布）",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        {
+          "label": "找到目标客户和负责人",
+          "score": "3"
+        },
+        {
+          "label": "确认客户是否真的有需求",
+          "score": "3"
+        },
+        {
+          "label": "确认产品和使用场景",
+          "score": "3"
+        },
+        {
+          "label": "建立早期客户或合作关系",
+          "score": "3"
+        },
+        {
+          "label": "了解市场和竞争情况",
+          "score": "3"
+        },
+        {
+          "label": "重点地区和低成本试错",
+          "score": "2"
+        }
+      ]
+    },
+    "GoModelHub": {
+      "grade": "B",
+      "score": "62",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "目前不建议付款或安排出差。官网目前还没有足够的参会企业和人员信息，无法确认现场是否有适合GoModelHub的客户。先拿到当前届名单，再决定是否参加。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "",
+      "secondaryPath": "",
+      "target": "",
+      "relevanceBasis": "这场展会对GoModelHub的现有综合分是62分。找到目标客户和负责人3/5（有一定帮助）; 确认客户是否真的有需求3/5（有一定帮助）; 确认产品和使用场景3/5（有一定帮助）; 建立早期客户或合作关系3/5（有一定帮助）; 了解市场和竞争情况3/5（有一定帮助）; 重点地区和低成本试错2/5（相关性有限）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "部分确认",
+      "decisionDeadline": "",
+      "relevanceLevel": "",
+      "targetEvidence": "",
+      "contactMechanism": "https://2026.allthingsopen.org/register",
+      "verifiableOutcome": "目前不建议付款或安排出差。官网目前还没有足够的参会企业和人员信息，无法确认现场是否有适合GoModelHub的客户。先拿到当前届名单，再决定是否参加。",
+      "strategicValue": "B",
+      "actionability": "官网字段核验完成（部分字段官方未公布）",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        {
+          "label": "找到目标客户和负责人",
+          "score": "3"
+        },
+        {
+          "label": "确认客户是否真的有需求",
+          "score": "3"
+        },
+        {
+          "label": "确认产品和使用场景",
+          "score": "3"
+        },
+        {
+          "label": "建立早期客户或合作关系",
+          "score": "3"
+        },
+        {
+          "label": "了解市场和竞争情况",
+          "score": "3"
+        },
+        {
+          "label": "重点地区和低成本试错",
+          "score": "2"
+        }
+      ]
+    }
+  },
+  "locationDisplay": "Raleigh Convention Center｜Raleigh｜United States（North Carolina 州）",
+  "description": "这是一个面向开发者和技术团队的开源技术会议，交流软件开发、云、数据和开源项目。",
+  "industry": "",
+  "targetCustomers": "",
+  "sponsorshipPrice": "本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。",
+  "exhibitorIndustry": "",
+  "exhibitorList": "截至核验日，官网未公布当前届公司级参会企业/参展商目录。",
+  "verification": {
+    "progress": "官网字段核验完成（部分字段官方未公布）",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [
+      "日期",
+      "地点",
+      "规模",
+      "主办方",
+      "官方网站",
+      "关键行动链接",
+      "门票/注册费"
+    ],
+    "unresolvedFields": [
+      {
+        "field": "展位费用",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "官方 why-sponsor 页：We place sponsor/partner exhibit tables in hallways…；Pricing 需询价表单（Wufoo）",
+        "source": "https://2026.allthingsopen.org/why-sponsor"
+      },
+      {
+        "field": "赞助费用",
+        "status": "待本轮核验",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://2026.allthingsopen.org/"
+      },
+      {
+        "field": "参展商名单",
+        "status": "已核验：官网未公布当前届公司级名单",
+        "reason": "截至核验日，官网未公布当前届公司级参会企业/参展商目录。",
+        "source": "https://2026.allthingsopen.org/"
+      },
+      {
+        "field": "活动行业",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      },
+      {
+        "field": "目标客户",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      },
+      {
+        "field": "报名截止",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      },
+      {
+        "field": "参展商行业",
+        "status": "待确认",
+        "reason": "待确认",
+        "source": ""
+      }
+    ],
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://2026.allthingsopen.org/"
+      },
+      {
+        "label": "地点来源",
+        "url": "https://2026.allthingsopen.org/"
+      },
+      {
+        "label": "规模来源",
+        "url": "https://2026.allthingsopen.org/why-sponsor"
+      },
+      {
+        "label": "主办方来源",
+        "url": "https://allthingsopen.org/"
+      },
+      {
+        "label": "官方网站来源",
+        "url": "https://allthingsopen.org/"
+      },
+      {
+        "label": "关键行动链接来源",
+        "url": "https://2026.allthingsopen.org/register"
+      },
+      {
+        "label": "门票/注册费来源",
+        "url": "https://2026.allthingsopen.org/register"
+      },
+      {
+        "label": "展位费用来源",
+        "url": "https://2026.allthingsopen.org/why-sponsor"
+      },
+      {
+        "label": "赞助费用来源",
+        "url": "https://2026.allthingsopen.org/"
+      },
+      {
+        "label": "参展商名单来源",
+        "url": "https://2026.allthingsopen.org/"
+      }
+    ],
+    "date": "2026-08-04",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": [
+    "All Things Open 2026"
+  ]
+}

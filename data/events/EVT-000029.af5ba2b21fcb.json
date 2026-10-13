@@ -1,0 +1,167 @@
+{
+  "key": "EVT-000029",
+  "name": "MEF Meet-up Lisbon 2026",
+  "brands": [
+    "SMSBoosting"
+  ],
+  "featuredBrands": [],
+  "type": "会议",
+  "format": "现场",
+  "start": "2026-11-09",
+  "end": "2026-11-09",
+  "city": "里斯本",
+  "country": "葡萄牙",
+  "venue": "截至核验日，官方尚未公布具体场馆",
+  "organizer": "Mobile Ecosystem Forum (MEF)",
+  "officialUrl": "https://mobileecosystemforum.com/event/mef-meet-up-lisbon/",
+  "actionUrl": "",
+  "theme": "电信、连接、网络基础设施及行业合作相关活动。",
+  "audience": "按用户统一口径统计参会企业/参展商；本次录入0家/实体，官网原始身份保留于明细。",
+  "scale": "截至2026-07-30，官网未公布该Meet-up的参会人数或公司数量。",
+  "feeSummary": "观展：[无法核验] Cloudflare拦截；参展：[无法核验] Cloudflare拦截；报名时间：开放活动；官网未公布报名截止时间",
+  "ticketPrice": "[无法核验] Cloudflare拦截",
+  "boothPrice": "[无法核验] Cloudflare拦截",
+  "deadlineSummary": "开放活动；官网未公布报名截止时间",
+  "deadlineDate": "",
+  "businessSources": "https://mobileecosystemforum.com/events-roadmap/",
+  "verificationNote": "当前专页已可读取，页面只说明开放活动、时间和地点。\\\\\\\\\\\\\\\\n观展价格：无法核验；参展价格：无法核验；报名截止：截至核验日，官方尚未公布\\\\\\\\\\\\\\\\n报名截止：页面未公布明确报名截止日期。",
+  "confirmationStatus": "已确认",
+  "eventStatus": "计划举办",
+  "lastVerified": "2026-07-30",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "C",
+      "score": "51",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "不建议专门花较高费用参加，主要适合SMSBoosting作补充了解。现场主要有网络、基础设施、监管、技术或区域通信生态从业者，直接相关客户可能不够集中。若费用低、距离近或能和其他行程一起安排，可以先在线查看议程和名单，不急着报名；只有找到明确目标公司后再安排线下参加。主要看看能否了解市场、供应商或合规变化，并找出值得继续联系的公司。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "移动通信行业交流",
+      "secondaryPath": "",
+      "target": "移动通信、运营商、CPaaS及行业合作决策者",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是51分。目标客户和决策者2/5（相关性有限）; 实际业务机会2/5（相关性有限）; 渠道和合作伙伴3/5（有一定帮助）; 市场和竞争信息3/5（有一定帮助）; 重点地区和行程安排3/5（有一定帮助）; 现场接触和后续行动3/5（有一定帮助）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "已确认",
+      "decisionDeadline": "",
+      "relevanceLevel": "",
+      "targetEvidence": "移动通信、运营商、CPaaS及行业合作决策者",
+      "contactMechanism": "",
+      "verifiableOutcome": "不建议专门花较高费用参加，主要适合SMSBoosting作补充了解。现场主要有网络、基础设施、监管、技术或区域通信生态从业者，直接相关客户可能不够集中。若费用低、距离近或能和其他行程一起安排，可以先在线查看议程和名单，不急着报名；只有找到明确目标公司后再安排线下参加。主要看看能否了解市场、供应商或合规变化，并找出值得继续联系的公司。",
+      "strategicValue": "C",
+      "actionability": "HTML字段复核已完成",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        {
+          "label": "目标客户和决策者",
+          "score": "2"
+        },
+        {
+          "label": "实际业务机会",
+          "score": "2"
+        },
+        {
+          "label": "渠道和合作伙伴",
+          "score": "3"
+        },
+        {
+          "label": "市场和竞争信息",
+          "score": "3"
+        },
+        {
+          "label": "重点地区和行程安排",
+          "score": "3"
+        },
+        {
+          "label": "现场接触和后续行动",
+          "score": "3"
+        }
+      ]
+    }
+  },
+  "locationDisplay": "截至核验日，官方尚未公布具体场馆 · 里斯本 · 葡萄牙",
+  "description": "这是一个在里斯本举办的移动通信行业交流聚会，主要用于结识同行和建立合作联系。",
+  "industry": "移动通信行业交流",
+  "targetCustomers": "移动通信、运营商、CPaaS及行业合作决策者",
+  "sponsorshipPrice": "[无法核验] Cloudflare拦截",
+  "exhibitorIndustry": "不适用：官网未显示独立展览或参展机制",
+  "exhibitorList": "官网访问受限、空白或无法加载，不能确认公司级2026名单。",
+  "verification": {
+    "progress": "HTML字段复核已完成",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [
+      "日期",
+      "主办方",
+      "官方网站",
+      "活动行业",
+      "目标客户",
+      "参展商行业"
+    ],
+    "unresolvedFields": [
+      {
+        "field": "地点",
+        "status": "部分已核验（具体场馆未公布）",
+        "reason": "2026-07-30当前官方活动页正文已可读取。",
+        "source": "https://mobileecosystemforum.com/event/mef-meet-up-lisbon/"
+      },
+      {
+        "field": "规模",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "当前专页已可读取，页面只说明开放活动、时间和地点。",
+        "source": "https://mobileecosystemforum.com/events-roadmap/"
+      },
+      {
+        "field": "关键行动链接",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "截至2026-07-30，主库未取得独立报名/行动链接。",
+        "source": "https://mobileecosystemforum.com/events-roadmap/"
+      },
+      {
+        "field": "门票/注册费",
+        "status": "无法核验",
+        "reason": "ticket：Cloudflare拦截；booth：Cloudflare拦截；sponsor：Cloudflare拦截",
+        "source": "https://mobileecosystemforum.com/event/mef-meet-up-lisbon/"
+      },
+      {
+        "field": "展位费用",
+        "status": "无法核验",
+        "reason": "ticket：Cloudflare拦截；booth：Cloudflare拦截；sponsor：Cloudflare拦截",
+        "source": "https://mobileecosystemforum.com/event/mef-meet-up-lisbon/"
+      },
+      {
+        "field": "赞助费用",
+        "status": "无法核验",
+        "reason": "ticket：Cloudflare拦截；booth：Cloudflare拦截；sponsor：Cloudflare拦截",
+        "source": "https://mobileecosystemforum.com/event/mef-meet-up-lisbon/"
+      },
+      {
+        "field": "参展商名单",
+        "status": "无法核验",
+        "reason": "官网访问受限、空白或无法加载，不能确认公司级2026名单。",
+        "source": "https://mobileecosystemforum.com/event/mef-meet-up-lisbon/"
+      },
+      {
+        "field": "报名截止",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "2026-07-30使用Chrome实际检查报名/票务入口。页面未公布明确报名截止日期。",
+        "source": "https://mobileecosystemforum.com/event/mef-meet-up-lisbon/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://mobileecosystemforum.com/event/mef-meet-up-lisbon/"
+      },
+      {
+        "label": "规模来源",
+        "url": "https://mobileecosystemforum.com/events-roadmap/"
+      }
+    ],
+    "date": "2026-07-30",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": [
+    "MEF Meet-up Lisbon 2026"
+  ]
+}

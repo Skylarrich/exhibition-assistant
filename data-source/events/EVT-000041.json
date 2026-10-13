@@ -1,0 +1,142 @@
+{
+  "key": "EVT-000041",
+  "name": "Finweek Kuala Lumpur 2026",
+  "brands": ["SMSBoosting"],
+  "featuredBrands": [],
+  "type": "会议",
+  "format": "现场",
+  "start": "2026-11-11",
+  "end": "2026-11-13",
+  "city": "吉隆坡",
+  "country": "马来西亚",
+  "venue": "PARKROYAL COLLECTION Kuala Lumpur",
+  "organizer": "Future Proof Group",
+  "officialUrl": "https://finweek.my/",
+  "actionUrl": "https://finweek.my/",
+  "theme": "目标客户行业—金融科技与支付",
+  "audience": "1,000+代表、500+C级、80+讲者；连接欧洲与东盟金融科技及数字资产生态。",
+  "scale": "1,000+代表、500+ C-level、80+讲者（官网）",
+  "feeSummary": "USD 99 to 599; Sovereign invite-only; tax extra",
+  "ticketPrice": "USD 99 to 599; Sovereign invite-only; tax extra",
+  "boothPrice": "USD 1500 to 4500; tax extra; subject to change",
+  "deadlineSummary": "待确认（尚未完成本轮逐条核验）",
+  "deadlineDate": "",
+  "businessSources": "https://finweek.my/",
+  "verificationNote": "原表已有规模描述，待本轮官网复核。\\\\\\\\\\\\\\\\n费用、报名截止与具体目标名单",
+  "confirmationStatus": "部分确认",
+  "eventStatus": "官网核验",
+  "lastVerified": "2026-07-30",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "C",
+      "score": "63",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "不建议专门花较高费用参加，主要适合SMSBoosting作补充了解。现场主要有东盟金融科技、银行、数字资产及投资生态的C级与业务负责人，直接相关客户可能不够集中。若费用低、距离近或能和其他行程一起安排，可以安排1人参加会议，提前预约目标公司，不购买大型展位。主要看看能否确认客户是否需要OTP、通知或营销短信，谁负责采购，以及下一步怎么联系。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "",
+      "secondaryPath": "",
+      "target": "",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是63分。目标客户和决策者3/5（有一定帮助）; 实际业务机会3/5（有一定帮助）; 渠道和合作伙伴2/5（相关性有限）; 市场和竞争信息3/5（有一定帮助）; 重点地区和行程安排5/5（非常重要）; 现场接触和后续行动3/5（有一定帮助）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "部分确认",
+      "decisionDeadline": "",
+      "relevanceLevel": "",
+      "targetEvidence": "",
+      "contactMechanism": "https://finweek.my/",
+      "verifiableOutcome": "不建议专门花较高费用参加，主要适合SMSBoosting作补充了解。现场主要有东盟金融科技、银行、数字资产及投资生态的C级与业务负责人，直接相关客户可能不够集中。若费用低、距离近或能和其他行程一起安排，可以安排1人参加会议，提前预约目标公司，不购买大型展位。主要看看能否确认客户是否需要OTP、通知或营销短信，谁负责采购，以及下一步怎么联系。",
+      "strategicValue": "C",
+      "actionability": "官网字段核验完成",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        { "label": "目标客户和决策者", "score": "3" },
+        { "label": "实际业务机会", "score": "3" },
+        { "label": "渠道和合作伙伴", "score": "2" },
+        { "label": "市场和竞争信息", "score": "3" },
+        { "label": "重点地区和行程安排", "score": "5" },
+        { "label": "现场接触和后续行动", "score": "3" }
+      ]
+    }
+  },
+  "locationDisplay": "PARKROYAL COLLECTION 吉隆坡, 吉隆坡, 马来西亚",
+  "description": "这是一个主要讨论银行、金融科技和支付的行业会议。",
+  "industry": "",
+  "targetCustomers": "",
+  "sponsorshipPrice": "本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。",
+  "exhibitorIndustry": "待确认",
+  "exhibitorList": "official company-level exhibitor/attendee directory not published",
+  "verification": {
+    "progress": "官网字段核验完成",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [
+      "日期",
+      "地点",
+      "主办方",
+      "官方网站",
+      "门票/注册费",
+      "展位费用"
+    ],
+    "unresolvedFields": [
+      {
+        "field": "规模",
+        "status": "待本轮核验",
+        "reason": "原表已有规模描述，待本轮官网复核。",
+        "source": "https://finweek.my/"
+      },
+      {
+        "field": "关键行动链接",
+        "status": "待本轮核验",
+        "reason": "原表链接，待本轮Browser复核。",
+        "source": "https://finweek.my/"
+      },
+      {
+        "field": "赞助费用",
+        "status": "待本轮核验",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://finweek.my/"
+      },
+      {
+        "field": "参展商名单",
+        "status": "官方未公布",
+        "reason": "official company-level exhibitor/attendee directory not published",
+        "source": "https://finweek.my/；https://finweek.my/agenda/；https://finweek.my/venue/；https://finweek.my/faq/；https://finweek.my/ticket-pricing/；https://finweek.my/be-a-partner/"
+      },
+      {
+        "field": "活动行业",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      },
+      {
+        "field": "目标客户",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      },
+      {
+        "field": "报名截止",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      },
+      {
+        "field": "参展商行业",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      }
+    ],
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://finweek.my/；https://finweek.my/agenda/；https://finweek.my/venue/；https://finweek.my/faq/；https://finweek.my/ticket-pricing/；https://finweek.my/be-a-partner/"
+      },
+      { "label": "规模来源", "url": "https://finweek.my/" }
+    ],
+    "date": "2026-07-30",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": ["Finweek Kuala Lumpur 2026"]
+}

@@ -1,0 +1,147 @@
+{
+  "key": "EVT-000001",
+  "name": "36th IEEE International Telecommunication Networks and Applications Conference (ITNAC 2026)",
+  "brands": [
+    "SMSBoosting"
+  ],
+  "featuredBrands": [],
+  "type": "会议",
+  "format": "现场",
+  "start": "2026-11-25",
+  "end": "2026-11-27",
+  "city": "墨尔本",
+  "country": "澳大利亚",
+  "venue": "RMIT University",
+  "organizer": "AAICT / ITNAC Organising Committee",
+  "officialUrl": "https://itnac.org.au/",
+  "actionUrl": "https://itnac.org.au/2026/information-authors",
+  "theme": "网络、通信技术、运营或政策相关专业会议。",
+  "audience": "按用户统一口径统计参会企业/参展商；已录入0家/实体。官网身份仍分别保留。",
+  "scale": "截至核验日，ITNAC 2026官网未公布参会人数、参展商数量、讲者数量或会议场次数等活动规模数据。",
+  "feeSummary": "观展：AUD：IEEE会员早鸟800/常规850；非会员950/1020；学生会员560/600；学生非会员675/720；Life会员450/475；单日票按身份230–300；线上参会950；晚宴150。早鸟截至2026-09-15，常规截至2026-11-01。；参展：官方赞助页列明：Exhibitor AUD 3,500，含3m×3m展位。；报名时间：注册截止2026-11-01；早鸟价截至2026-10-20",
+  "ticketPrice": "AUD：IEEE会员早鸟800/常规850；非会员950/1020；学生会员560/600；学生非会员675/720；Life会员450/475；单日票按身份230–300；线上参会950；晚宴150。早鸟截至2026-09-15，常规截至2026-11-01。",
+  "boothPrice": "官方赞助页列明：Exhibitor AUD 3,500，含3m×3m展位。",
+  "deadlineSummary": "注册截止2026-11-01；早鸟价截至2026-10-20",
+  "deadlineDate": "2026-11-01",
+  "businessSources": "https://itnac.org.au/",
+  "verificationNote": "已专项检查2026首页、注册/作者信息页及赞助页；官网只公布日期、场地、注册与赞助方案，并提到10个学生资助名额，该数字不是活动规模，不能据此推算人数。\\\\\\\\\\\\\\\\n参展商行业/名单：截至核验日，官方尚未公布\\\\\\\\\\\\\\\\n参展商行业：截至2026-07-30，官方未公布可审计的2026公司级参展名单或行业明细。",
+  "confirmationStatus": "已确认",
+  "eventStatus": "计划举办",
+  "lastVerified": "2026-07-30",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "C",
+      "score": "51",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "不建议专门花较高费用参加，主要适合SMSBoosting作补充了解。现场主要有网络、基础设施、监管、技术或区域通信生态从业者，直接相关客户可能不够集中。若费用低、距离近或能和其他行程一起安排，可以先在线查看议程和名单，不急着报名；只有找到明确目标公司后再安排线下参加。主要看看能否了解市场、供应商或合规变化，并找出值得继续联系的公司。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "通信网络与电信技术",
+      "secondaryPath": "",
+      "target": "电信运营商、网络技术供应商、监管与通信基础设施负责人",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是51分。目标客户和决策者2/5（相关性有限）; 实际业务机会2/5（相关性有限）; 渠道和合作伙伴3/5（有一定帮助）; 市场和竞争信息3/5（有一定帮助）; 重点地区和行程安排3/5（有一定帮助）; 现场接触和后续行动3/5（有一定帮助）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "已确认",
+      "decisionDeadline": "2026-11-01",
+      "relevanceLevel": "",
+      "targetEvidence": "电信运营商、网络技术供应商、监管与通信基础设施负责人",
+      "contactMechanism": "https://itnac.org.au/2026/information-authors",
+      "verifiableOutcome": "不建议专门花较高费用参加，主要适合SMSBoosting作补充了解。现场主要有网络、基础设施、监管、技术或区域通信生态从业者，直接相关客户可能不够集中。若费用低、距离近或能和其他行程一起安排，可以先在线查看议程和名单，不急着报名；只有找到明确目标公司后再安排线下参加。主要看看能否了解市场、供应商或合规变化，并找出值得继续联系的公司。",
+      "strategicValue": "C",
+      "actionability": "HTML字段复核已完成",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        {
+          "label": "目标客户和决策者",
+          "score": "2"
+        },
+        {
+          "label": "实际业务机会",
+          "score": "2"
+        },
+        {
+          "label": "渠道和合作伙伴",
+          "score": "3"
+        },
+        {
+          "label": "市场和竞争信息",
+          "score": "3"
+        },
+        {
+          "label": "重点地区和行程安排",
+          "score": "3"
+        },
+        {
+          "label": "现场接触和后续行动",
+          "score": "3"
+        }
+      ]
+    }
+  },
+  "locationDisplay": "RMIT University · 澳大利亚 · 澳大利亚",
+  "description": "这是一个主要讨论网络通信技术、运营和行业政策的行业会议。",
+  "industry": "通信网络与电信技术",
+  "targetCustomers": "电信运营商、网络技术供应商、监管与通信基础设施负责人",
+  "sponsorshipPrice": "Platinum AUD 10,000；Gold 7,500；Silver 5,000；Exhibitor 3,500。",
+  "exhibitorIndustry": "官方尚未公布2026公司级参展名单；招展方向为通信网络、运营商与技术服务",
+  "exhibitorList": "官方页仅列价格与权益，未列当前公司名称。",
+  "verification": {
+    "progress": "HTML字段复核已完成",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [
+      "日期",
+      "地点",
+      "主办方",
+      "官方网站",
+      "关键行动链接",
+      "门票/注册费",
+      "展位费用",
+      "赞助费用",
+      "活动行业",
+      "目标客户",
+      "报名截止"
+    ],
+    "unresolvedFields": [
+      {
+        "field": "规模",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "已专项检查2026首页、注册/作者信息页及赞助页；官网只公布日期、场地、注册与赞助方案，并提到10个学生资助名额，该数字不是活动规模，不能据此推算人数。",
+        "source": "https://itnac.org.au/"
+      },
+      {
+        "field": "参展商名单",
+        "status": "截至核验日，官方尚未公布公司级2026名单",
+        "reason": "官方页仅列价格与权益，未列当前公司名称。",
+        "source": "https://itnac.org.au/2026/information-sponsors"
+      },
+      {
+        "field": "参展商行业",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "截至2026-07-30，官方未公布可审计的2026公司级参展名单或行业明细。",
+        "source": "https://itnac.org.au/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://itnac.org.au/"
+      },
+      {
+        "label": "门票/注册费来源",
+        "url": "https://itnac.org.au/2026/information-authors"
+      },
+      {
+        "label": "参展商名单来源",
+        "url": "https://itnac.org.au/2026/information-sponsors"
+      }
+    ],
+    "date": "2026-07-30",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": [
+    "36th IEEE International Telecommunication Networks and Applications Conference (ITNAC 2026)",
+    "IEEE ITNAC 2026"
+  ]
+}

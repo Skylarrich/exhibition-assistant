@@ -1,0 +1,124 @@
+{
+  "key": "EVT-000034",
+  "name": "Connected Britain 2026",
+  "brands": ["SMSBoosting"],
+  "featuredBrands": [],
+  "type": "会议",
+  "format": "现场",
+  "start": "2026-09-09",
+  "end": "2026-09-10",
+  "city": "伦敦",
+  "country": "英国",
+  "venue": "ExCeL London",
+  "organizer": "[已核验] Terrapinn / Total Telecom",
+  "officialUrl": "[已核验] https://www.terrapinn.com/conference/connected-britain/index.stm",
+  "actionUrl": "https://secure.terrapinn.com/V5/step1.aspx?E=11069&p=1",
+  "theme": "英国连接、宽带和数字经济会议与展览。",
+  "audience": "按用户统一口径统计参会企业/参展商；本次录入154家/实体，官网原始身份保留于明细。",
+  "scale": "2026官网公布：8,000名参会者、3,000家机构、450名讲者、300家参展商、40家初创企业、14个内容主题及1场颁奖典礼。",
+  "feeSummary": "观展：[已核验] 两日Conference and Exhibition Pass with App：原价GBP 2,245，2026-08-14前GBP 1,570；3人以上GBP 1,180/人。Premium Pass：原价1,995，8月14日前1,395；3人以上1,045/人。符合条件Free Ticket为免费。页面说明价格不含可能适用税。；参展：[截至核验日，官方尚未公布] 公开Sponsor/Exhibitor页无固定展位价。；报名时间：2026-08-14前为优惠阶段；最终报名截止未公布",
+  "ticketPrice": "[已核验] 两日Conference and Exhibition Pass with App：原价GBP 2,245，2026-08-14前GBP 1,570；3人以上GBP 1,180/人。Premium Pass：原价1,995，8月14日前1,395；3人以上1,045/人。符合条件Free Ticket为免费。页面说明价格不含可能适用税。",
+  "boothPrice": "[截至核验日，官方尚未公布] 公开Sponsor/Exhibitor页无固定展位价。",
+  "deadlineSummary": "2026-08-14前为优惠阶段；最终报名截止未公布",
+  "deadlineDate": "",
+  "businessSources": "https://www.terrapinn.com/conference/connected-britain/index.stm",
+  "verificationNote": "Connected Britain 2026官方首页“What to expect”区域直接公布上述数字。\\\\\\\\\\\\\\\\n参展价格：截至核验日，官方尚未公布；报名截止：部分已核验（最终截止未公布）\\\\\\\\\\\\\\\\n报名截止：已记录页面可确认的阶段日期；未将价格阶段或其他截止日冒充最终报名截止。",
+  "confirmationStatus": "已确认",
+  "eventStatus": "计划举办",
+  "lastVerified": "2026-07-30",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "C",
+      "score": "51",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "不建议专门花较高费用参加，主要适合SMSBoosting作补充了解。现场主要有网络、基础设施、监管、技术或区域通信生态从业者，直接相关客户可能不够集中。若费用低、距离近或能和其他行程一起安排，可以先在线查看议程和名单，不急着报名；只有找到明确目标公司后再安排线下参加。主要看看能否了解市场、供应商或合规变化，并找出值得继续联系的公司。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "宽带、连接与数字经济",
+      "secondaryPath": "",
+      "target": "宽带运营商、地方政府、基础设施投资方、地产和网络技术供应商",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是51分。目标客户和决策者2/5（相关性有限）; 实际业务机会2/5（相关性有限）; 渠道和合作伙伴3/5（有一定帮助）; 市场和竞争信息3/5（有一定帮助）; 重点地区和行程安排3/5（有一定帮助）; 现场接触和后续行动3/5（有一定帮助）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "已确认",
+      "decisionDeadline": "2026-08-14",
+      "relevanceLevel": "",
+      "targetEvidence": "宽带运营商、地方政府、基础设施投资方、地产和网络技术供应商",
+      "contactMechanism": "https://secure.terrapinn.com/V5/step1.aspx?E=11069&p=1",
+      "verifiableOutcome": "不建议专门花较高费用参加，主要适合SMSBoosting作补充了解。现场主要有网络、基础设施、监管、技术或区域通信生态从业者，直接相关客户可能不够集中。若费用低、距离近或能和其他行程一起安排，可以先在线查看议程和名单，不急着报名；只有找到明确目标公司后再安排线下参加。主要看看能否了解市场、供应商或合规变化，并找出值得继续联系的公司。",
+      "strategicValue": "C",
+      "actionability": "HTML字段复核已完成",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        { "label": "目标客户和决策者", "score": "2" },
+        { "label": "实际业务机会", "score": "2" },
+        { "label": "渠道和合作伙伴", "score": "3" },
+        { "label": "市场和竞争信息", "score": "3" },
+        { "label": "重点地区和行程安排", "score": "3" },
+        { "label": "现场接触和后续行动", "score": "3" }
+      ]
+    }
+  },
+  "locationDisplay": "ExCeL 伦敦 · 伦敦 · 英国",
+  "description": "这是一个面向英国宽带和通信行业的会议与展览，讨论网络建设、连接服务和数字经济。",
+  "industry": "宽带、连接与数字经济",
+  "targetCustomers": "宽带运营商、地方政府、基础设施投资方、地产和网络技术供应商",
+  "sponsorshipPrice": "[截至核验日，官方尚未公布] 公开赞助商页无套餐金额。",
+  "exhibitorIndustry": "宽带网络、光纤、基础设施、政府连接、设备和软件",
+  "exhibitorList": "已收录 154 家/实体；名单文件：参展商名单/EVT-000034_参展商名单.xlsx",
+  "verification": {
+    "progress": "HTML字段复核已完成",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [
+      "日期",
+      "地点",
+      "规模",
+      "主办方",
+      "官方网站",
+      "关键行动链接",
+      "门票/注册费",
+      "参展商名单",
+      "活动行业",
+      "目标客户",
+      "参展商行业"
+    ],
+    "unresolvedFields": [
+      {
+        "field": "展位费用",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "booth：公开Sponsor/Exhibitor页无固定展位价。；sponsor：公开赞助商页无套餐金额。",
+        "source": "https://secure.terrapinn.com/V5/step1.aspx?E=11069&p=1"
+      },
+      {
+        "field": "赞助费用",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "booth：公开Sponsor/Exhibitor页无固定展位价。；sponsor：公开赞助商页无套餐金额。",
+        "source": "https://secure.terrapinn.com/V5/step1.aspx?E=11069&p=1"
+      },
+      {
+        "field": "报名截止",
+        "status": "部分已核验（最终截止未公布）",
+        "reason": "2026-07-30使用Chrome实际检查报名/票务入口。已记录页面可确认的阶段日期；未将价格阶段或其他截止日冒充最终报名截止。",
+        "source": "https://secure.terrapinn.com/V5/step1.aspx?E=11069&p=1"
+      }
+    ],
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://www.terrapinn.com/conference/connected-britain/index.stm"
+      },
+      {
+        "label": "门票/注册费来源",
+        "url": "https://secure.terrapinn.com/V5/step1.aspx?E=11069&p=1"
+      },
+      {
+        "label": "参展商名单来源",
+        "url": "https://www.terrapinn.com/conference/connected-britain/sponsors-and-exhibitors.stm"
+      }
+    ],
+    "date": "2026-07-30",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": ["Connected Britain 2026"]
+}

@@ -1,0 +1,156 @@
+{
+  "key": "EVT-000037",
+  "name": "MEF CONNECTS Enterprise Messaging 2026",
+  "brands": [
+    "SMSBoosting"
+  ],
+  "featuredBrands": [
+    "SMSBoosting"
+  ],
+  "type": "会议",
+  "format": "现场",
+  "start": "2026-11-18",
+  "end": "2026-11-18",
+  "city": "伦敦",
+  "country": "英国",
+  "venue": "Town Hall Spaces, Bidborough St, London, WC1H 9AU",
+  "organizer": "Mobile Ecosystem Forum (MEF)",
+  "officialUrl": "[无法核验] URL真实可点击，但两次Chrome均为Cloudflare挑战页。",
+  "actionUrl": "https://events.ringcentral.com/events/mef-connects-enterprise-messaging",
+  "theme": "企业消息、移动通信、AI与企业增长主题的MEF线下活动。",
+  "audience": "按用户统一口径统计参会企业/参展商；本次录入0家/实体，官网原始身份保留于明细。",
+  "scale": "截至2026-07-30，官网未公布该活动的参会人数或公司数量。",
+  "feeSummary": "观展：[无法核验] Cloudflare挑战阻断，无法读取票务条件。；参展：[无法核验] Cloudflare挑战阻断，无法确认是否设置展位。；报名时间：可申请门票；截至核验日官网未公布截止时间",
+  "ticketPrice": "[无法核验] Cloudflare挑战阻断，无法读取票务条件。",
+  "boothPrice": "[无法核验] Cloudflare挑战阻断，无法确认是否设置展位。",
+  "deadlineSummary": "可申请门票；截至核验日官网未公布截止时间",
+  "deadlineDate": "",
+  "businessSources": "https://mobileecosystemforum.com/event/mef-connects-enterprise-messaging/",
+  "verificationNote": "当前专页已可读取，页面只说明活动受众、时间、地点及票务申请入口。\\\\\\\\\\\\\\\\n观展价格：无法核验；参展价格：无法核验；报名截止：截至核验日，官方尚未公布\\\\\\\\\\\\\\\\n报名截止：页面未公布明确报名截止日期。",
+  "confirmationStatus": "已确认",
+  "eventStatus": "计划举办",
+  "lastVerified": "2026-07-30",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "A",
+      "score": "80",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "建议优先参加，主要适合SMSBoosting。现场主要有移动运营商、运营商、SMS聚合商、企业通信平台、企业消息平台及批发连接决策者。建议安排1人参加会议，提前预约目标公司，不购买大型展位。这次参加要争取：列出值得约见的运营商或短信服务商，讨论覆盖、路由质量、价格或合作。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "企业消息、移动通信与AI",
+      "secondaryPath": "",
+      "target": "运营商、SMS Hub、聚合商、CPaaS、企业通信及企业数字化负责人",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是80分。目标客户和决策者4/5（比较重要）; 实际业务机会4/5（比较重要）; 渠道和合作伙伴5/5（非常重要）; 市场和竞争信息4/5（比较重要）; 重点地区和行程安排3/5（有一定帮助）; 现场接触和后续行动4/5（比较重要）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "已确认",
+      "decisionDeadline": "",
+      "relevanceLevel": "",
+      "targetEvidence": "运营商、SMS Hub、聚合商、CPaaS、企业通信及企业数字化负责人",
+      "contactMechanism": "https://events.ringcentral.com/events/mef-connects-enterprise-messaging",
+      "verifiableOutcome": "建议优先参加，主要适合SMSBoosting。现场主要有移动运营商、运营商、SMS聚合商、企业通信平台、企业消息平台及批发连接决策者。建议安排1人参加会议，提前预约目标公司，不购买大型展位。这次参加要争取：列出值得约见的运营商或短信服务商，讨论覆盖、路由质量、价格或合作。",
+      "strategicValue": "A",
+      "actionability": "HTML字段复核已完成",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        {
+          "label": "目标客户和决策者",
+          "score": "4"
+        },
+        {
+          "label": "实际业务机会",
+          "score": "4"
+        },
+        {
+          "label": "渠道和合作伙伴",
+          "score": "5"
+        },
+        {
+          "label": "市场和竞争信息",
+          "score": "4"
+        },
+        {
+          "label": "重点地区和行程安排",
+          "score": "3"
+        },
+        {
+          "label": "现场接触和后续行动",
+          "score": "4"
+        }
+      ]
+    }
+  },
+  "locationDisplay": "Town Hall Spaces, Bidborough St, 伦敦, WC1H 9AU · 伦敦 · 英国",
+  "description": "这是一个主要讨论企业消息、移动通信、AI与企业增长主题的MEF线下活动的行业会议。",
+  "industry": "企业消息、移动通信与AI",
+  "targetCustomers": "运营商、SMS Hub、聚合商、CPaaS、企业通信及企业数字化负责人",
+  "sponsorshipPrice": "[无法核验] Cloudflare挑战阻断，无法读取赞助信息。",
+  "exhibitorIndustry": "不适用：官网为企业消息主题交流活动，未显示独立展览机制",
+  "exhibitorList": "官网访问受限、空白或无法加载，不能确认公司级2026名单。",
+  "verification": {
+    "progress": "HTML字段复核已完成",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [
+      "日期",
+      "地点",
+      "主办方",
+      "官方网站",
+      "关键行动链接",
+      "活动行业",
+      "目标客户",
+      "参展商行业"
+    ],
+    "unresolvedFields": [
+      {
+        "field": "规模",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "当前专页已可读取，页面只说明活动受众、时间、地点及票务申请入口。",
+        "source": "https://mobileecosystemforum.com/event/mef-connects-enterprise-messaging/"
+      },
+      {
+        "field": "门票/注册费",
+        "status": "无法核验",
+        "reason": "ticket：Cloudflare挑战阻断，无法读取票务条件。；booth：Cloudflare挑战阻断，无法确认是否设置展位。；sponsor：Cloudflare挑战阻断，无法读取赞助信息。",
+        "source": "https://mobileecosystemforum.com/event/mef-connects-enterprise-messaging/"
+      },
+      {
+        "field": "展位费用",
+        "status": "无法核验",
+        "reason": "ticket：Cloudflare挑战阻断，无法读取票务条件。；booth：Cloudflare挑战阻断，无法确认是否设置展位。；sponsor：Cloudflare挑战阻断，无法读取赞助信息。",
+        "source": "https://mobileecosystemforum.com/event/mef-connects-enterprise-messaging/"
+      },
+      {
+        "field": "赞助费用",
+        "status": "无法核验",
+        "reason": "ticket：Cloudflare挑战阻断，无法读取票务条件。；booth：Cloudflare挑战阻断，无法确认是否设置展位。；sponsor：Cloudflare挑战阻断，无法读取赞助信息。",
+        "source": "https://mobileecosystemforum.com/event/mef-connects-enterprise-messaging/"
+      },
+      {
+        "field": "参展商名单",
+        "status": "无法核验",
+        "reason": "官网访问受限、空白或无法加载，不能确认公司级2026名单。",
+        "source": "https://mobileecosystemforum.com/event/mef-connects-enterprise-messaging/"
+      },
+      {
+        "field": "报名截止",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "2026-07-30使用Chrome实际检查报名/票务入口。页面未公布明确报名截止日期。",
+        "source": "https://mobileecosystemforum.com/event/mef-connects-enterprise-messaging/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://mobileecosystemforum.com/event/mef-connects-enterprise-messaging/"
+      }
+    ],
+    "date": "2026-07-30",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": [
+    "MEF CONNECTS Enterprise Messaging 2026",
+    "MEF CONNECTS Enterprise Messaging London 2026"
+  ]
+}

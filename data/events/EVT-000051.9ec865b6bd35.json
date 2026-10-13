@@ -1,0 +1,176 @@
+{
+  "key": "EVT-000051",
+  "name": "SBC Summit 2026",
+  "brands": [
+    "SMSBoosting"
+  ],
+  "featuredBrands": [],
+  "type": "展览",
+  "format": "现场",
+  "start": "2026-09-29",
+  "end": "2026-10-01",
+  "city": "里斯本",
+  "country": "葡萄牙",
+  "venue": "Feira Internacional de Lisboa & MEO Arena",
+  "organizer": "SBC Events",
+  "officialUrl": "https://sbcevents.com/sbc-summit/",
+  "actionUrl": "https://sbcevents.com/sbc-summit/",
+  "theme": "受监管体育博彩、iGaming、赌场、支付、营销与技术",
+  "audience": "博彩运营商、供应商、支付、营销、合规、技术与决策者",
+  "scale": "官网预期40,000代表、800展商、600+讲者",
+  "feeSummary": "Expo EUR0; Super Stage EUR199; Conference/Networking EUR599; Business EUR799; VIP EUR999",
+  "ticketPrice": "Expo EUR0; Super Stage EUR199; Conference/Networking EUR599; Business EUR799; VIP EUR999",
+  "boothPrice": "unverifiable; official enquiry only",
+  "deadlineSummary": "待确认（尚未完成本轮逐条核验）",
+  "deadlineDate": "",
+  "businessSources": "https://sbcevents.com/sbc-summit/",
+  "verificationNote": "原表已有规模描述，待本轮官网复核。\\\\\\\\\\\\\\\\n预算、内部人员、目标名单和实际报名截止仍需内部/官网最终确认",
+  "confirmationStatus": "部分确认",
+  "eventStatus": "官网核验",
+  "lastVerified": "2026-07-30",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "B",
+      "score": "65",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "可以参加，但先控制费用，主要适合SMSBoosting。现场主要有博彩运营商、供应商、支付、营销、合规、技术与决策者。建议不买大型展位，提前筛选名单，安排1人观展并约见少量目标公司。这次参加要争取：拿到目标公司名单，至少完成5次有效交流，并争取形成会后会议、测试或报价机会。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "",
+      "secondaryPath": "",
+      "target": "",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是65分。目标客户和决策者4/5（比较重要）; 实际业务机会4/5（比较重要）; 渠道和合作伙伴2/5（相关性有限）; 市场和竞争信息3/5（有一定帮助）; 重点地区和行程安排2/5（相关性有限）; 现场接触和后续行动4/5（比较重要）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "部分确认",
+      "decisionDeadline": "",
+      "relevanceLevel": "",
+      "targetEvidence": "",
+      "contactMechanism": "https://sbcevents.com/sbc-summit/",
+      "verifiableOutcome": "可以参加，但先控制费用，主要适合SMSBoosting。现场主要有博彩运营商、供应商、支付、营销、合规、技术与决策者。建议不买大型展位，提前筛选名单，安排1人观展并约见少量目标公司。这次参加要争取：拿到目标公司名单，至少完成5次有效交流，并争取形成会后会议、测试或报价机会。",
+      "strategicValue": "B",
+      "actionability": "官网字段核验完成",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        {
+          "label": "目标客户和决策者",
+          "score": "4"
+        },
+        {
+          "label": "实际业务机会",
+          "score": "4"
+        },
+        {
+          "label": "渠道和合作伙伴",
+          "score": "2"
+        },
+        {
+          "label": "市场和竞争信息",
+          "score": "3"
+        },
+        {
+          "label": "重点地区和行程安排",
+          "score": "2"
+        },
+        {
+          "label": "现场接触和后续行动",
+          "score": "4"
+        }
+      ]
+    }
+  },
+  "locationDisplay": "FIL & MEO Arena, 里斯本, 葡萄牙",
+  "description": "这是一个集中展示受监管体育博彩、iGaming、赌场、支付、营销与技术相关产品和服务的行业展览。",
+  "industry": "",
+  "targetCustomers": "",
+  "sponsorshipPrice": "赞助方案未公开固定金额，需按权益和展位位置询价。",
+  "exhibitorIndustry": "待确认",
+  "exhibitorList": "not published; SBC Connect opens 2026-08-24",
+  "verification": {
+    "progress": "官网字段核验完成",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [
+      "日期",
+      "地点",
+      "主办方",
+      "官方网站",
+      "门票/注册费"
+    ],
+    "unresolvedFields": [
+      {
+        "field": "规模",
+        "status": "待本轮核验",
+        "reason": "原表已有规模描述，待本轮官网复核。",
+        "source": "https://sbcevents.com/sbc-summit/"
+      },
+      {
+        "field": "关键行动链接",
+        "status": "待本轮核验",
+        "reason": "原表链接，待本轮Browser复核。",
+        "source": "https://sbcevents.com/sbc-summit/"
+      },
+      {
+        "field": "展位费用",
+        "status": "官方未公布",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://sbcevents.com/sbc-summit/；https://sbcevents.com/sbc-summit/ticket-options/；https://sbcevents.com/sbc-summit/sponsor-exhibit/"
+      },
+      {
+        "field": "赞助费用",
+        "status": "待本轮核验",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://sbcevents.com/sbc-summit/ticket-options/；https://sbcevents.com/sbc-summit/sponsor-exhibit/"
+      },
+      {
+        "field": "参展商名单",
+        "status": "官方未公布",
+        "reason": "not published; SBC Connect opens 2026-08-24",
+        "source": "https://sbcevents.com/sbc-summit/；https://sbcevents.com/sbc-summit/ticket-options/；https://sbcevents.com/sbc-summit/sponsor-exhibit/"
+      },
+      {
+        "field": "活动行业",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      },
+      {
+        "field": "目标客户",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      },
+      {
+        "field": "报名截止",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      },
+      {
+        "field": "参展商行业",
+        "status": "待本轮核验",
+        "reason": "待本轮核验",
+        "source": ""
+      }
+    ],
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://sbcevents.com/sbc-summit/；https://sbcevents.com/sbc-summit/ticket-options/；https://sbcevents.com/sbc-summit/sponsor-exhibit/"
+      },
+      {
+        "label": "规模来源",
+        "url": "https://sbcevents.com/sbc-summit/"
+      },
+      {
+        "label": "赞助费用来源",
+        "url": "https://sbcevents.com/sbc-summit/ticket-options/；https://sbcevents.com/sbc-summit/sponsor-exhibit/"
+      }
+    ],
+    "date": "2026-07-30",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": [
+    "SBC Summit 2026"
+  ]
+}

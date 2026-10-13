@@ -1,0 +1,116 @@
+{
+  "key": "EVT-000006",
+  "name": "Convegno dell’Osservatorio 5G & Connected Digital Industry 2026",
+  "brands": ["SMSBoosting"],
+  "featuredBrands": [],
+  "type": "会议",
+  "format": "现场",
+  "start": "2026-11-10",
+  "end": "2026-11-10",
+  "city": "米兰",
+  "country": "意大利",
+  "venue": "Aula de Carli",
+  "organizer": "Politecnico di Milano – Osservatori Digital Innovation",
+  "officialUrl": "https://www.osservatori.net/convegno/5g-connected-digital-industry/convegno-osservatorio-5g-connected-digital-industry/",
+  "actionUrl": "https://www.osservatori.net/convegno/5g-connected-digital-industry/convegno-osservatorio-5g-connected-digital-industry/",
+  "theme": "电信、连接、网络基础设施及行业合作相关活动。",
+  "audience": "按用户统一口径统计参会企业/参展商；已录入12家/实体。官网身份仍分别保留。",
+  "scale": "截至核验日，2026活动官网未公布参会人数、讲者人数、会议场次或其他具体规模数字。",
+  "feeSummary": "观展：免费（官网标示Evento gratuito），时间09:30–13:00。；参展：当前活动页未证明设置可单独购买的标准展位；不擅自推定价格。；报名时间：免费活动；截至核验日官网未公布报名截止时间",
+  "ticketPrice": "免费（官网标示Evento gratuito），时间09:30–13:00。",
+  "boothPrice": "当前活动页未证明设置可单独购买的标准展位；不擅自推定价格。",
+  "deadlineSummary": "免费活动；截至核验日官网未公布报名截止时间",
+  "deadlineDate": "",
+  "businessSources": "https://www.osservatori.net/convegno/5g-connected-digital-industry/convegno-osservatorio-5g-connected-digital-industry/",
+  "verificationNote": "已专项检查当前届官方活动页；页面公布了活动时长、议题形式和合作企业，但最终议程仍在制定，没有具体人数或场次数。Osservatori全平台每年50多场会议、2万多名专业人士不是本场规模，未混入。\\\\\\\\\\\\\\\\n报名截止：截至核验日，官方尚未公布\\\\\\\\\\\\\\\\n报名截止：页面未公布明确报名截止日期。",
+  "confirmationStatus": "已确认",
+  "eventStatus": "计划举办",
+  "lastVerified": "2026-07-30",
+  "analyses": {
+    "SMSBoosting": {
+      "grade": "C",
+      "score": "51",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "不建议专门花较高费用参加，主要适合SMSBoosting作补充了解。现场主要有网络、基础设施、监管、技术或区域通信生态从业者，直接相关客户可能不够集中。若费用低、距离近或能和其他行程一起安排，可以先在线查看议程和名单，不急着报名；只有找到明确目标公司后再安排线下参加。主要看看能否了解市场、供应商或合规变化，并找出值得继续联系的公司。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "5G与工业数字化",
+      "secondaryPath": "",
+      "target": "电信运营商、5G技术供应商及工业数字化负责人",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是51分。目标客户和决策者2/5（相关性有限）; 实际业务机会2/5（相关性有限）; 渠道和合作伙伴3/5（有一定帮助）; 市场和竞争信息3/5（有一定帮助）; 重点地区和行程安排3/5（有一定帮助）; 现场接触和后续行动3/5（有一定帮助）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "已确认",
+      "decisionDeadline": "",
+      "relevanceLevel": "",
+      "targetEvidence": "电信运营商、5G技术供应商及工业数字化负责人",
+      "contactMechanism": "https://www.osservatori.net/convegno/5g-connected-digital-industry/convegno-osservatorio-5g-connected-digital-industry/",
+      "verifiableOutcome": "不建议专门花较高费用参加，主要适合SMSBoosting作补充了解。现场主要有网络、基础设施、监管、技术或区域通信生态从业者，直接相关客户可能不够集中。若费用低、距离近或能和其他行程一起安排，可以先在线查看议程和名单，不急着报名；只有找到明确目标公司后再安排线下参加。主要看看能否了解市场、供应商或合规变化，并找出值得继续联系的公司。",
+      "strategicValue": "C",
+      "actionability": "HTML字段复核已完成",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        { "label": "目标客户和决策者", "score": "2" },
+        { "label": "实际业务机会", "score": "2" },
+        { "label": "渠道和合作伙伴", "score": "3" },
+        { "label": "市场和竞争信息", "score": "3" },
+        { "label": "重点地区和行程安排", "score": "3" },
+        { "label": "现场接触和后续行动", "score": "3" }
+      ]
+    }
+  },
+  "locationDisplay": "Aula de Carli · 米兰 · 意大利",
+  "description": "这是一个介绍5G、专网和工业数字化研究成果及企业应用案例的公开会议。",
+  "industry": "5G与工业数字化",
+  "targetCustomers": "电信运营商、5G技术供应商及工业数字化负责人",
+  "sponsorshipPrice": "截至核验日，官方尚未公布固定赞助金额。",
+  "exhibitorIndustry": "5G、工业物联网、云、数据与数字化解决方案",
+  "exhibitorList": "已收录 12 家/实体；名单文件：参展商名单/EVT-000006_参展商名单.xlsx",
+  "verification": {
+    "progress": "HTML字段复核已完成",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [
+      "日期",
+      "地点",
+      "主办方",
+      "官方网站",
+      "关键行动链接",
+      "门票/注册费",
+      "展位费用",
+      "参展商名单",
+      "活动行业",
+      "目标客户",
+      "参展商行业"
+    ],
+    "unresolvedFields": [
+      {
+        "field": "规模",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "已专项检查当前届官方活动页；页面公布了活动时长、议题形式和合作企业，但最终议程仍在制定，没有具体人数或场次数。Osservatori全平台每年50多场会议、2万多名专业人士不是本场规模，未混入。",
+        "source": "https://www.osservatori.net/convegno/5g-connected-digital-industry/convegno-osservatorio-5g-connected-digital-industry/"
+      },
+      {
+        "field": "赞助费用",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "官网仅公开免费参会与当前Partner/Sponsor实体，未公开商业方案金额。",
+        "source": "https://www.osservatori.net/convegno/5g-connected-digital-industry/convegno-osservatorio-5g-connected-digital-industry/"
+      },
+      {
+        "field": "报名截止",
+        "status": "截至核验日，官方尚未公布",
+        "reason": "2026-07-30使用Chrome实际检查报名/票务入口。页面未公布明确报名截止日期。",
+        "source": "https://www.osservatori.net/convegno/5g-connected-digital-industry/convegno-osservatorio-5g-connected-digital-industry/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://www.osservatori.net/convegno/5g-connected-digital-industry/convegno-osservatorio-5g-connected-digital-industry/"
+      }
+    ],
+    "date": "2026-07-30",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": ["Convegno dell’Osservatorio 5G & Connected Digital Industry 2026"]
+}

@@ -1,0 +1,124 @@
+{
+  "key": "EVT-000097",
+  "name": "The AI Summit New York 2026",
+  "brands": ["GoModelHub"],
+  "featuredBrands": ["GoModelHub"],
+  "type": "峰会",
+  "format": "现场",
+  "start": "2026-12-09",
+  "end": "2026-12-10",
+  "city": "纽约",
+  "country": "美国",
+  "venue": "Javits Center",
+  "organizer": "Informa PLC",
+  "officialUrl": "https://newyork.theaisummit.com/",
+  "actionUrl": "购票：https://newyork.theaisummit.com/passes-pricing/；参展/赞助：https://newyork.theaisummit.com/sponsorship/",
+  "theme": "企业AI落地、AI平台、数据、治理、采购和行业应用。",
+  "audience": "企业AI/数据负责人、CIO/CTO、AI产品和平台负责人、技术采购影响者。",
+  "scale": "5,000+ senior decision-makers and AI experts；100+ solution providers；10 stages",
+  "feeSummary": "VIP、Delegate、Expo、Solution Provider Delegate、Data Excellence；当前展示价USD49至2,499",
+  "ticketPrice": "VIP、Delegate、Expo、Solution Provider Delegate、Data Excellence；当前展示价USD49至2,499",
+  "boothPrice": "可申请赞助/参展并下载Sponsorship Brochure；未公开标准展位价格",
+  "deadlineSummary": "未公布完整报名截止；当前票价优惠截至2026-08-28",
+  "deadlineDate": "",
+  "businessSources": "https://newyork.theaisummit.com/",
+  "verificationNote": "原表已有规模描述，待本轮官网复核。\\\\\\\\\\\\\\\\n其他票种截止；可预约企业AI访谈对象\\\\\\\\\\\\\\\\n当前届官网未发布公司级参展商目录或参会企业目录；2025 Sponsors & Partners及2025 sample delegate list均非2026当前届公司名单。",
+  "confirmationStatus": "部分确认",
+  "eventStatus": "官网核验",
+  "lastVerified": "2026-07-30",
+  "analyses": {
+    "GoModelHub": {
+      "grade": "A",
+      "score": "83",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "建议优先参加，主要适合GoModelHub。现场主要有5,000+参会者、100+展商；企业AI、平台、数据和采购角色集中。建议不买大型展位，提前筛选名单，安排1人观展并约见少量目标公司。这次参加要争取：弄清现场公司是否真的有需求，并留下值得继续联系的对象。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "商业/企业AI（enterprise AI）",
+      "secondaryPath": "",
+      "target": "企业领导者、技术创新者、高级决策者、AI/ML与数据从业者、政策制定者、投资者及创业公司",
+      "relevanceBasis": "这场展会对GoModelHub的现有综合分是83分。找到目标客户和负责人4/5（比较重要）; 确认客户是否真的有需求4/5（比较重要）; 确认产品和使用场景4/5（比较重要）; 建立早期客户或合作关系4/5（比较重要）; 了解市场和竞争情况5/5（非常重要）; 重点地区和低成本试错4/5（比较重要）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "部分确认",
+      "decisionDeadline": "2026-08-28",
+      "relevanceLevel": "",
+      "targetEvidence": "企业领导者、技术创新者、高级决策者、AI/ML与数据从业者、政策制定者、投资者及创业公司",
+      "contactMechanism": "购票：https://newyork.theaisummit.com/passes-pricing/；参展/赞助：https://newyork.theaisummit.com/sponsorship/",
+      "verifiableOutcome": "建议优先参加，主要适合GoModelHub。现场主要有5,000+参会者、100+展商；企业AI、平台、数据和采购角色集中。建议不买大型展位，提前筛选名单，安排1人观展并约见少量目标公司。这次参加要争取：弄清现场公司是否真的有需求，并留下值得继续联系的对象。",
+      "strategicValue": "A",
+      "actionability": "官网字段核验完成",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        { "label": "找到目标客户和负责人", "score": "4" },
+        { "label": "确认客户是否真的有需求", "score": "4" },
+        { "label": "确认产品和使用场景", "score": "4" },
+        { "label": "建立早期客户或合作关系", "score": "4" },
+        { "label": "了解市场和竞争情况", "score": "5" },
+        { "label": "重点地区和低成本试错", "score": "4" }
+      ]
+    }
+  },
+  "locationDisplay": "Javits Center, 429 11th Ave, 纽约, NY 10001, USA",
+  "description": "这是一个围绕企业AI落地、AI平台、数据、治理、采购和行业应用交流趋势和合作机会的行业峰会。",
+  "industry": "商业/企业AI（enterprise AI）",
+  "targetCustomers": "企业领导者、技术创新者、高级决策者、AI/ML与数据从业者、政策制定者、投资者及创业公司",
+  "sponsorshipPrice": "赞助采用方案报价；公开页面未列固定金额。",
+  "exhibitorIndustry": "AI技术/解决方案提供商、科技品牌及创业公司",
+  "exhibitorList": "无当前届公司级参展商/参会企业目录",
+  "verification": {
+    "progress": "官网字段核验完成",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [
+      "日期",
+      "地点",
+      "规模",
+      "主办方",
+      "官方网站",
+      "关键行动链接",
+      "门票/注册费",
+      "展位费用",
+      "活动行业",
+      "目标客户",
+      "参展商行业"
+    ],
+    "unresolvedFields": [
+      {
+        "field": "赞助费用",
+        "status": "待本轮核验",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://newyork.theaisummit.com/passes-pricing/；https://newyork.theaisummit.com/about/faqs/"
+      },
+      {
+        "field": "参展商名单",
+        "status": "官方未公布",
+        "reason": "无当前届公司级参展商/参会企业目录",
+        "source": "https://newyork.theaisummit.com/"
+      },
+      {
+        "field": "报名截止",
+        "status": "部分确认",
+        "reason": "当前届官网未发布公司级参展商目录或参会企业目录；2025 Sponsors & Partners及2025 sample delegate list均非2026当前届公司名单。",
+        "source": "https://newyork.theaisummit.com/"
+      }
+    ],
+    "sources": [
+      { "label": "日期来源", "url": "https://newyork.theaisummit.com/" },
+      {
+        "label": "赞助费用来源",
+        "url": "https://newyork.theaisummit.com/passes-pricing/；https://newyork.theaisummit.com/about/faqs/"
+      }
+    ],
+    "date": "2026-07-30",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": [
+    "The AI Summit New York 2026",
+    "AI Summit New York",
+    "The AI Summit NYC",
+    "AI Summit NY",
+    "AI Summit NYC",
+    "纽约AI峰会"
+  ]
+}

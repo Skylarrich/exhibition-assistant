@@ -1,0 +1,238 @@
+{
+  "key": "EVT-000092",
+  "name": "Ai4 2026",
+  "brands": [
+    "GoModelHub"
+  ],
+  "featuredBrands": [],
+  "type": "峰会",
+  "format": "现场",
+  "start": "无法核验",
+  "end": "无法核验",
+  "city": "无法核验",
+  "country": "无法核验",
+  "venue": "无法核验",
+  "organizer": "无法核验",
+  "officialUrl": "无法核验",
+  "actionUrl": "无法核验",
+  "theme": "企业AI、生成式AI、数据、基础设施、行业应用与AI治理。",
+  "audience": "CIO/CTO、企业AI与数据负责人、AI产品和平台团队、技术采购影响者。",
+  "scale": "无法核验",
+  "feeSummary": "2026官网提示票价将于2026-08-02上涨，并提示当前可节省USD 600；本轮页面未取得当前各票种完整固定金额。；官方设Sponsor/Exhibitor Lineup；展位固定价格未公开。；赞助需提交申请，由销售提供定制方案和报价。；原因：官网公开涨价节点和优惠幅度，但当前票种金额未在可审计页面文本中完整呈现。；下一步：涨价前索取票价截图/书面报价；参展需同时索取展位规格、1对1会议权益和付款截止。",
+  "ticketPrice": "无法核验",
+  "boothPrice": "无法核验",
+  "deadlineSummary": "待确认（官网字段核验完成（部分字段无法核验））",
+  "deadlineDate": "",
+  "businessSources": "无法核验",
+  "verificationNote": "官网 ai4.io（含 www 与 /2026/ 路径）均被 Cloudflare 人机验证拦截（HTTP 403 'Just a moment...'）；按铁律不绕过访问限制\\n官网 Cloudflare 挑战拦截（HTTP 403），按铁律未绕过；域名可解析（DNS 正常）但内容不可达，实体无法确认；官网 ai4.io（含 www 与 /2026/ 路径）均被 Cloudflare 人机验证拦截（HTTP 403 'Just a moment...'）；按铁律不绕过访问限制",
+  "confirmationStatus": "部分确认",
+  "eventStatus": "计划举办",
+  "lastVerified": "2026-08-04",
+  "analyses": {
+    "GoModelHub": {
+      "grade": "B",
+      "score": "70",
+      "participation": "待根据实际资源确认",
+      "backupParticipation": "持续观察",
+      "goal": "待确认",
+      "task": "待确认",
+      "reason": "可以参加，但先控制费用，主要适合GoModelHub。现场主要有12,000+企业AI领导者；需按当前届名单筛选AI产品、平台和采购影响角色。建议安排1人参加会议，提前预约目标公司，不购买大型展位。这次参加要争取：弄清现场公司是否真的有需求，并留下值得继续联系的对象。",
+      "expected": "根据目标客户、费用和截止信息安排后续行动。",
+      "primaryPath": "",
+      "secondaryPath": "",
+      "target": "",
+      "relevanceBasis": "这场展会对GoModelHub的现有综合分是70分。找到目标客户和负责人4/5（比较重要）; 确认客户是否真的有需求3/5（有一定帮助）; 确认产品和使用场景3/5（有一定帮助）; 建立早期客户或合作关系4/5（比较重要）; 了解市场和竞争情况5/5（非常重要）; 重点地区和低成本试错2/5（相关性有限）。原总分保持不变，没有根据这些分项重新打分。",
+      "confidence": "部分确认",
+      "decisionDeadline": "",
+      "relevanceLevel": "",
+      "targetEvidence": "",
+      "contactMechanism": "无法核验",
+      "verifiableOutcome": "可以参加，但先控制费用，主要适合GoModelHub。现场主要有12,000+企业AI领导者；需按当前届名单筛选AI产品、平台和采购影响角色。建议安排1人参加会议，提前预约目标公司，不购买大型展位。这次参加要争取：弄清现场公司是否真的有需求，并留下值得继续联系的对象。",
+      "strategicValue": "B",
+      "actionability": "官网字段核验完成（部分字段无法核验）",
+      "alternative": "以官方页面和关键行动链接为准。",
+      "scoreBreakdown": [
+        {
+          "label": "找到目标客户和负责人",
+          "score": "4"
+        },
+        {
+          "label": "确认客户是否真的有需求",
+          "score": "3"
+        },
+        {
+          "label": "确认产品和使用场景",
+          "score": "3"
+        },
+        {
+          "label": "建立早期客户或合作关系",
+          "score": "4"
+        },
+        {
+          "label": "了解市场和竞争情况",
+          "score": "5"
+        },
+        {
+          "label": "重点地区和低成本试错",
+          "score": "2"
+        }
+      ]
+    }
+  },
+  "locationDisplay": "无法核验｜无法核验｜无法核验",
+  "description": "这是一个围绕企业AI、生成式AI、数据、基础设施、行业应用与AI治理交流趋势和合作机会的行业峰会。",
+  "industry": "",
+  "targetCustomers": "",
+  "sponsorshipPrice": "赞助需提交申请，由销售提供定制方案和报价。",
+  "exhibitorIndustry": "",
+  "exhibitorList": "截至核验日，官网未公布当前届公司级参会企业/参展商目录。",
+  "verification": {
+    "progress": "官网字段核验完成（部分字段无法核验）",
+    "isFormallyVerified": true,
+    "allPassed": false,
+    "verifiedFields": [],
+    "unresolvedFields": [
+      {
+        "field": "日期",
+        "status": "无法核验（官网不可访问）",
+        "reason": "官网 ai4.io（含 www 与 /2026/ 路径）均被 Cloudflare 人机验证拦截（HTTP 403 'Just a moment...'）；按铁律不绕过访问限制",
+        "source": "https://ai4.io/"
+      },
+      {
+        "field": "地点",
+        "status": "无法核验（官网不可访问）",
+        "reason": "官网 ai4.io（含 www 与 /2026/ 路径）均被 Cloudflare 人机验证拦截（HTTP 403 'Just a moment...'）；按铁律不绕过访问限制",
+        "source": "https://ai4.io/"
+      },
+      {
+        "field": "规模",
+        "status": "无法核验（官网不可访问）",
+        "reason": "官网 ai4.io（含 www 与 /2026/ 路径）均被 Cloudflare 人机验证拦截（HTTP 403 'Just a moment...'）；按铁律不绕过访问限制",
+        "source": "https://ai4.io/"
+      },
+      {
+        "field": "主办方",
+        "status": "无法核验（官网不可访问）",
+        "reason": "官网 ai4.io（含 www 与 /2026/ 路径）均被 Cloudflare 人机验证拦截（HTTP 403 'Just a moment...'）；按铁律不绕过访问限制",
+        "source": "https://ai4.io/"
+      },
+      {
+        "field": "官方网站",
+        "status": "无法核验（官网不可访问）",
+        "reason": "官网 ai4.io（含 www 与 /2026/ 路径）均被 Cloudflare 人机验证拦截（HTTP 403 'Just a moment...'）；按铁律不绕过访问限制",
+        "source": "https://ai4.io/"
+      },
+      {
+        "field": "关键行动链接",
+        "status": "无法核验（官网不可访问）",
+        "reason": "官网 ai4.io（含 www 与 /2026/ 路径）均被 Cloudflare 人机验证拦截（HTTP 403 'Just a moment...'）；按铁律不绕过访问限制",
+        "source": "https://ai4.io/"
+      },
+      {
+        "field": "门票/注册费",
+        "status": "无法核验（官网不可访问）",
+        "reason": "官网 ai4.io（含 www 与 /2026/ 路径）均被 Cloudflare 人机验证拦截（HTTP 403 'Just a moment...'）；按铁律不绕过访问限制",
+        "source": "https://ai4.io/"
+      },
+      {
+        "field": "展位费用",
+        "status": "无法核验（官网不可访问）",
+        "reason": "官网 ai4.io（含 www 与 /2026/ 路径）均被 Cloudflare 人机验证拦截（HTTP 403 'Just a moment...'）；按铁律不绕过访问限制",
+        "source": "https://ai4.io/"
+      },
+      {
+        "field": "赞助费用",
+        "status": "待本轮核验",
+        "reason": "原表费用内容仅作本轮核验起点。",
+        "source": "https://ai4.io/；https://ai4.io/sponsors-exhibitors/"
+      },
+      {
+        "field": "参展商名单",
+        "status": "已核验：官网未公布当前届公司级名单",
+        "reason": "截至核验日，官网未公布当前届公司级参会企业/参展商目录。",
+        "source": "https://ai4.io/"
+      },
+      {
+        "field": "活动行业",
+        "status": "待确认",
+        "reason": "官网 Cloudflare 挑战拦截（HTTP 403），按铁律未绕过；域名可解析（DNS 正常）但内容不可达，实体无法确认；官网 ai4.io（含 www 与 /2026/ 路径）均被 Cloudflare 人机验证拦截（HTTP 403 'Just a moment...'）；按铁律不绕过访问限制",
+        "source": ""
+      },
+      {
+        "field": "目标客户",
+        "status": "待确认",
+        "reason": "官网 Cloudflare 挑战拦截（HTTP 403），按铁律未绕过；域名可解析（DNS 正常）但内容不可达，实体无法确认；官网 ai4.io（含 www 与 /2026/ 路径）均被 Cloudflare 人机验证拦截（HTTP 403 'Just a moment...'）；按铁律不绕过访问限制",
+        "source": ""
+      },
+      {
+        "field": "报名截止",
+        "status": "待确认",
+        "reason": "官网 Cloudflare 挑战拦截（HTTP 403），按铁律未绕过；域名可解析（DNS 正常）但内容不可达，实体无法确认；官网 ai4.io（含 www 与 /2026/ 路径）均被 Cloudflare 人机验证拦截（HTTP 403 'Just a moment...'）；按铁律不绕过访问限制",
+        "source": ""
+      },
+      {
+        "field": "参展商行业",
+        "status": "待确认",
+        "reason": "官网 Cloudflare 挑战拦截（HTTP 403），按铁律未绕过；域名可解析（DNS 正常）但内容不可达，实体无法确认；官网 ai4.io（含 www 与 /2026/ 路径）均被 Cloudflare 人机验证拦截（HTTP 403 'Just a moment...'）；按铁律不绕过访问限制",
+        "source": ""
+      }
+    ],
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://ai4.io/"
+      },
+      {
+        "label": "地点来源",
+        "url": "https://ai4.io/"
+      },
+      {
+        "label": "规模来源",
+        "url": "https://ai4.io/"
+      },
+      {
+        "label": "主办方来源",
+        "url": "https://ai4.io/"
+      },
+      {
+        "label": "官方网站来源",
+        "url": "https://ai4.io/"
+      },
+      {
+        "label": "关键行动链接来源",
+        "url": "https://ai4.io/"
+      },
+      {
+        "label": "门票/注册费来源",
+        "url": "https://ai4.io/"
+      },
+      {
+        "label": "展位费用来源",
+        "url": "https://ai4.io/"
+      },
+      {
+        "label": "赞助费用来源",
+        "url": "https://ai4.io/"
+      },
+      {
+        "label": "赞助费用来源",
+        "url": "https://ai4.io/sponsors-exhibitors/"
+      },
+      {
+        "label": "参展商名单来源",
+        "url": "https://ai4.io/"
+      }
+    ],
+    "date": "2026-08-04",
+    "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
+  },
+  "aliases": [
+    "AI4 2026",
+    "AI4",
+    "AI 4",
+    "Ai4 Las Vegas",
+    "AI4 Las Vegas 2026",
+    "美国AI4大会",
+    "Ai4 2026"
+  ]
+}
