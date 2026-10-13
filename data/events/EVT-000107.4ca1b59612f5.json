@@ -7,14 +7,14 @@
   "featuredBrands": [],
   "type": "会议",
   "format": "现场",
-  "start": "截至核验日，官方尚未公布",
-  "end": "截至核验日，官方尚未公布",
+  "start": "2026-11-03",
+  "end": "2026-11-06",
   "city": "截至核验日，官方尚未公布",
   "country": "截至核验日，官方尚未公布",
   "venue": "截至核验日，官方尚未公布",
   "organizer": "FELABAN（Federación Latinoamericana de Bancos）",
-  "officialUrl": "https://felaban.com/",
-  "actionUrl": "截至核验日，官方尚未公布",
+  "officialUrl": "https://felabanperu.com/",
+  "actionUrl": "https://felabanperu.com/",
   "theme": "目标客户行业—金融科技与支付",
   "audience": "银行、支付、金融科技的产品、技术、增长、客户体验与采购角色",
   "scale": "区域级（拉丁美洲银行业与金融界年度盛会，官网原文：punto de encuentro del liderazgo financiero en América Latina）",
@@ -27,7 +27,7 @@
   "verificationNote": "官网将年度大会描述为拉美金融领导力的汇聚点\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
   "confirmationStatus": "部分确认",
   "eventStatus": "计划举办",
-  "lastVerified": "2026-08-04",
+  "lastVerified": "2026-10-13",
   "analyses": {
     "SMSBoosting": {
       "grade": "B",
@@ -87,31 +87,21 @@
   "exhibitorIndustry": "",
   "exhibitorList": "截至核验日，官网未公布当前届公司级参会企业/参展商目录。",
   "verification": {
-    "progress": "官网字段核验完成（部分字段官方未公布）",
-    "isFormallyVerified": true,
+    "progress": "已完成日期与官网链接专项核验（其余字段待核验）",
+    "isFormallyVerified": false,
     "allPassed": false,
     "verifiedFields": [
       "规模",
       "主办方",
-      "官方网站"
+      "官方网站",
+      "日期",
+      "关键行动链接"
     ],
     "unresolvedFields": [
-      {
-        "field": "日期",
-        "status": "截至核验日，官方尚未公布",
-        "reason": "官网 congresos 索引页与 60ª Asamblea 官方页均未公布 2026 届日期；同上；两官方页均未公布 2026 届日期",
-        "source": "https://felaban.com/congresos/"
-      },
       {
         "field": "地点",
         "status": "截至核验日，官方尚未公布",
         "reason": "官方 60ª Asamblea Anual 页为通用介绍，未公布 2026 届场馆；官方 60ª Asamblea Anual 页未公布举办城市；官方 60ª Asamblea Anual 页未公布举办国家/地区",
-        "source": "https://felaban.com/60a-asamblea-anual-de-felaban/"
-      },
-      {
-        "field": "关键行动链接",
-        "status": "截至核验日，官方尚未公布",
-        "reason": "官方 60ª Asamblea 页无注册/购票入口",
         "source": "https://felaban.com/60a-asamblea-anual-de-felaban/"
       },
       {
@@ -165,10 +155,6 @@
     ],
     "sources": [
       {
-        "label": "日期来源",
-        "url": "https://felaban.com/congresos/"
-      },
-      {
         "label": "地点来源",
         "url": "https://felaban.com/60a-asamblea-anual-de-felaban/"
       },
@@ -203,9 +189,21 @@
       {
         "label": "参展商名单来源",
         "url": "https://felaban.com/60a-asamblea-anual-de-felaban/"
+      },
+      {
+        "label": "日期来源",
+        "url": "https://felabanperu.com/"
+      },
+      {
+        "label": "官方网站",
+        "url": "https://felabanperu.com/"
+      },
+      {
+        "label": "关键行动链接",
+        "url": "https://felabanperu.com/"
       }
     ],
-    "date": "2026-08-04",
+    "date": "2026-10-13",
     "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
   },
   "aliases": [

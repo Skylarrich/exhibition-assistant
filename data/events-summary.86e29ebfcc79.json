@@ -3937,8 +3937,8 @@
     "featuredBrands": [],
     "type": "会议",
     "format": "现场",
-    "start": "截至核验日，官方尚未公布",
-    "end": "截至核验日，官方尚未公布",
+    "start": "2026-11-03",
+    "end": "2026-11-06",
     "city": "截至核验日，官方尚未公布",
     "country": "截至核验日，官方尚未公布",
     "venue": "截至核验日，官方尚未公布",
@@ -3960,9 +3960,9 @@
       }
     },
     "verification": {
-      "isFormallyVerified": true
+      "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000107.383ca35db52c.json"
+    "detailPath": "data/events/EVT-000107.4ca1b59612f5.json"
   },
   {
     "key": "EVT-000108",
@@ -17083,8 +17083,8 @@
     "featuredBrands": [],
     "type": "会议",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-09-24",
+    "end": "2026-09-24",
     "city": "待确认",
     "country": "巴拉圭",
     "venue": "待确认",
@@ -17113,7 +17113,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000463.6abfc6ddec71.json"
+    "detailPath": "data/events/EVT-000463.b5d5eb416b74.json"
   },
   {
     "key": "EVT-000464",
@@ -17124,8 +17124,8 @@
     "featuredBrands": [],
     "type": "会议",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-09-24",
+    "end": "2026-09-24",
     "city": "待确认",
     "country": "巴拉圭",
     "venue": "待确认",
@@ -17149,7 +17149,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000464.4675e4e4bca2.json"
+    "detailPath": "data/events/EVT-000464.51927a114886.json"
   },
   {
     "key": "EVT-000465",
@@ -17234,8 +17234,8 @@
     "featuredBrands": [],
     "type": "会议",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-09-10",
+    "end": "2026-09-12",
     "city": "待确认",
     "country": "巴西",
     "venue": "待确认",
@@ -17260,7 +17260,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000467.7a7cdd7957c9.json"
+    "detailPath": "data/events/EVT-000467.9342f86c11f7.json"
   },
   {
     "key": "EVT-000468",
