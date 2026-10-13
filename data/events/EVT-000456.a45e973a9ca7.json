@@ -13,8 +13,8 @@
   "country": "卡塔尔",
   "venue": "待确认",
   "organizer": "待确认",
-  "officialUrl": "https://qatar.worldsummit.ai/",
-  "actionUrl": "https://qatar.worldsummit.ai/",
+  "officialUrl": "https://qatar.worldsummit.ai/plan-your-trip/",
+  "actionUrl": "https://qatar.worldsummit.ai/plan-your-trip/",
   "theme": "沿用旧表线索，按V1.1重新判断",
   "audience": "待补充官方受众、展商或角色证据",
   "scale": "待本轮官网核验，当前没有可确认的规模数据。",
@@ -27,7 +27,7 @@
   "verificationNote": "尚未执行本轮规模专项官网核验，不能写成官网未公布。\\\\\\\\\\\\\\\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
   "confirmationStatus": "待确认",
   "eventStatus": "计划举办",
-  "lastVerified": "2026-07-29",
+  "lastVerified": "2026-10-13",
   "analyses": {
     "GoModelHub": {
       "grade": "C",
@@ -87,16 +87,19 @@
   "exhibitorIndustry": "待确认",
   "exhibitorList": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
   "verification": {
-    "progress": "尚未完成本轮逐条核验",
+    "progress": "已完成官方活动状态专项核验；日期仍待主办方另行公布",
     "isFormallyVerified": false,
     "allPassed": false,
-    "verifiedFields": [],
+    "verifiedFields": [
+      "官方网站",
+      "关键行动链接"
+    ],
     "unresolvedFields": [
       {
         "field": "日期",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": "https://qatar.worldsummit.ai/"
+        "status": "官方状态已确认",
+        "reason": "主办方说明 Doha 2026 已暂停，直至另行通知；不保留网页中残留的旧届期信息。",
+        "source": "https://qatar.worldsummit.ai/plan-your-trip/"
       },
       {
         "field": "地点",
@@ -114,18 +117,6 @@
         "field": "主办方",
         "status": "待本轮核验",
         "reason": "原表值，仅作本轮核验起点。",
-        "source": "https://qatar.worldsummit.ai/"
-      },
-      {
-        "field": "官方网站",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": "https://qatar.worldsummit.ai/"
-      },
-      {
-        "field": "关键行动链接",
-        "status": "待本轮核验",
-        "reason": "原表链接，待本轮Browser复核。",
         "source": "https://qatar.worldsummit.ai/"
       },
       {
@@ -179,11 +170,19 @@
     ],
     "sources": [
       {
-        "label": "日期来源",
-        "url": "https://qatar.worldsummit.ai/"
+        "label": "官方状态来源",
+        "url": "https://qatar.worldsummit.ai/plan-your-trip/"
+      },
+      {
+        "label": "官方网站",
+        "url": "https://qatar.worldsummit.ai/plan-your-trip/"
+      },
+      {
+        "label": "关键行动链接",
+        "url": "https://qatar.worldsummit.ai/plan-your-trip/"
       }
     ],
-    "date": "2026-07-29",
+    "date": "2026-10-13",
     "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
   },
   "aliases": [

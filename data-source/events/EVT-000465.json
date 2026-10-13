@@ -1,7 +1,9 @@
 {
   "key": "EVT-000465",
   "name": "DevOpsDays São Paulo 2026",
-  "brands": ["GoModelHub"],
+  "brands": [
+    "GoModelHub"
+  ],
   "featuredBrands": [],
   "type": "会议",
   "format": "现场",
@@ -11,8 +13,8 @@
   "country": "巴西",
   "venue": "待确认",
   "organizer": "待确认",
-  "officialUrl": "https://devopsdays.org/events/",
-  "actionUrl": "https://devopsdays.org/events/",
+  "officialUrl": "https://devopsdays.org/events/2026-sao-paulo",
+  "actionUrl": "https://devopsdays.org/events/2026-sao-paulo",
   "theme": "沿用旧表线索，按V1.1重新判断",
   "audience": "待补充官方受众、展商或角色证据",
   "scale": "待本轮官网核验，当前没有可确认的规模数据。",
@@ -25,7 +27,7 @@
   "verificationNote": "尚未执行本轮规模专项官网核验，不能写成官网未公布。\\\\\\\\\\\\\\\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
   "confirmationStatus": "待确认",
   "eventStatus": "计划举办",
-  "lastVerified": "2026-07-29",
+  "lastVerified": "2026-10-13",
   "analyses": {
     "GoModelHub": {
       "grade": "C",
@@ -50,12 +52,30 @@
       "actionability": "尚未完成本轮逐条核验",
       "alternative": "以官方页面和关键行动链接为准。",
       "scoreBreakdown": [
-        { "label": "找到目标客户和负责人", "score": "2" },
-        { "label": "确认客户是否真的有需求", "score": "2" },
-        { "label": "确认产品和使用场景", "score": "2" },
-        { "label": "建立早期客户或合作关系", "score": "3" },
-        { "label": "了解市场和竞争情况", "score": "4" },
-        { "label": "重点地区和低成本试错", "score": "2" }
+        {
+          "label": "找到目标客户和负责人",
+          "score": "2"
+        },
+        {
+          "label": "确认客户是否真的有需求",
+          "score": "2"
+        },
+        {
+          "label": "确认产品和使用场景",
+          "score": "2"
+        },
+        {
+          "label": "建立早期客户或合作关系",
+          "score": "3"
+        },
+        {
+          "label": "了解市场和竞争情况",
+          "score": "4"
+        },
+        {
+          "label": "重点地区和低成本试错",
+          "score": "2"
+        }
       ]
     }
   },
@@ -67,16 +87,19 @@
   "exhibitorIndustry": "待确认",
   "exhibitorList": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
   "verification": {
-    "progress": "尚未完成本轮逐条核验",
+    "progress": "已完成官方活动状态专项核验；日期仍待主办方另行公布",
     "isFormallyVerified": false,
     "allPassed": false,
-    "verifiedFields": [],
+    "verifiedFields": [
+      "官方网站",
+      "关键行动链接"
+    ],
     "unresolvedFields": [
       {
         "field": "日期",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": "https://devopsdays.org/events/"
+        "status": "官方状态已确认",
+        "reason": "主办方页面仅标注 TBD（日期待定），尚未公布确切日期。",
+        "source": "https://devopsdays.org/events/2026-sao-paulo"
       },
       {
         "field": "地点",
@@ -94,18 +117,6 @@
         "field": "主办方",
         "status": "待本轮核验",
         "reason": "原表值，仅作本轮核验起点。",
-        "source": "https://devopsdays.org/events/"
-      },
-      {
-        "field": "官方网站",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": "https://devopsdays.org/events/"
-      },
-      {
-        "field": "关键行动链接",
-        "status": "待本轮核验",
-        "reason": "原表链接，待本轮Browser复核。",
         "source": "https://devopsdays.org/events/"
       },
       {
@@ -158,10 +169,24 @@
       }
     ],
     "sources": [
-      { "label": "日期来源", "url": "https://devopsdays.org/events/" }
+      {
+        "label": "官方状态来源",
+        "url": "https://devopsdays.org/events/2026-sao-paulo"
+      },
+      {
+        "label": "官方网站",
+        "url": "https://devopsdays.org/events/2026-sao-paulo"
+      },
+      {
+        "label": "关键行动链接",
+        "url": "https://devopsdays.org/events/2026-sao-paulo"
+      }
     ],
-    "date": "2026-07-29",
+    "date": "2026-10-13",
     "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
   },
-  "aliases": ["DevOpsDays São Paulo 2026", "DevOpsDays São Paulo"]
+  "aliases": [
+    "DevOpsDays São Paulo 2026",
+    "DevOpsDays São Paulo"
+  ]
 }

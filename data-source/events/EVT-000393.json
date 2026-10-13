@@ -1,7 +1,10 @@
 {
   "key": "EVT-000393",
   "name": "MWC Kigali 2026",
-  "brands": ["SMSBoosting", "GoModelHub"],
+  "brands": [
+    "SMSBoosting",
+    "GoModelHub"
+  ],
   "featuredBrands": [],
   "type": "会议",
   "format": "现场",
@@ -11,8 +14,8 @@
   "country": "卢旺达",
   "venue": "待确认",
   "organizer": "待确认",
-  "officialUrl": "https://www.mwckigali.com/",
-  "actionUrl": "https://www.mwckigali.com/",
+  "officialUrl": "https://www.mwckigali.com/articles/mwc26-kigali-postponed",
+  "actionUrl": "https://www.mwckigali.com/articles/mwc26-kigali-postponed",
   "theme": "本轮未取得2026届官方日期与地点证据。",
   "audience": "待官方名单/目标角色证据",
   "scale": "待本轮官网核验，当前没有可确认的规模数据。",
@@ -25,7 +28,7 @@
   "verificationNote": "尚未执行本轮规模专项官网核验，不能写成官网未公布。\\\\\\\\\\\\\\\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
   "confirmationStatus": "部分确认",
   "eventStatus": "计划举办",
-  "lastVerified": "2026-07-29",
+  "lastVerified": "2026-10-13",
   "analyses": {
     "GoModelHub": {
       "grade": "B",
@@ -50,12 +53,30 @@
       "actionability": "尚未完成本轮逐条核验",
       "alternative": "以官方页面和关键行动链接为准。",
       "scoreBreakdown": [
-        { "label": "找到目标客户和负责人", "score": "3" },
-        { "label": "确认客户是否真的有需求", "score": "3" },
-        { "label": "确认产品和使用场景", "score": "3" },
-        { "label": "建立早期客户或合作关系", "score": "3" },
-        { "label": "了解市场和竞争情况", "score": "3" },
-        { "label": "重点地区和低成本试错", "score": "2" }
+        {
+          "label": "找到目标客户和负责人",
+          "score": "3"
+        },
+        {
+          "label": "确认客户是否真的有需求",
+          "score": "3"
+        },
+        {
+          "label": "确认产品和使用场景",
+          "score": "3"
+        },
+        {
+          "label": "建立早期客户或合作关系",
+          "score": "3"
+        },
+        {
+          "label": "了解市场和竞争情况",
+          "score": "3"
+        },
+        {
+          "label": "重点地区和低成本试错",
+          "score": "2"
+        }
       ]
     }
   },
@@ -67,16 +88,19 @@
   "exhibitorIndustry": "待确认",
   "exhibitorList": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
   "verification": {
-    "progress": "尚未完成本轮逐条核验",
+    "progress": "已完成官方活动状态专项核验；日期仍待主办方另行公布",
     "isFormallyVerified": false,
     "allPassed": false,
-    "verifiedFields": [],
+    "verifiedFields": [
+      "官方网站",
+      "关键行动链接"
+    ],
     "unresolvedFields": [
       {
         "field": "日期",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": "https://www.mwckigali.com/"
+        "status": "官方状态已确认",
+        "reason": "主办方已于 2026-06-02 宣布延期；新日期尚未公布。",
+        "source": "https://www.mwckigali.com/articles/mwc26-kigali-postponed"
       },
       {
         "field": "地点",
@@ -94,18 +118,6 @@
         "field": "主办方",
         "status": "待本轮核验",
         "reason": "原表值，仅作本轮核验起点。",
-        "source": "https://www.mwckigali.com/"
-      },
-      {
-        "field": "官方网站",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": "https://www.mwckigali.com/"
-      },
-      {
-        "field": "关键行动链接",
-        "status": "待本轮核验",
-        "reason": "原表链接，待本轮Browser复核。",
         "source": "https://www.mwckigali.com/"
       },
       {
@@ -157,9 +169,25 @@
         "source": ""
       }
     ],
-    "sources": [{ "label": "日期来源", "url": "https://www.mwckigali.com/" }],
-    "date": "2026-07-29",
+    "sources": [
+      {
+        "label": "官方状态来源",
+        "url": "https://www.mwckigali.com/articles/mwc26-kigali-postponed"
+      },
+      {
+        "label": "官方网站",
+        "url": "https://www.mwckigali.com/articles/mwc26-kigali-postponed"
+      },
+      {
+        "label": "关键行动链接",
+        "url": "https://www.mwckigali.com/articles/mwc26-kigali-postponed"
+      }
+    ],
+    "date": "2026-10-13",
     "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
   },
-  "aliases": ["MWC Kigali 2026", "MWC Kigali"]
+  "aliases": [
+    "MWC Kigali 2026",
+    "MWC Kigali"
+  ]
 }
