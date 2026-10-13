@@ -4219,6 +4219,14 @@
     }
     return [];
   };
+  let showPastEvents = false;
+  const todayKey = () => new Date().toISOString().slice(0, 10);
+  const isPastEvent = (event) => Boolean(event?.end && /^\d{4}-\d{2}-\d{2}$/.test(event.end) && event.end < todayKey());
+  const sortByUpcomingDate = (events) => [...events].sort((left, right) => {
+    const leftDate = /^\d{4}-\d{2}-\d{2}$/.test(left.start || "") ? left.start : "9999-12-31";
+    const rightDate = /^\d{4}-\d{2}-\d{2}$/.test(right.start || "") ? right.start : "9999-12-31";
+    return leftDate.localeCompare(rightDate) || left.name.localeCompare(right.name, "zh-Hans-CN");
+  });
   const getCurrentFilters = () => {
     let hook = getAppFiber()?.memoizedState;
     for (let index = 0; hook && index < 3; index += 1) hook = hook.next;
@@ -4812,6 +4820,16 @@
       renderMultiResults();
     });
     actions.append(clear);
+    const past = document.createElement("button");
+    past.type = "button";
+    past.className = "multiPastToggle";
+    past.textContent = "查看往期展会";
+    past.addEventListener("click", () => {
+      showPastEvents = !showPastEvents;
+      past.textContent = showPastEvents ? "隐藏往期展会" : "查看往期展会";
+      renderMultiResults();
+    });
+    actions.append(past);
     root.append(actions);
     legacy.insertAdjacentElement("beforebegin", root);
     const rail = document.querySelector(".monthRail");
@@ -4846,7 +4864,7 @@
     }
     const monthPanel = document.querySelector(".monthEventPanel");
     if (monthPanel && !monthPanel.hidden) monthPanel.hidden = true;
-    const active = hasMultiFilters() || peopleSortMode !== "default";
+    const active = true;
     toolbar.classList.toggle("multiActive", active);
     const defaultResults = document.querySelector("#search-results");
     const pagination = document.querySelector(".pagination");
@@ -4858,9 +4876,9 @@
       enhancePeopleCards();
       return;
     }
-    const events = sortPeopleEvents(
-      applyMultiFilters(getCurrentResultEvents()),
-    );
+    const events = sortPeopleEvents(sortByUpcomingDate(
+      applyMultiFilters(getCurrentResultEvents()).filter((event) => showPastEvents || !isPastEvent(event)),
+    ));
     const pageCount = Math.max(1, Math.ceil(events.length / peoplePageSize));
     peoplePage = Math.min(peoplePage, pageCount);
     const pageEvents = events.slice(
@@ -4868,7 +4886,7 @@
       peoplePage * peoplePageSize,
     );
     const signature =
-      multiSignature() +
+      multiSignature() + "|" + showPastEvents +
       "|" +
       peopleSortMode +
       "|" +
