@@ -29371,6 +29371,7 @@ function mp() {
     d(event);
     p(event.brands?.[0] || `SMSBoosting`);
   };
+  window.__exhibitionAssistantUiState = { query: n, mode: c };
   (0, _.useEffect)(() => {
     let e = window.setTimeout(() => {
       let e = sp(`exhibition-assistant-favorites-v1`, []),

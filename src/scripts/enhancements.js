@@ -4731,6 +4731,11 @@
       .join("|");
   const hasMultiFilters = () =>
     multiDefinitions.some(({ key }) => multiSelections[key].size);
+  const usesNativeResults = () => {
+    const state = window.__exhibitionAssistantUiState || {};
+    return Boolean(state.query?.trim()) || state.mode === "routes";
+  };
+
   const getMultiMatchedBrand = (event) => {
     const brands = multiSelections.brand.size
       ? event.brands.filter((brand) => multiSelections.brand.has(brand))
@@ -4872,7 +4877,7 @@
     }
     const monthPanel = document.querySelector(".monthEventPanel");
     if (monthPanel && !monthPanel.hidden) monthPanel.hidden = true;
-    const active = true;
+    const active = !usesNativeResults();
     toolbar.classList.toggle("multiActive", active);
     const defaultResults = document.querySelector("#search-results");
     const pagination = document.querySelector(".pagination");
