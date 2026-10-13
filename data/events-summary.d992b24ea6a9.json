@@ -17862,8 +17862,8 @@
     "featuredBrands": [],
     "type": "会议",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-08-03",
+    "end": "2026-08-05",
     "city": "待确认",
     "country": "菲律宾",
     "venue": "待确认",
@@ -17888,7 +17888,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000484.de9685954233.json"
+    "detailPath": "data/events/EVT-000484.d752336db54d.json"
   },
   {
     "key": "EVT-000485",
