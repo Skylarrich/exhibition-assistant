@@ -1,33 +1,33 @@
 {
-  "key": "EVT-000389",
-  "name": "Smart Nation Expo 2026",
+  "key": "EVT-000358",
+  "name": "eCommerce Day Argentina 2026",
   "brands": [
     "SMSBoosting"
   ],
   "featuredBrands": [],
-  "type": "展览",
+  "type": "会议",
   "format": "现场",
-  "start": "",
-  "end": "",
+  "start": "2026-08-27",
+  "end": "2026-08-27",
   "city": "待确认",
   "country": "待确认",
   "venue": "待确认",
   "organizer": "待确认",
-  "officialUrl": "",
-  "actionUrl": "",
-  "theme": "渠道与技术生态",
-  "audience": "待确认",
+  "officialUrl": "https://ecommerceday.org.ar/2026/",
+  "actionUrl": "https://ecommerceday.org.ar/2026/",
+  "theme": "目标客户行业—电商、营销与客户互动",
+  "audience": "电商、零售和客户互动团队",
   "scale": "待本轮官网核验，当前没有可确认的规模数据。",
   "feeSummary": "未取得2026官方门票金额。；未取得2026官方展位设置及报价。；未取得2026官方赞助方案及报价。；原因：当前记录缺少可验证的2026官方网站或行动链接，不能判断是未公开、定制报价还是不设该费用类型。；下一步：先确认活动官方实体与2026页面，再分别核验门票、展位和赞助价格。",
   "ticketPrice": "未取得2026官方门票金额。",
   "boothPrice": "未取得2026官方展位设置及报价。",
   "deadlineSummary": "待确认（尚未完成本轮逐条核验）",
   "deadlineDate": "",
-  "businessSources": "",
+  "businessSources": "https://ecommerceday.org.ar/2026/",
   "verificationNote": "尚未执行本轮规模专项官网核验，不能写成官网未公布。\\\\\\\\\\\\\\\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
   "confirmationStatus": "待确认",
   "eventStatus": "待公布",
-  "lastVerified": "2026-07-29",
+  "lastVerified": "2026-10-13",
   "analyses": {
     "SMSBoosting": {
       "grade": "B",
@@ -36,7 +36,7 @@
       "backupParticipation": "持续观察",
       "goal": "待确认",
       "task": "待确认",
-      "reason": "目前不建议付款或安排出差。官网目前还没有足够的参会企业和人员信息，无法确认现场是否有适合SMSBoosting的客户。先拿到当前届名单，再决定是否参加。",
+      "reason": "可以参加，但先控制费用，主要适合SMSBoosting。现场主要有电商、零售和客户互动团队。建议不买大型展位，提前筛选名单，安排1人观展并约见少量目标公司。这次参加要争取：先确认现场有哪些合适的公司和负责人，再决定要不要参加。",
       "expected": "根据目标客户、费用和截止信息安排后续行动。",
       "primaryPath": "",
       "secondaryPath": "",
@@ -47,7 +47,7 @@
       "relevanceLevel": "",
       "targetEvidence": "",
       "contactMechanism": "",
-      "verifiableOutcome": "目前不建议付款或安排出差。官网目前还没有足够的参会企业和人员信息，无法确认现场是否有适合SMSBoosting的客户。先拿到当前届名单，再决定是否参加。",
+      "verifiableOutcome": "可以参加，但先控制费用，主要适合SMSBoosting。现场主要有电商、零售和客户互动团队。建议不买大型展位，提前筛选名单，安排1人观展并约见少量目标公司。这次参加要争取：先确认现场有哪些合适的公司和负责人，再决定要不要参加。",
       "strategicValue": "B",
       "actionability": "尚未完成本轮逐条核验",
       "alternative": "以官方页面和关键行动链接为准。",
@@ -80,24 +80,22 @@
     }
   },
   "locationDisplay": "待确认 · 待确认 · 待确认",
-  "description": "这是一个展示智慧城市、数字政府、物联网和城市基础设施方案的行业展览。",
+  "description": "这是一个主要讨论电商、数字营销和客户互动的行业会议。",
   "industry": "",
   "targetCustomers": "",
   "sponsorshipPrice": "未取得2026官方赞助方案及报价。",
   "exhibitorIndustry": "待确认",
   "exhibitorList": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
   "verification": {
-    "progress": "尚未完成本轮逐条核验",
+    "progress": "已完成日期与官网链接专项核验（其余字段待核验）",
     "isFormallyVerified": false,
     "allPassed": false,
-    "verifiedFields": [],
+    "verifiedFields": [
+      "日期",
+      "官方网站",
+      "关键行动链接"
+    ],
     "unresolvedFields": [
-      {
-        "field": "日期",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
       {
         "field": "地点",
         "status": "待本轮核验",
@@ -114,18 +112,6 @@
         "field": "主办方",
         "status": "待本轮核验",
         "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
-      {
-        "field": "官方网站",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
-      {
-        "field": "关键行动链接",
-        "status": "待本轮核验",
-        "reason": "原表链接，待本轮Browser复核。",
         "source": ""
       },
       {
@@ -177,12 +163,25 @@
         "source": ""
       }
     ],
-    "sources": [],
-    "date": "2026-07-29",
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://ecommerceday.org.ar/2026/"
+      },
+      {
+        "label": "官方网站来源",
+        "url": "https://ecommerceday.org.ar/2026/"
+      },
+      {
+        "label": "关键行动链接来源",
+        "url": "https://ecommerceday.org.ar/2026/"
+      }
+    ],
+    "date": "2026-10-13",
     "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
   },
   "aliases": [
-    "Smart Nation Expo 2026",
-    "Smart Nation Expo"
+    "eCommerce Day Argentina 2026",
+    "eCommerce Day Argentina"
   ]
 }

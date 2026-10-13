@@ -1,20 +1,20 @@
 {
-  "key": "EVT-000360",
-  "name": "Engage Customer Summit 2026",
+  "key": "EVT-000361",
+  "name": "eTail Boston 2026",
   "brands": [
     "SMSBoosting"
   ],
   "featuredBrands": [],
-  "type": "峰会",
+  "type": "会议",
   "format": "现场",
-  "start": "",
-  "end": "",
+  "start": "2026-08-10",
+  "end": "2026-08-12",
   "city": "待确认",
   "country": "待确认",
   "venue": "待确认",
   "organizer": "待确认",
-  "officialUrl": "",
-  "actionUrl": "",
+  "officialUrl": "https://etail.wbresearch.com/",
+  "actionUrl": "https://etail.wbresearch.com/",
   "theme": "目标客户行业—电商、营销与客户互动",
   "audience": "电商、零售和客户互动团队",
   "scale": "待本轮官网核验，当前没有可确认的规模数据。",
@@ -23,11 +23,11 @@
   "boothPrice": "未取得2026官方展位设置及报价。",
   "deadlineSummary": "待确认（尚未完成本轮逐条核验）",
   "deadlineDate": "",
-  "businessSources": "",
+  "businessSources": "https://etail.wbresearch.com/",
   "verificationNote": "尚未执行本轮规模专项官网核验，不能写成官网未公布。\\\\\\\\\\\\\\\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
   "confirmationStatus": "待确认",
   "eventStatus": "待公布",
-  "lastVerified": "2026-07-29",
+  "lastVerified": "2026-10-13",
   "analyses": {
     "SMSBoosting": {
       "grade": "B",
@@ -80,24 +80,22 @@
     }
   },
   "locationDisplay": "待确认 · 待确认 · 待确认",
-  "description": "这是一个围绕电商、数字营销和客户互动交流趋势和合作机会的行业峰会。",
+  "description": "这是一个主要讨论电商、数字营销和客户互动的行业会议。",
   "industry": "",
   "targetCustomers": "",
   "sponsorshipPrice": "未取得2026官方赞助方案及报价。",
   "exhibitorIndustry": "待确认",
   "exhibitorList": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
   "verification": {
-    "progress": "尚未完成本轮逐条核验",
+    "progress": "已完成日期与官网链接专项核验（其余字段待核验）",
     "isFormallyVerified": false,
     "allPassed": false,
-    "verifiedFields": [],
+    "verifiedFields": [
+      "日期",
+      "官方网站",
+      "关键行动链接"
+    ],
     "unresolvedFields": [
-      {
-        "field": "日期",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
       {
         "field": "地点",
         "status": "待本轮核验",
@@ -114,18 +112,6 @@
         "field": "主办方",
         "status": "待本轮核验",
         "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
-      {
-        "field": "官方网站",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
-      {
-        "field": "关键行动链接",
-        "status": "待本轮核验",
-        "reason": "原表链接，待本轮Browser复核。",
         "source": ""
       },
       {
@@ -177,12 +163,25 @@
         "source": ""
       }
     ],
-    "sources": [],
-    "date": "2026-07-29",
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://etail.wbresearch.com/"
+      },
+      {
+        "label": "官方网站来源",
+        "url": "https://etail.wbresearch.com/"
+      },
+      {
+        "label": "关键行动链接来源",
+        "url": "https://etail.wbresearch.com/"
+      }
+    ],
+    "date": "2026-10-13",
     "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
   },
   "aliases": [
-    "Engage Customer Summit 2026",
-    "Engage Customer Summit"
+    "eTail Boston 2026",
+    "eTail Boston"
   ]
 }

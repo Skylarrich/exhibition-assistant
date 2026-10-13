@@ -1,33 +1,33 @@
 {
-  "key": "EVT-000364",
-  "name": "gamescom 2026",
+  "key": "EVT-000356",
+  "name": "Dubai FinTech Summit 2026",
   "brands": [
     "SMSBoosting"
   ],
   "featuredBrands": [],
-  "type": "会议",
+  "type": "峰会",
   "format": "现场",
-  "start": "",
-  "end": "",
+  "start": "2026-11-02",
+  "end": "2026-11-03",
   "city": "待确认",
-  "country": "待确认",
+  "country": "阿联酋",
   "venue": "待确认",
   "organizer": "待确认",
-  "officialUrl": "",
-  "actionUrl": "",
-  "theme": "目标客户行业—游戏及受监管iGaming",
-  "audience": "游戏及iGaming平台的增长、运营、风控和技术角色",
+  "officialUrl": "https://dubaifintechsummit.com/",
+  "actionUrl": "https://dubaifintechsummit.com/",
+  "theme": "目标客户行业—金融科技与支付",
+  "audience": "银行、支付、金融科技的产品、技术、增长、客户体验与采购角色",
   "scale": "待本轮官网核验，当前没有可确认的规模数据。",
   "feeSummary": "未取得2026官方门票金额。；未取得2026官方展位设置及报价。；未取得2026官方赞助方案及报价。；原因：当前记录缺少可验证的2026官方网站或行动链接，不能判断是未公开、定制报价还是不设该费用类型。；下一步：先确认活动官方实体与2026页面，再分别核验门票、展位和赞助价格。",
   "ticketPrice": "未取得2026官方门票金额。",
   "boothPrice": "未取得2026官方展位设置及报价。",
   "deadlineSummary": "待确认（尚未完成本轮逐条核验）",
   "deadlineDate": "",
-  "businessSources": "",
+  "businessSources": "https://dubaifintechsummit.com/",
   "verificationNote": "尚未执行本轮规模专项官网核验，不能写成官网未公布。\\\\\\\\\\\\\\\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
   "confirmationStatus": "待确认",
   "eventStatus": "待公布",
-  "lastVerified": "2026-07-29",
+  "lastVerified": "2026-10-13",
   "analyses": {
     "SMSBoosting": {
       "grade": "B",
@@ -36,7 +36,7 @@
       "backupParticipation": "持续观察",
       "goal": "待确认",
       "task": "待确认",
-      "reason": "可以参加，但先控制费用，主要适合SMSBoosting。现场主要有游戏及iGaming平台的增长、运营、风控和技术角色。建议不买大型展位，提前筛选名单，安排1人观展并约见少量目标公司。这次参加要争取：先确认现场有哪些合适的公司和负责人，再决定要不要参加。",
+      "reason": "可以参加，但先控制费用，主要适合SMSBoosting。现场主要有银行、支付、金融科技的产品、技术、增长、客户体验与采购角色。建议不买大型展位，提前筛选名单，安排1人观展并约见少量目标公司。这次参加要争取：确认客户是否需要OTP、通知或营销短信，谁负责采购，以及下一步怎么联系。",
       "expected": "根据目标客户、费用和截止信息安排后续行动。",
       "primaryPath": "",
       "secondaryPath": "",
@@ -47,7 +47,7 @@
       "relevanceLevel": "",
       "targetEvidence": "",
       "contactMechanism": "",
-      "verifiableOutcome": "可以参加，但先控制费用，主要适合SMSBoosting。现场主要有游戏及iGaming平台的增长、运营、风控和技术角色。建议不买大型展位，提前筛选名单，安排1人观展并约见少量目标公司。这次参加要争取：先确认现场有哪些合适的公司和负责人，再决定要不要参加。",
+      "verifiableOutcome": "可以参加，但先控制费用，主要适合SMSBoosting。现场主要有银行、支付、金融科技的产品、技术、增长、客户体验与采购角色。建议不买大型展位，提前筛选名单，安排1人观展并约见少量目标公司。这次参加要争取：确认客户是否需要OTP、通知或营销短信，谁负责采购，以及下一步怎么联系。",
       "strategicValue": "B",
       "actionability": "尚未完成本轮逐条核验",
       "alternative": "以官方页面和关键行动链接为准。",
@@ -79,25 +79,23 @@
       ]
     }
   },
-  "locationDisplay": "待确认 · 待确认 · 待确认",
-  "description": "这是一个展示电子游戏、新产品和游戏产业合作机会的大型国际展会。",
+  "locationDisplay": "待确认 · 待确认 · 阿联酋",
+  "description": "这是一个围绕银行、金融科技和支付交流趋势和合作机会的行业峰会。",
   "industry": "",
   "targetCustomers": "",
   "sponsorshipPrice": "未取得2026官方赞助方案及报价。",
   "exhibitorIndustry": "待确认",
   "exhibitorList": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
   "verification": {
-    "progress": "尚未完成本轮逐条核验",
+    "progress": "已完成日期与官网链接专项核验（其余字段待核验）",
     "isFormallyVerified": false,
     "allPassed": false,
-    "verifiedFields": [],
+    "verifiedFields": [
+      "日期",
+      "官方网站",
+      "关键行动链接"
+    ],
     "unresolvedFields": [
-      {
-        "field": "日期",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
       {
         "field": "地点",
         "status": "待本轮核验",
@@ -114,18 +112,6 @@
         "field": "主办方",
         "status": "待本轮核验",
         "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
-      {
-        "field": "官方网站",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
-      {
-        "field": "关键行动链接",
-        "status": "待本轮核验",
-        "reason": "原表链接，待本轮Browser复核。",
         "source": ""
       },
       {
@@ -177,12 +163,25 @@
         "source": ""
       }
     ],
-    "sources": [],
-    "date": "2026-07-29",
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://dubaifintechsummit.com/"
+      },
+      {
+        "label": "官方网站来源",
+        "url": "https://dubaifintechsummit.com/"
+      },
+      {
+        "label": "关键行动链接来源",
+        "url": "https://dubaifintechsummit.com/"
+      }
+    ],
+    "date": "2026-10-13",
     "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
   },
   "aliases": [
-    "gamescom 2026",
-    "gamescom"
+    "Dubai FinTech Summit 2026",
+    "Dubai FinTech Summit"
   ]
 }

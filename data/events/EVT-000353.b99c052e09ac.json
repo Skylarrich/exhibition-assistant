@@ -1,20 +1,20 @@
 {
-  "key": "EVT-000383",
-  "name": "SAAS NORTH 2026",
+  "key": "EVT-000353",
+  "name": "Bengaluru Tech Summit 2026",
   "brands": [
     "SMSBoosting"
   ],
   "featuredBrands": [],
-  "type": "会议",
+  "type": "峰会",
   "format": "现场",
-  "start": "",
-  "end": "",
+  "start": "2026-11-17",
+  "end": "2026-11-19",
   "city": "待确认",
-  "country": "待确认",
+  "country": "印度",
   "venue": "待确认",
   "organizer": "待确认",
-  "officialUrl": "",
-  "actionUrl": "",
+  "officialUrl": "https://www.bengalurutechsummit.com/",
+  "actionUrl": "https://www.bengalurutechsummit.com/",
   "theme": "渠道与技术生态",
   "audience": "待确认",
   "scale": "待本轮官网核验，当前没有可确认的规模数据。",
@@ -23,11 +23,11 @@
   "boothPrice": "未取得2026官方展位设置及报价。",
   "deadlineSummary": "待确认（尚未完成本轮逐条核验）",
   "deadlineDate": "",
-  "businessSources": "",
+  "businessSources": "https://www.bengalurutechsummit.com/",
   "verificationNote": "尚未执行本轮规模专项官网核验，不能写成官网未公布。\\\\\\\\\\\\\\\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
   "confirmationStatus": "待确认",
   "eventStatus": "待公布",
-  "lastVerified": "2026-07-29",
+  "lastVerified": "2026-10-13",
   "analyses": {
     "SMSBoosting": {
       "grade": "B",
@@ -41,7 +41,7 @@
       "primaryPath": "",
       "secondaryPath": "",
       "target": "",
-      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是60分。目标客户和决策者3/5（有一定帮助）; 实际业务机会3/5（有一定帮助）; 渠道和合作伙伴3/5（有一定帮助）; 市场和竞争信息3/5（有一定帮助）; 重点地区和行程安排2/5（相关性有限）; 现场接触和后续行动2/5（相关性有限）。原总分保持不变，没有根据这些分项重新打分。",
+      "relevanceBasis": "这场展会对SMSBoosting的现有综合分是60分。目标客户和决策者3/5（有一定帮助）; 实际业务机会3/5（有一定帮助）; 渠道和合作伙伴3/5（有一定帮助）; 市场和竞争信息3/5（有一定帮助）; 重点地区和行程安排4/5（比较重要）; 现场接触和后续行动2/5（相关性有限）。原总分保持不变，没有根据这些分项重新打分。",
       "confidence": "待确认",
       "decisionDeadline": "",
       "relevanceLevel": "",
@@ -70,7 +70,7 @@
         },
         {
           "label": "重点地区和行程安排",
-          "score": "2"
+          "score": "4"
         },
         {
           "label": "现场接触和后续行动",
@@ -79,25 +79,23 @@
       ]
     }
   },
-  "locationDisplay": "待确认 · 待确认 · 待确认",
-  "description": "这是一个面向SaaS创始人、运营团队和投资人交流增长与经营经验的行业会议。",
+  "locationDisplay": "待确认 · 待确认 · 印度",
+  "description": "这是一个汇集科技企业、创业公司、投资人和政府机构讨论数字创新的印度行业峰会。",
   "industry": "",
   "targetCustomers": "",
   "sponsorshipPrice": "未取得2026官方赞助方案及报价。",
   "exhibitorIndustry": "待确认",
   "exhibitorList": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
   "verification": {
-    "progress": "尚未完成本轮逐条核验",
+    "progress": "已完成日期与官网链接专项核验（其余字段待核验）",
     "isFormallyVerified": false,
     "allPassed": false,
-    "verifiedFields": [],
+    "verifiedFields": [
+      "日期",
+      "官方网站",
+      "关键行动链接"
+    ],
     "unresolvedFields": [
-      {
-        "field": "日期",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
       {
         "field": "地点",
         "status": "待本轮核验",
@@ -114,18 +112,6 @@
         "field": "主办方",
         "status": "待本轮核验",
         "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
-      {
-        "field": "官方网站",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
-      {
-        "field": "关键行动链接",
-        "status": "待本轮核验",
-        "reason": "原表链接，待本轮Browser复核。",
         "source": ""
       },
       {
@@ -177,12 +163,25 @@
         "source": ""
       }
     ],
-    "sources": [],
-    "date": "2026-07-29",
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://www.bengalurutechsummit.com/"
+      },
+      {
+        "label": "官方网站来源",
+        "url": "https://www.bengalurutechsummit.com/"
+      },
+      {
+        "label": "关键行动链接来源",
+        "url": "https://www.bengalurutechsummit.com/"
+      }
+    ],
+    "date": "2026-10-13",
     "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
   },
   "aliases": [
-    "SAAS NORTH 2026",
-    "SAAS NORTH"
+    "Bengaluru Tech Summit 2026",
+    "Bengaluru Tech Summit"
   ]
 }
