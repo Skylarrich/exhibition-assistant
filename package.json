@@ -6,6 +6,8 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "validate": "node scripts/build.mjs --check",
+    "data:export": "node scripts/events-csv.mjs export",
+    "data:import": "node scripts/events-csv.mjs import",
     "format": "prettier --write src/scripts/*.js src/styles/*.css scripts/*.mjs data-source/**/*.json"
   },
   "devDependencies": {

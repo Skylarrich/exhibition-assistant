@@ -7,49 +7,29 @@ import {
   rmSync,
   writeFileSync,
 } from "node:fs";
-import { basename, join, resolve } from "node:path";
+import { join, resolve } from "node:path";
 import { minify } from "terser";
+import { loadEvents, toSummary } from "./event-data.mjs";
 
 const root = resolve(import.meta.dirname, "..");
 const source = (...parts) => join(root, ...parts);
 const digest = (content) =>
   createHash("sha256").update(content).digest("hex").slice(0, 12);
 const text = (path) => readFileSync(path, "utf8");
-const json = (path) => JSON.parse(text(path));
 const checkOnly = process.argv.includes("--check");
 
-const summaryPath = source("data-source", "events-summary.json");
 const eventsDir = source("data-source", "events");
-if (!existsSync(summaryPath) || !existsSync(eventsDir))
+if (!existsSync(eventsDir))
   throw new Error("缺少 data-source 展会数据。");
 
-const summaries = json(summaryPath);
-if (!Array.isArray(summaries) || summaries.length === 0)
-  throw new Error("events-summary.json 必须是非空数组。");
-const sourceEvents = readdirSync(eventsDir)
-  .filter((name) => name.endsWith(".json"))
-  .sort();
-const eventByKey = new Map();
-for (const filename of sourceEvents) {
-  const event = json(source("data-source", "events", filename));
-  if (!event.key || basename(filename, ".json") !== event.key)
-    throw new Error(`详情文件名与 key 不一致：${filename}`);
-  if (eventByKey.has(event.key)) throw new Error(`重复详情 key：${event.key}`);
-  eventByKey.set(event.key, { filename, event });
-}
-if (eventByKey.size !== summaries.length)
-  throw new Error(
-    `摘要 ${summaries.length} 条与详情 ${eventByKey.size} 条不一致。`,
-  );
+const sourceEvents = loadEvents(eventsDir);
+const summaries = sourceEvents.map(({ event }) => toSummary(event));
 
 const buildEvent = new Map();
-for (const summary of summaries) {
-  if (!summary.key || !eventByKey.has(summary.key))
-    throw new Error(`摘要缺少对应详情：${summary.key ?? "(无 key)"}`);
-  const { event } = eventByKey.get(summary.key);
+for (const { event } of sourceEvents) {
   const content = `${JSON.stringify(event, null, 2)}\n`;
-  buildEvent.set(summary.key, {
-    filename: `${summary.key}.${digest(content)}.json`,
+  buildEvent.set(event.key, {
+    filename: `${event.key}.${digest(content)}.json`,
     content,
   });
 }

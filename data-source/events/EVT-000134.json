@@ -1,7 +1,9 @@
 {
   "key": "EVT-000134",
   "name": "Data Centre World Asia 2026",
-  "brands": ["SMSBoosting"],
+  "brands": [
+    "SMSBoosting"
+  ],
   "featuredBrands": [],
   "type": "会议",
   "format": "现场",
@@ -50,12 +52,30 @@
       "actionability": "官网字段核验完成（部分字段官方未公布）",
       "alternative": "以官方页面和关键行动链接为准。",
       "scoreBreakdown": [
-        { "label": "目标客户和决策者", "score": "3" },
-        { "label": "实际业务机会", "score": "3" },
-        { "label": "渠道和合作伙伴", "score": "3" },
-        { "label": "市场和竞争信息", "score": "3" },
-        { "label": "重点地区和行程安排", "score": "4" },
-        { "label": "现场接触和后续行动", "score": "2" }
+        {
+          "label": "目标客户和决策者",
+          "score": "3"
+        },
+        {
+          "label": "实际业务机会",
+          "score": "3"
+        },
+        {
+          "label": "渠道和合作伙伴",
+          "score": "3"
+        },
+        {
+          "label": "市场和竞争信息",
+          "score": "3"
+        },
+        {
+          "label": "重点地区和行程安排",
+          "score": "4"
+        },
+        {
+          "label": "现场接触和后续行动",
+          "score": "2"
+        }
       ]
     }
   },
@@ -173,6 +193,8 @@
     "date": "2026-08-04",
     "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
   },
-  "aliases": ["Data Centre World Asia 2026"],
+  "aliases": [
+    "Data Centre World Asia 2026"
+  ],
   "exhibitorCount": 255
 }
