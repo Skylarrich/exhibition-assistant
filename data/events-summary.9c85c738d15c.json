@@ -15602,8 +15602,8 @@
     "featuredBrands": [],
     "type": "会议",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-04-13",
+    "end": "2026-04-13",
     "city": "待确认",
     "country": "法属波利尼西亚",
     "venue": "待确认",
@@ -15628,7 +15628,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000423.b0839e19d1e7.json"
+    "detailPath": "data/events/EVT-000423.365bf4b17ad0.json"
   },
   {
     "key": "EVT-000424",
@@ -15824,8 +15824,8 @@
     "featuredBrands": [],
     "type": "会议",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-08-25",
+    "end": "2026-08-28",
     "city": "待确认",
     "country": "秘鲁",
     "venue": "待确认",
@@ -15850,7 +15850,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000429.0b59cff22c74.json"
+    "detailPath": "data/events/EVT-000429.e877f4b24a79.json"
   },
   {
     "key": "EVT-000430",
@@ -16083,8 +16083,8 @@
     "featuredBrands": [],
     "type": "会议",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-10-23",
+    "end": "2026-10-25",
     "city": "待确认",
     "country": "中国",
     "venue": "待确认",
@@ -16109,7 +16109,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000436.bb38a82a4132.json"
+    "detailPath": "data/events/EVT-000436.e52a535c218e.json"
   },
   {
     "key": "EVT-000437",
