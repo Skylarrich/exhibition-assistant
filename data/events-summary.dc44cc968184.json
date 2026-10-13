@@ -14269,8 +14269,8 @@
     "featuredBrands": [],
     "type": "会议",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-11-02",
+    "end": "2026-11-05",
     "city": "待确认",
     "country": "待确认",
     "venue": "待确认",
@@ -14295,7 +14295,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000387.672da16cb8a4.json"
+    "detailPath": "data/events/EVT-000387.86d94117bf72.json"
   },
   {
     "key": "EVT-000388",
@@ -14306,8 +14306,8 @@
     "featuredBrands": [],
     "type": "会议",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-11-18",
+    "end": "2026-11-19",
     "city": "待确认",
     "country": "待确认",
     "venue": "待确认",
@@ -14332,7 +14332,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000388.3ad49ba7652c.json"
+    "detailPath": "data/events/EVT-000388.1f1840affc94.json"
   },
   {
     "key": "EVT-000389",
@@ -15491,8 +15491,8 @@
     "featuredBrands": [],
     "type": "会议",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-07-07",
+    "end": "2026-07-07",
     "city": "待确认",
     "country": "新喀里多尼亚",
     "venue": "待确认",
@@ -15517,7 +15517,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000420.8a1719404bb0.json"
+    "detailPath": "data/events/EVT-000420.372dcc78a9c9.json"
   },
   {
     "key": "EVT-000421",
@@ -15565,8 +15565,8 @@
     "featuredBrands": [],
     "type": "会议",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-08-03",
+    "end": "2026-08-10",
     "city": "待确认",
     "country": "新西兰",
     "venue": "待确认",
@@ -15591,7 +15591,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000422.3f19d1312eb1.json"
+    "detailPath": "data/events/EVT-000422.fc258e5c9260.json"
   },
   {
     "key": "EVT-000423",

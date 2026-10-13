@@ -1,18 +1,20 @@
 {
   "key": "EVT-000387",
   "name": "SiGMA World 2026",
-  "brands": ["SMSBoosting"],
+  "brands": [
+    "SMSBoosting"
+  ],
   "featuredBrands": [],
   "type": "会议",
   "format": "现场",
-  "start": "",
-  "end": "",
+  "start": "2026-11-02",
+  "end": "2026-11-05",
   "city": "待确认",
   "country": "待确认",
   "venue": "待确认",
   "organizer": "待确认",
-  "officialUrl": "",
-  "actionUrl": "",
+  "officialUrl": "https://sigma.world/summits/world/",
+  "actionUrl": "https://sigma.world/summits/world/",
   "theme": "目标客户行业—游戏及受监管iGaming",
   "audience": "游戏及iGaming平台的增长、运营、风控和技术角色",
   "scale": "待本轮官网核验，当前没有可确认的规模数据。",
@@ -25,7 +27,7 @@
   "verificationNote": "尚未执行本轮规模专项官网核验，不能写成官网未公布。\\\\\\\\\\\\\\\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
   "confirmationStatus": "待确认",
   "eventStatus": "待公布",
-  "lastVerified": "2026-07-29",
+  "lastVerified": "2026-10-13",
   "analyses": {
     "SMSBoosting": {
       "grade": "B",
@@ -50,12 +52,30 @@
       "actionability": "尚未完成本轮逐条核验",
       "alternative": "以官方页面和关键行动链接为准。",
       "scoreBreakdown": [
-        { "label": "目标客户和决策者", "score": "4" },
-        { "label": "实际业务机会", "score": "4" },
-        { "label": "渠道和合作伙伴", "score": "3" },
-        { "label": "市场和竞争信息", "score": "3" },
-        { "label": "重点地区和行程安排", "score": "2" },
-        { "label": "现场接触和后续行动", "score": "2" }
+        {
+          "label": "目标客户和决策者",
+          "score": "4"
+        },
+        {
+          "label": "实际业务机会",
+          "score": "4"
+        },
+        {
+          "label": "渠道和合作伙伴",
+          "score": "3"
+        },
+        {
+          "label": "市场和竞争信息",
+          "score": "3"
+        },
+        {
+          "label": "重点地区和行程安排",
+          "score": "2"
+        },
+        {
+          "label": "现场接触和后续行动",
+          "score": "2"
+        }
       ]
     }
   },
@@ -67,17 +87,15 @@
   "exhibitorIndustry": "待确认",
   "exhibitorList": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
   "verification": {
-    "progress": "尚未完成本轮逐条核验",
+    "progress": "已完成日期与官网链接专项核验（其余字段待核验）",
     "isFormallyVerified": false,
     "allPassed": false,
-    "verifiedFields": [],
+    "verifiedFields": [
+      "日期",
+      "官方网站",
+      "关键行动链接"
+    ],
     "unresolvedFields": [
-      {
-        "field": "日期",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
       {
         "field": "地点",
         "status": "待本轮核验",
@@ -94,18 +112,6 @@
         "field": "主办方",
         "status": "待本轮核验",
         "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
-      {
-        "field": "官方网站",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
-      {
-        "field": "关键行动链接",
-        "status": "待本轮核验",
-        "reason": "原表链接，待本轮Browser复核。",
         "source": ""
       },
       {
@@ -157,9 +163,25 @@
         "source": ""
       }
     ],
-    "sources": [],
-    "date": "2026-07-29",
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://sigma.world/summits/world/"
+      },
+      {
+        "label": "官方网站",
+        "url": "https://sigma.world/summits/world/"
+      },
+      {
+        "label": "关键行动链接",
+        "url": "https://sigma.world/summits/world/"
+      }
+    ],
+    "date": "2026-10-13",
     "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
   },
-  "aliases": ["SiGMA World 2026", "SiGMA World"]
+  "aliases": [
+    "SiGMA World 2026",
+    "SiGMA World"
+  ]
 }
