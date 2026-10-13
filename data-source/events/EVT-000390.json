@@ -1,18 +1,20 @@
 {
   "key": "EVT-000390",
   "name": "Technology for Marketing 2026",
-  "brands": ["SMSBoosting"],
+  "brands": [
+    "SMSBoosting"
+  ],
   "featuredBrands": [],
   "type": "会议",
   "format": "现场",
-  "start": "",
-  "end": "",
+  "start": "2026-09-23",
+  "end": "2026-09-24",
   "city": "待确认",
   "country": "待确认",
   "venue": "待确认",
   "organizer": "待确认",
-  "officialUrl": "",
-  "actionUrl": "",
+  "officialUrl": "https://www.excel.london/visitor/uploads/visitor/whats-on/ecommerce-expo-2026",
+  "actionUrl": "https://www.excel.london/visitor/uploads/visitor/whats-on/ecommerce-expo-2026",
   "theme": "目标客户行业—电商、营销与客户互动",
   "audience": "电商、零售和客户互动团队",
   "scale": "待本轮官网核验，当前没有可确认的规模数据。",
@@ -21,11 +23,11 @@
   "boothPrice": "未取得2026官方展位设置及报价。",
   "deadlineSummary": "待确认（尚未完成本轮逐条核验）",
   "deadlineDate": "",
-  "businessSources": "",
+  "businessSources": "https://www.excel.london/visitor/uploads/visitor/whats-on/ecommerce-expo-2026",
   "verificationNote": "尚未执行本轮规模专项官网核验，不能写成官网未公布。\\\\\\\\\\\\\\\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
   "confirmationStatus": "待确认",
   "eventStatus": "待公布",
-  "lastVerified": "2026-07-29",
+  "lastVerified": "2026-10-13",
   "analyses": {
     "SMSBoosting": {
       "grade": "B",
@@ -50,12 +52,30 @@
       "actionability": "尚未完成本轮逐条核验",
       "alternative": "以官方页面和关键行动链接为准。",
       "scoreBreakdown": [
-        { "label": "目标客户和决策者", "score": "3" },
-        { "label": "实际业务机会", "score": "3" },
-        { "label": "渠道和合作伙伴", "score": "3" },
-        { "label": "市场和竞争信息", "score": "3" },
-        { "label": "重点地区和行程安排", "score": "2" },
-        { "label": "现场接触和后续行动", "score": "2" }
+        {
+          "label": "目标客户和决策者",
+          "score": "3"
+        },
+        {
+          "label": "实际业务机会",
+          "score": "3"
+        },
+        {
+          "label": "渠道和合作伙伴",
+          "score": "3"
+        },
+        {
+          "label": "市场和竞争信息",
+          "score": "3"
+        },
+        {
+          "label": "重点地区和行程安排",
+          "score": "2"
+        },
+        {
+          "label": "现场接触和后续行动",
+          "score": "2"
+        }
       ]
     }
   },
@@ -67,17 +87,15 @@
   "exhibitorIndustry": "待确认",
   "exhibitorList": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
   "verification": {
-    "progress": "尚未完成本轮逐条核验",
+    "progress": "已完成日期与官网链接专项核验（其余字段待核验）",
     "isFormallyVerified": false,
     "allPassed": false,
-    "verifiedFields": [],
+    "verifiedFields": [
+      "日期",
+      "官方网站",
+      "关键行动链接"
+    ],
     "unresolvedFields": [
-      {
-        "field": "日期",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
       {
         "field": "地点",
         "status": "待本轮核验",
@@ -94,18 +112,6 @@
         "field": "主办方",
         "status": "待本轮核验",
         "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
-      {
-        "field": "官方网站",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": ""
-      },
-      {
-        "field": "关键行动链接",
-        "status": "待本轮核验",
-        "reason": "原表链接，待本轮Browser复核。",
         "source": ""
       },
       {
@@ -157,9 +163,25 @@
         "source": ""
       }
     ],
-    "sources": [],
-    "date": "2026-07-29",
+    "sources": [
+      {
+        "label": "日期来源",
+        "url": "https://www.excel.london/visitor/uploads/visitor/whats-on/ecommerce-expo-2026"
+      },
+      {
+        "label": "官方网站来源",
+        "url": "https://www.excel.london/visitor/uploads/visitor/whats-on/ecommerce-expo-2026"
+      },
+      {
+        "label": "关键行动链接来源",
+        "url": "https://www.excel.london/visitor/uploads/visitor/whats-on/ecommerce-expo-2026"
+      }
+    ],
+    "date": "2026-10-13",
     "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
   },
-  "aliases": ["Technology for Marketing 2026", "Technology for Marketing"]
+  "aliases": [
+    "Technology for Marketing 2026",
+    "Technology for Marketing"
+  ]
 }

@@ -9383,8 +9383,8 @@
     "featuredBrands": [],
     "type": "峰会",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-11-23",
+    "end": "2026-11-23",
     "city": "待确认",
     "country": "英国",
     "venue": "待确认",
@@ -9409,7 +9409,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000255.b66bf6cfec29.json"
+    "detailPath": "data/events/EVT-000255.cca94750714c.json"
   },
   {
     "key": "EVT-000256",
@@ -13233,8 +13233,8 @@
     "featuredBrands": [],
     "type": "展览",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-09-23",
+    "end": "2026-09-24",
     "city": "待确认",
     "country": "待确认",
     "venue": "待确认",
@@ -13259,7 +13259,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000359.c3f98b62087a.json"
+    "detailPath": "data/events/EVT-000359.d39c14a0b58d.json"
   },
   {
     "key": "EVT-000360",
@@ -13492,8 +13492,8 @@
     "featuredBrands": [],
     "type": "峰会",
     "format": "线上",
-    "start": "",
-    "end": "",
+    "start": "2026-09-30",
+    "end": "2026-09-30",
     "city": "待确认",
     "country": "待确认",
     "venue": "待确认",
@@ -13518,7 +13518,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000366.6711a34359b2.json"
+    "detailPath": "data/events/EVT-000366.3b463a8f3d11.json"
   },
   {
     "key": "EVT-000367",
@@ -13899,8 +13899,8 @@
     "featuredBrands": [],
     "type": "会议",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-09-14",
+    "end": "2026-09-15",
     "city": "待确认",
     "country": "待确认",
     "venue": "待确认",
@@ -13925,7 +13925,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000377.57bcfe58a474.json"
+    "detailPath": "data/events/EVT-000377.11b9ee6f0f3d.json"
   },
   {
     "key": "EVT-000378",
@@ -14047,8 +14047,8 @@
     "featuredBrands": [],
     "type": "展览",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-10-13",
+    "end": "2026-10-14",
     "city": "待确认",
     "country": "英国",
     "venue": "待确认",
@@ -14073,7 +14073,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000381.af53ff650faf.json"
+    "detailPath": "data/events/EVT-000381.cb06982f1f60.json"
   },
   {
     "key": "EVT-000382",
@@ -14084,8 +14084,8 @@
     "featuredBrands": [],
     "type": "峰会",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-11-04",
+    "end": "2026-11-04",
     "city": "待确认",
     "country": "中国香港",
     "venue": "待确认",
@@ -14110,7 +14110,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000382.4fff0f4f453d.json"
+    "detailPath": "data/events/EVT-000382.f00820ad0858.json"
   },
   {
     "key": "EVT-000383",
@@ -14158,8 +14158,8 @@
     "featuredBrands": [],
     "type": "会议",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-11-09",
+    "end": "2026-11-10",
     "city": "待确认",
     "country": "待确认",
     "venue": "待确认",
@@ -14184,7 +14184,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000384.61c11405c392.json"
+    "detailPath": "data/events/EVT-000384.cd794c64edc4.json"
   },
   {
     "key": "EVT-000385",
@@ -14380,8 +14380,8 @@
     "featuredBrands": [],
     "type": "会议",
     "format": "现场",
-    "start": "",
-    "end": "",
+    "start": "2026-09-23",
+    "end": "2026-09-24",
     "city": "待确认",
     "country": "待确认",
     "venue": "待确认",
@@ -14406,7 +14406,7 @@
     "verification": {
       "isFormallyVerified": false
     },
-    "detailPath": "data/events/EVT-000390.e9e2f6c3cf2d.json"
+    "detailPath": "data/events/EVT-000390.a595ae7c3ebb.json"
   },
   {
     "key": "EVT-000391",
