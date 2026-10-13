@@ -4223,12 +4223,25 @@
   };
   let showPastEvents = false;
   const todayKey = () => new Date().toISOString().slice(0, 10);
-  const isPastEvent = (event) => Boolean(event?.end && /^\d{4}-\d{2}-\d{2}$/.test(event.end) && event.end < todayKey());
-  const sortByUpcomingDate = (events) => [...events].sort((left, right) => {
-    const leftDate = /^\d{4}-\d{2}-\d{2}$/.test(left.start || "") ? left.start : "9999-12-31";
-    const rightDate = /^\d{4}-\d{2}-\d{2}$/.test(right.start || "") ? right.start : "9999-12-31";
-    return leftDate.localeCompare(rightDate) || left.name.localeCompare(right.name, "zh-Hans-CN");
-  });
+  const isPastEvent = (event) =>
+    Boolean(
+      event?.end &&
+        /^\d{4}-\d{2}-\d{2}$/.test(event.end) &&
+        event.end < todayKey(),
+    );
+  const sortByUpcomingDate = (events) =>
+    [...events].sort((left, right) => {
+      const leftDate = /^\d{4}-\d{2}-\d{2}$/.test(left.start || "")
+        ? left.start
+        : "9999-12-31";
+      const rightDate = /^\d{4}-\d{2}-\d{2}$/.test(right.start || "")
+        ? right.start
+        : "9999-12-31";
+      return (
+        leftDate.localeCompare(rightDate) ||
+        left.name.localeCompare(right.name, "zh-Hans-CN")
+      );
+    });
   const getCurrentFilters = () => {
     let hook = getAppFiber()?.memoizedState;
     for (let index = 0; hook && index < 3; index += 1) hook = hook.next;
@@ -4578,6 +4591,82 @@
       (key) => [key, new Set()],
     ),
   );
+  const countryLabels = {
+    Australia: "澳大利亚",
+    Colombia: "哥伦比亚",
+    "Costa Rica（哥斯达黎加）": "哥斯达黎加",
+    France: "法国",
+    "French Guiana（法属圭亚那）": "法属圭亚那",
+    Germany: "德国",
+    Grenada: "格林纳达",
+    Guatemala: "危地马拉",
+    India: "印度",
+    Malaysia: "马来西亚",
+    Mexico: "墨西哥",
+    México: "墨西哥",
+    "New Zealand": "新西兰",
+    Oman: "阿曼",
+    Panamá: "巴拿马",
+    Philippines: "菲律宾",
+    Singapore: "新加坡",
+    "Singapore（新加坡）": "新加坡",
+    Thailand: "泰国",
+    "United States": "美国",
+    "United States（美国）": "美国",
+    "United States（Florida 州）": "美国（佛罗里达州）",
+    "United States（Georgia 州，美国）": "美国（佐治亚州）",
+    "United States（North Carolina 州）": "美国（北卡罗来纳州）",
+    "菲律宾（Philippines）": "菲律宾",
+    "荷兰（The Netherlands）": "荷兰",
+    "新西兰（New Zealand）": "新西兰",
+    "美国（United States）": "美国",
+    "全球/线上（主办方 Game Devs of Color, Inc. 为美国 501(c)(3) 非营利组织）":
+      "线上活动",
+  };
+  const cityLabels = {
+    Atlanta: "亚特兰大",
+    Auckland: "奥克兰",
+    "Auckland（Manukau）": "奥克兰（马努考）",
+    Bangkok: "曼谷",
+    Cancún: "坎昆",
+    "Cape Schanck（Mornington Peninsula, Victoria）":
+      "申克角（维多利亚州莫宁顿半岛）",
+    "Carlsbad（卡尔斯巴德）": "卡尔斯巴德",
+    Cartagena: "卡塔赫纳",
+    "Cartagena de Indias": "印第亚斯卡塔赫纳",
+    Cayenne: "卡宴",
+    "Cebu City": "宿务市",
+    Christchurch: "基督城",
+    "Ciudad de Guatemala": "危地马拉城",
+    "Ciudad de México (CDMX)": "墨西哥城",
+    "Ciudad de Panamá": "巴拿马城",
+    "Cologne（科隆）": "科隆",
+    "Cologne（Köln）": "科隆",
+    Enschede: "恩斯赫德",
+    "Houston（休斯顿）": "休斯顿",
+    "Kuala Lumpur": "吉隆坡",
+    Melbourne: "墨尔本",
+    Miami: "迈阿密",
+    Mumbai: "孟买",
+    Muscat: "马斯喀特",
+    Paris: "巴黎",
+    Raleigh: "罗利",
+    Rennes: "雷恩",
+    "Saint George's": "圣乔治",
+    "San Diego": "圣迭戈",
+    "San José": "圣何塞",
+    Singapore: "新加坡",
+    "Singapore（新加坡）": "新加坡",
+    Sydney: "悉尼",
+    "Sydney, NSW": "悉尼（新南威尔士州）",
+    "Tagum City": "塔古姆市",
+    Tampa: "坦帕",
+    "Washington D.C.": "华盛顿哥伦比亚特区",
+  };
+  const displayCountry = (value) => countryLabels[value] || value || "";
+  const displayCity = (value) => cityLabels[value] || value || "";
+  const isFilterableLocation = (value) =>
+    Boolean(value) && !/(未核验|待确认|无法核验|官方尚未公布)/.test(value);
   const continentCountries = {
     亚洲: [
       "中国",
@@ -4658,9 +4747,17 @@
   const getContinent = (country) =>
     /线上|online/i.test(country || "")
       ? "线上活动"
-      : Object.entries(continentCountries).find(([, countries]) =>
-          countries.includes(country),
-        )?.[0] || "地区待确认";
+      : (() => {
+          const normalizedCountry = displayCountry(country).replace(
+            /（.*）$/,
+            "",
+          );
+          return (
+            Object.entries(continentCountries).find(([, countries]) =>
+              countries.includes(normalizedCountry),
+            )?.[0] || ""
+          );
+        })();
   const multiDefinitions = [
     {
       key: "brand",
@@ -4674,13 +4771,13 @@
     },
     {
       key: "country",
-      label: "国家／地区",
-      values: (events) => events.map((event) => event.country),
+      label: "国家",
+      values: (events) => events.map((event) => displayCountry(event.country)),
     },
     {
       key: "city",
       label: "城市",
-      values: (events) => events.map((event) => event.city),
+      values: (events) => events.map((event) => displayCity(event.city)),
     },
     {
       key: "month",
@@ -4702,8 +4799,8 @@
   const eventMatchesValue = (event, key, value) => {
     if (key === "brand") return event.brands?.includes(value);
     if (key === "continent") return getContinent(event.country) === value;
-    if (key === "country") return event.country === value;
-    if (key === "city") return event.city === value;
+    if (key === "country") return displayCountry(event.country) === value;
+    if (key === "city") return displayCity(event.city) === value;
     if (key === "month")
       return event.start?.slice(0, 7).replace("-", ".") === value;
     if (key === "type") return event.type === value;
@@ -4725,6 +4822,19 @@
         );
       }),
     );
+  const optionCount = (events, key, value) =>
+    events.filter((event) =>
+      multiDefinitions.every(({ key: otherKey }) => {
+        const selected = new Set(multiSelections[otherKey]);
+        if (otherKey === key) selected.add(value);
+        return (
+          !selected.size ||
+          [...selected].some((selectedValue) =>
+            eventMatchesValue(event, otherKey, selectedValue),
+          )
+        );
+      }),
+    ).length;
   const multiSignature = () =>
     multiDefinitions
       .map(({ key }) => `${key}:${[...multiSelections[key]].sort().join(",")}`)
@@ -4761,6 +4871,14 @@
       const statusText = selected.size ? `已选 ${selected.size} 项` : "全部";
       if (status && status.textContent !== statusText)
         status.textContent = statusText;
+      const events = getCurrentResultEvents();
+      details?.querySelectorAll(".multiOption").forEach((option) => {
+        const amount = option.querySelector("small");
+        const value = option.dataset.value;
+        if (!amount || !value) return;
+        const count = optionCount(events, key, value);
+        if (amount.textContent !== String(count)) amount.textContent = count;
+      });
     });
     const clear = root?.querySelector(".multiClear");
     const clearHidden = !hasMultiFilters();
@@ -4788,12 +4906,13 @@
       summary.innerHTML = `<span>${definition.label}</span><b>全部</b>`;
       const options = document.createElement("div");
       options.className = "multiOptions";
-      uniqueSorted(definition.values(events)).forEach((value) => {
-        const count = events.filter((event) =>
-          eventMatchesValue(event, definition.key, value),
-        ).length;
+      uniqueSorted(
+        definition.values(events).filter(isFilterableLocation),
+      ).forEach((value) => {
+        const count = optionCount(events, definition.key, value);
         const label = document.createElement("label");
         label.className = "multiOption";
+        label.dataset.value = value;
         const input = document.createElement("input");
         input.type = "checkbox";
         input.value = value;
@@ -4889,9 +5008,13 @@
       enhancePeopleCards();
       return;
     }
-    const events = sortPeopleEvents(sortByUpcomingDate(
-      applyMultiFilters(getCurrentResultEvents()).filter((event) => showPastEvents || !isPastEvent(event)),
-    ));
+    const events = sortPeopleEvents(
+      sortByUpcomingDate(
+        applyMultiFilters(getCurrentResultEvents()).filter(
+          (event) => showPastEvents || !isPastEvent(event),
+        ),
+      ),
+    );
     const pageCount = Math.max(1, Math.ceil(events.length / peoplePageSize));
     peoplePage = Math.min(peoplePage, pageCount);
     const pageEvents = events.slice(
@@ -4899,7 +5022,9 @@
       peoplePage * peoplePageSize,
     );
     const signature =
-      multiSignature() + "|" + showPastEvents +
+      multiSignature() +
+      "|" +
+      showPastEvents +
       "|" +
       peopleSortMode +
       "|" +
@@ -4946,8 +5071,8 @@
           ? `${event.start} 至 ${event.end}`
           : event.start;
       card.querySelector(".eventFacts span:nth-child(2)").textContent = [
-        event.city,
-        event.country,
+        displayCity(event.city),
+        displayCountry(event.country),
       ]
         .filter(Boolean)
         .join("，");
