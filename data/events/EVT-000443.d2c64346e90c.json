@@ -1,20 +1,20 @@
 {
-  "key": "EVT-000439",
-  "name": "PITA Telecommunications CFO Conference and Finance Training 2026",
+  "key": "EVT-000443",
+  "name": "Think Again | Auckland | November 2026",
   "brands": [
     "SMSBoosting"
   ],
   "featuredBrands": [],
   "type": "会议",
   "format": "现场",
-  "start": "",
-  "end": "",
+  "start": "2026-11-17",
+  "end": "2026-11-17",
   "city": "待确认",
-  "country": "斐济",
+  "country": "新西兰",
   "venue": "待确认",
   "organizer": "待确认",
-  "officialUrl": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/",
-  "actionUrl": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/",
+  "officialUrl": "https://marketing.org.nz/up-coming-events",
+  "actionUrl": "https://marketing.org.nz/up-coming-events",
   "theme": "沿用旧表线索，按V1.1重新判断",
   "audience": "待补充官方受众、展商或角色证据",
   "scale": "待本轮官网核验，当前没有可确认的规模数据。",
@@ -23,11 +23,11 @@
   "boothPrice": "当前资料未证明设置独立展位；如为会议赞助展示或会面桌，价格需另行确认。",
   "deadlineSummary": "待确认（尚未完成本轮逐条核验）",
   "deadlineDate": "",
-  "businessSources": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/",
+  "businessSources": "https://marketing.org.nz/think-again-akl-november-2026",
   "verificationNote": "尚未执行本轮规模专项官网核验，不能写成官网未公布。\\\\\\\\\\\\\\\\n主办法律主体；场馆；费用与截止；目标名单与接触机制",
   "confirmationStatus": "部分确认",
   "eventStatus": "计划举办",
-  "lastVerified": "2026-07-29",
+  "lastVerified": "2026-10-13",
   "analyses": {
     "SMSBoosting": {
       "grade": "C",
@@ -46,7 +46,7 @@
       "decisionDeadline": "",
       "relevanceLevel": "",
       "targetEvidence": "",
-      "contactMechanism": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/",
+      "contactMechanism": "https://marketing.org.nz/think-again-akl-november-2026",
       "verifiableOutcome": "目前不建议付款或安排出差。官网目前还没有足够的参会企业和人员信息，无法确认现场是否有适合SMSBoosting的客户。先拿到当前届名单，再决定是否参加。",
       "strategicValue": "C",
       "actionability": "尚未完成本轮逐条核验",
@@ -79,78 +79,64 @@
       ]
     }
   },
-  "locationDisplay": "待确认 · 待确认 · 斐济",
-  "description": "这是面向太平洋电信企业财务负责人的会议和培训活动，主要交流财务管理与经营问题。",
+  "locationDisplay": "待确认 · 待确认 · 新西兰",
+  "description": "这是名为Think Again的奥克兰活动，但主题、形式和参会对象仍待官网确认。",
   "industry": "",
   "targetCustomers": "",
   "sponsorshipPrice": "本轮未取得2026官方固定赞助报价；可能为定制方案，但须以主办方书面回复确认。",
   "exhibitorIndustry": "待确认",
   "exhibitorList": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
   "verification": {
-    "progress": "尚未完成本轮逐条核验",
+    "progress": "已完成日期与官网链接专项核验（其余字段待核验）",
     "isFormallyVerified": false,
     "allPassed": false,
-    "verifiedFields": [],
+    "verifiedFields": [
+      "日期",
+      "官方网站",
+      "关键行动链接"
+    ],
     "unresolvedFields": [
-      {
-        "field": "日期",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
-      },
       {
         "field": "地点",
         "status": "待本轮核验",
         "reason": "原表值，仅作本轮核验起点。",
-        "source": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
+        "source": "https://marketing.org.nz/think-again-akl-november-2026"
       },
       {
         "field": "规模",
         "status": "待本轮核验",
         "reason": "尚未执行本轮规模专项官网核验，不能写成官网未公布。",
-        "source": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
+        "source": "https://marketing.org.nz/think-again-akl-november-2026"
       },
       {
         "field": "主办方",
         "status": "待本轮核验",
         "reason": "原表值，仅作本轮核验起点。",
-        "source": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
-      },
-      {
-        "field": "官方网站",
-        "status": "待本轮核验",
-        "reason": "原表值，仅作本轮核验起点。",
-        "source": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
-      },
-      {
-        "field": "关键行动链接",
-        "status": "待本轮核验",
-        "reason": "原表链接，待本轮Browser复核。",
-        "source": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
+        "source": "https://marketing.org.nz/think-again-akl-november-2026"
       },
       {
         "field": "门票/注册费",
         "status": "待本轮核验",
         "reason": "原表费用内容仅作本轮核验起点。",
-        "source": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
+        "source": "https://marketing.org.nz/think-again-akl-november-2026"
       },
       {
         "field": "展位费用",
         "status": "待本轮核验",
         "reason": "原表费用内容仅作本轮核验起点。",
-        "source": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
+        "source": "https://marketing.org.nz/think-again-akl-november-2026"
       },
       {
         "field": "赞助费用",
         "status": "待本轮核验",
         "reason": "原表费用内容仅作本轮核验起点。",
-        "source": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
+        "source": "https://marketing.org.nz/think-again-akl-november-2026"
       },
       {
         "field": "参展商名单",
         "status": "待本轮核验",
         "reason": "截至当前精简版生成时，尚未完成本轮官网名单核验。",
-        "source": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
+        "source": "https://marketing.org.nz/think-again-akl-november-2026"
       },
       {
         "field": "活动行业",
@@ -180,14 +166,22 @@
     "sources": [
       {
         "label": "日期来源",
-        "url": "https://www.pita.org.fj/events/pita-strategy-forum-2026-2/"
+        "url": "https://marketing.org.nz/up-coming-events"
+      },
+      {
+        "label": "官方网站",
+        "url": "https://marketing.org.nz/up-coming-events"
+      },
+      {
+        "label": "关键行动链接",
+        "url": "https://marketing.org.nz/up-coming-events"
       }
     ],
-    "date": "2026-07-29",
+    "date": "2026-10-13",
     "disclaimer": "校验结果基于所列来源在对应校验日期可公开读取的信息。主办方可能后续调整时间、地点、价格、报名规则或名单，实际决策前请再次查看官方网站。"
   },
   "aliases": [
-    "PITA Telecommunications CFO Conference and Finance Training 2026",
-    "PITA Telecommunications CFO Conference and Finance Training"
+    "Think Again | Auckland | November 2026",
+    "Think Again | Auckland | November"
   ]
 }
