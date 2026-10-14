@@ -1,0 +1,19 @@
+{
+  "key": "EVT-000010",
+  "brandName": "SMSBoosting",
+  "month": "2026-10",
+  "start": "2026-10-27",
+  "end": "2026-10-29",
+  "name": "SWITCH 2026",
+  "officialUrl": "https://www.switchsg.org/",
+  "tenTimesUrl": "https://10times.com/switchsg",
+  "country": "新加坡",
+  "city": "新加坡",
+  "industry": "科技创新与创业",
+  "targetCustomers": "SaaS平台、初创企业、科技企业的增长及客户运营负责人。",
+  "description": "新加坡科技创新周（SWITCH），汇聚深科技、创业、企业创新与投资活动，重点展示AI、机器人、量子技术及新兴科技。",
+  "fee": "观展：SWITCH Attendee Pass免费登记；参展/合作报价需联系主办方。",
+  "exhibitorIndustry": "AI、深科技、企业软件、机器人、量子技术、初创科技",
+  "exhibitorCount": 400,
+  "visitorCount": 25000
+}

@@ -1,0 +1,19 @@
+{
+  "key": "EVT-000063",
+  "brandName": "GoModelHub",
+  "month": "2026-11",
+  "start": "2026-11-30",
+  "end": "2026-12-04",
+  "name": "AWS re:Invent 2026",
+  "officialUrl": "https://aws.amazon.com/events/reinvent/",
+  "tenTimesUrl": "https://10times.com/aws-re-invent",
+  "country": "美国",
+  "city": "拉斯维加斯",
+  "industry": "云计算与数据中心",
+  "targetCustomers": "AWS云生态的AI工程师、SaaS开发团队、AI Agent产品负责人、架构师和企业技术采购团队。",
+  "description": "Amazon Web Services在拉斯维加斯举办的云与AI技术大会，提供架构课程、实验室、云服务与生成式AI应用演示和合作伙伴展区。",
+  "fee": "会议通票：USD 2,499；同笔交易购买10张及以上享10%折扣；re:Play单项嘉宾票USD350。参展/赞助需与AWS招商沟通，未见固定公开价格。",
+  "exhibitorIndustry": "云计算、生成式AI、数据分析、云安全、开发者工具、企业软件、系统集成",
+  "exhibitorCount": 450,
+  "visitorCount": ""
+}

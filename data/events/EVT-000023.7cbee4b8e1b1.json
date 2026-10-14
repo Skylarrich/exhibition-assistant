@@ -1,0 +1,19 @@
+{
+  "key": "EVT-000023",
+  "brandName": "SMSBoosting",
+  "month": "2026-11",
+  "start": "2026-11-17",
+  "end": "2026-11-19",
+  "name": "Africa Tech Festival 2026",
+  "officialUrl": "https://africatechfestival.com/",
+  "tenTimesUrl": "https://10times.com/africa-com/visitors",
+  "country": "南非",
+  "city": "开普敦",
+  "industry": "通信与网络基础设施",
+  "targetCustomers": "非洲电信运营商、移动数字服务商、通信供应商及企业客户运营负责人。",
+  "description": "非洲科技与电信产业会议及展览，聚焦通信基础设施、数字化、AI、数据中心、网络安全与创业生态。",
+  "fee": "观展：官网按Standard/Premium/Platinum等通行证分级，票价需在注册流程查询；参展/赞助索取手册与报价。",
+  "exhibitorIndustry": "电信、通信基础设施、云与数据中心、AI、网络安全",
+  "exhibitorCount": 300,
+  "visitorCount": 12000
+}
